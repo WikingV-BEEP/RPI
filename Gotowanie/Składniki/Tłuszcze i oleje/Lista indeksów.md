@@ -13,7 +13,6 @@ Indeks tłuszczów i olejów. Ten folder służy do trzymania masła, margaryny,
 ## Tłuszcze podstawowe
 
 - [[Margaryna]]
-- [[Margarynę]]
 - [[masło]]
 - [[olej]]
 - [[oliwa]]
@@ -36,6 +35,5 @@ Indeks tłuszczów i olejów. Ten folder służy do trzymania masła, margaryny,
 
 ## Najbliższe porządki
 
-- Sprawdzić duplikat albo odmianę nazwy: `Margaryna.md` i `Margarynę.md`.
 - Oddzielić tłuszcze bazowe od aromatów, jeśli folder dalej urośnie.
 - Dodać informacje o zastosowaniu: smażenie, pieczenie, kremy, kruche ciasta.
