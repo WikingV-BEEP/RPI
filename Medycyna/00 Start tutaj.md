@@ -6,18 +6,33 @@ tags:
 
 ## Zakres katalogu
 
-Ten katalog ma zbierać wiedzę medyczną w kilku osobnych porządkach: anatomia, dermatologia, farmakologia, medycyna estetyczna, system ochrony zdrowia oraz źródła.
+Ten katalog zbiera wiedzę medyczną w kilku osobnych porządkach: anatomia, dermatologia, farmakologia, medycyna estetyczna, system ochrony zdrowia oraz źródła.
 
 ## Główne działy
 
-| Dział                                            | Do czego służy                    |                                                                   |
-| ------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------- |
-| [[Anatomia]]                                     | budowa ciała i układów            |                                                                   |
-| [[Dermatologia/00 Start tutaj                    | Dermatologia]]                    | skóra, choroby skóry, substancje i leki dermatologiczne           |
-| [[Farmakologia/00 Start tutaj                    | Farmakologia]]                    | substancje czynne, grupy leków, działania niepożądane, interakcje |
-| [[Medycyna estetyczna/Medycyna estetyczna        | Medycyna estetyczna]]             | zabiegi, preparaty, anatomia zabiegowa, powikłania                |
-| [[System ochrony zdrowia w Polsce/00 Start tutaj | System ochrony zdrowia w Polsce]] | NFZ, skierowania, lekarze, prawa pacjenta                         |
-| [[Książki]]                                      | źródła i materiały edukacyjne     |                                                                   |
+### [[Anatomia]]
+
+Budowa ciała i układów.
+
+### [[Dermatologia/00 Start tutaj]]
+
+Skóra, choroby skóry, substancje czynne i leki dermatologiczne.
+
+### [[Farmakologia/00 Start tutaj]]
+
+Substancje czynne, grupy leków, działania niepożądane i interakcje.
+
+### [[Medycyna estetyczna/Medycyna estetyczna]]
+
+Zabiegi, preparaty, anatomia zabiegowa i powikłania.
+
+### [[System ochrony zdrowia w Polsce/00 Start tutaj]]
+
+NFZ, skierowania, lekarze, specjaliści i prawa pacjenta.
+
+### [[Książki]]
+
+Źródła i materiały edukacyjne.
 
 ## Zasada porządkowania
 
