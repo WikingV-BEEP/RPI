@@ -3,27 +3,76 @@ tags:
   - suplementacja
   - trening
   - dieta
+  - weglowodany
 ---
 
-## Rola
+## W skrócie
 
-Szybkie węglowodany okołotreningowe. To bardziej narzędzie żywieniowe niż typowy suplement zdrowotny.
+[[Vitargo]] to szybko dostępne węglowodany w formie proszku. To nie jest suplement budujący mięśnie sam z siebie. To po prostu narzędzie do dostarczenia energii, szczególnie przy dłuższym albo bardzo intensywnym wysiłku.
+
+Najważniejsza zasada: **Vitargo to kalorie. Na redukcji trzeba mieć konkretny powód, żeby je dodawać**.
+
+## Co to robi w organizmie
+
+- dostarcza węglowodanów,
+- pomaga uzupełniać glikogen,
+- może wspierać dłuższy wysiłek,
+- może pomóc, gdy trening wypada daleko od posiłku,
+- nie zastępuje normalnego planu żywienia.
 
 ## Kiedy ma sens
 
 - długi trening,
 - bardzo ciężka jednostka,
-- problem z energią na treningu,
-- gdy celowo potrzebuję szybkich węglowodanów.
+- dwa treningi jednego dnia,
+- długie cardio,
+- brak możliwości zjedzenia posiłku,
+- celowe ładowanie węglowodanów,
+- masa lub utrzymanie wydolności, nie ślepa redukcja.
 
-## Co sprawdzić
+## Kiedy sens jest mały
 
-| Pytanie | Odpowiedź |
+- krótki trening siłowy,
+- redukcja z problemem trzymania kalorii,
+- jeśli przed treningiem mogę zjeść normalny posiłek,
+- jeśli cardio jest spokojne i krótkie,
+- jeśli używam go, bo „sportowy proszek = lepszy efekt”.
+
+## Vitargo a normalne jedzenie
+
+| Opcja | Kiedy lepsza |
 |---|---|
-| Czy trening jest na tyle długi, że tego wymaga? | do uzupełnienia |
-| Czy nie wystarczy normalny posiłek? | do uzupełnienia |
-| Czy pasuje do redukcji? | do uzupełnienia |
-| Ile kalorii dokładam? | do uzupełnienia |
+| ryż / ziemniaki / pieczywo | normalny posiłek przed treningiem |
+| owoc | lekka energia przed krótszym treningiem |
+| izotonik | dłuższy wysiłek i potliwość |
+| [[Vitargo]] | gdy potrzebuję łatwo wypić węgle i nie obciążać żołądka |
+
+## Jak czytać etykietę
+
+| Parametr | Co sprawdzić |
+|---|---|
+| węglowodany w porcji | realne kalorie |
+| kcal w porcji | czy mieści się w bilansie |
+| dodatki | elektrolity, aromaty, słodziki |
+| porcja producenta | często większa niż potrzebuję |
+
+## Na co uważać
+
+- łatwe dokładanie kalorii,
+- skoki głodu po płynnych węglowodanach,
+- używanie przy niskiej aktywności,
+- problemy żołądkowe,
+- mylenie energii z regeneracją.
+
+## Jak oceniać efekt
+
+| Obszar | Co obserwować |
+|---|---|
+| Energia treningowa | czy faktycznie mniej odcina |
+| Masa ciała | czy nie przeszkadza redukcji |
+| Głód | czy nie zwiększa apetytu |
+| Trening | czy poprawia objętość / tempo |
+| Bilans kalorii | czy jest miejsce na te węgle |
 
 ## Ocena
 
@@ -31,8 +80,11 @@ Szybkie węglowodany okołotreningowe. To bardziej narzędzie żywieniowe niż t
 |---|---|
 | Sens ogólny | C |
 | Priorytet | sytuacyjny |
-| Ryzyko błędu | dokładanie kalorii bez potrzeby |
+| Koszt / efekt | zwykle słabszy niż normalne jedzenie |
+| Ryzyko marketingu | średnie / wysokie |
 
 ## Decyzja
 
-Nie jako baza. Tylko przy konkretnym celu treningowym albo bardzo długim wysiłku.
+Nie jako baza. Tylko wtedy, gdy jest konkretny problem z energią na długim lub ciężkim treningu.
+
+%% Źródła do sprawdzenia: NIH ODS — suplementy dla wydolności sportowej; podstawy żywienia sportowego. %%
