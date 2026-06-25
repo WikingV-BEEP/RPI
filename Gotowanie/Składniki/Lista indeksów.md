@@ -15,7 +15,7 @@ Indeks składników spożywczych. Ten folder służy do trzymania pojedynczych p
 
 Składniki trudne do jednoznacznego przypisania, dodatki techniczne i produkty pomocnicze.
 
-### [[Nabiał]]
+### [[Nabiał/Lista indeksów|Nabiał]]
 
 Mleko, śmietana, sery, jogurty, jajka, budynie i produkty mleczne.
 
@@ -27,7 +27,7 @@ Warzywa, owoce, zioła świeże, bakalie i składniki roślinne.
 
 Mięso, wędliny, ryby i inne produkty białkowe pochodzenia zwierzęcego.
 
-### [[Produkty zbożowe]]
+### [[Produkty zbożowe/Lista indeksów|Produkty zbożowe]]
 
 Mąki, kasze, ryż, makarony, pieczywo i produkty zbożowe.
 
@@ -39,18 +39,22 @@ Przyprawy, zioła suszone, aromaty, proszki, dodatki smakowe i spulchniacze.
 
 Gotowe i domowe sosy, dipy oraz dodatki płynne.
 
-### [[Słodziki i słodycze]]
+### [[Słodziki i słodycze/Lista indeksów|Słodziki i słodycze]]
 
 Cukier, miód, czekolada, słodziki i składniki słodkie.
 
-### [[Tłuszcze i oleje]]
+### [[Tłuszcze i oleje/Lista indeksów|Tłuszcze i oleje]]
 
 Masło, oleje, smalec, margaryna i inne tłuszcze.
 
 ## Indeksy podrzędne
 
+- [[Nabiał/Lista indeksów]]
 - [[Owoce i warzywa/Lista indeksów]]
+- [[Produkty zbożowe/Lista indeksów]]
 - [[Przyprawy i dodatki/Lista indeksów]]
+- [[Słodziki i słodycze/Lista indeksów]]
+- [[Tłuszcze i oleje/Lista indeksów]]
 
 ## Zasada porządkowania
 
@@ -62,5 +66,5 @@ Masło, oleje, smalec, margaryna i inne tłuszcze.
 ## Najbliższe porządki
 
 - Ujednolicić wielkość liter w nazwach składników.
-- Dodać indeks dla `Nabiał`, jeśli folder będzie dalej rósł.
-- Dodać indeks dla `Produkty zbożowe`, jeśli folder będzie dalej rósł.
+- Dodać indeks dla `Produkty mięsne`, jeśli folder będzie dalej rósł.
+- Sprawdzić potencjalne duplikaty i odmiany nazw, np. `Margaryna` / `Margarynę`.
