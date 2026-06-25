@@ -35,3 +35,8 @@ Czas: około 20 minut
 - 80 g [[skyr naturalny|skyru naturalnego]] albo [[jogurt grecki light|jogurtu greckiego light]]
 - 10 g [[musztarda|musztardy]]
 - 10–15 ml [[sok z cytryny|soku z cytryny]]
+- 1 mały ząbek [[czosnek|czosnku]]
+- [[sól|sól]]
+- [[pieprz czarny|pieprz czarny]]
+- [[papryka wędzona|papryka wędzona]]
+- opcjonalnie: 5 g [[oliwa z oliwek|oliwy z oliwek]]
