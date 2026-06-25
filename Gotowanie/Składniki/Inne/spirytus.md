@@ -1,9 +1,12 @@
 ---
 tags:
-  - gotowanie/skladniki
-  - gotowanie/skladniki/inne
   - do-ostroznego-uzycia
   - dodatki
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/inne
+  - gotowanie/skladniki
+  - gotowanie/skladniki/inne
 ---
 
 Spirytus to wysokoprocentowy składnik używany w kuchni w bardzo małych ilościach, głównie jako dodatek technologiczny lub aromatyczny. W przepisach domowych może pojawiać się przy wypiekach, deserach i niektórych przetworach, ale wymaga ostrożnego obchodzenia się.

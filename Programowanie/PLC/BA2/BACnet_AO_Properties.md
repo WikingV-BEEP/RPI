@@ -1,12 +1,12 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - analog-output
   - bacnet
   - beckhoff
   - plc
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
   - wlasciwosci
 ---
 

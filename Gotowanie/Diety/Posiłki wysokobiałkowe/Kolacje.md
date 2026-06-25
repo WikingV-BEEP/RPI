@@ -1,6 +1,8 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/diety
+  - gotowanie/diety/posiki-wysokobiakowe
   - gotowanie/diety/posilki-wysokobialkowe
 ---
 [[Jajecznica z szynką i serem]]

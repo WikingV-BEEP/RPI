@@ -3,6 +3,10 @@ tags:
   - zdrowie-uroda-i-silownia/trening
   - zdrowie-uroda-i-silownia/trening/silownia
   - zdrowie-uroda-i-silownia/trening/silownia/ramiona
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/trening
+  - zdrowie-uroda-i-siownia/trening/siownia
+  - zdrowie-uroda-i-siownia/trening/siownia/ramiona
 ---
 ## Anatomia mięśni nóg i pośladków
 

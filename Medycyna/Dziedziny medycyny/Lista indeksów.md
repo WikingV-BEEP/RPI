@@ -1,9 +1,9 @@
 ---
 tags:
-  - medycyna/dziedziny-medycyny
-  - indeks
   - dziedziny-medycyny
+  - indeks
   - medycyna
+  - medycyna/dziedziny-medycyny
 ---
 
 ## Zakres działu

@@ -1,9 +1,10 @@
 ---
 tags:
-  - automatyka-i-robotyka/elektryka
-  - indeks
   - automatyka
+  - automatyka-i-robotyka
+  - automatyka-i-robotyka/elektryka
   - elektryka
+  - indeks
 ---
 
 ## Zakres folderu

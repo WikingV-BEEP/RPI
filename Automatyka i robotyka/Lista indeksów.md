@@ -1,8 +1,8 @@
 ---
 tags:
+  - automatyka
   - automatyka-i-robotyka
   - indeks
-  - automatyka
   - robotyka
 ---
 

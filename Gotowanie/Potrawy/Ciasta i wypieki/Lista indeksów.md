@@ -1,10 +1,10 @@
 ---
 tags:
+  - ciasta-i-wypieki
+  - gotowanie
   - gotowanie/potrawy
   - gotowanie/potrawy/ciasta-i-wypieki
   - indeks
-  - ciasta-i-wypieki
-  - gotowanie
   - potrawy
 ---
 

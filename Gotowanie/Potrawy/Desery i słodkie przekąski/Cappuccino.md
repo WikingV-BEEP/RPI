@@ -1,7 +1,9 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/potrawy
   - gotowanie/potrawy/desery-i-slodkie-przekaski
+  - gotowanie/potrawy/desery-i-sodkie-przekaski
 ---
 ## Ciasto dolne
 

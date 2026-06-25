@@ -1,9 +1,9 @@
 ---
 tags:
-  - medycyna/farmakologia
-  - indeks
   - farmakologia
+  - indeks
   - medycyna
+  - medycyna/farmakologia
 ---
 
 ## Zakres działu

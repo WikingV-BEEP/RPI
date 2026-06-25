@@ -1,7 +1,7 @@
 ---
 tags:
-  - ksiazki
   - indeks
+  - ksiazki
 ---
 
 ## Zakres folderu

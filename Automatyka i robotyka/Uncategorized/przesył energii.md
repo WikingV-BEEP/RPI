@@ -1,7 +1,8 @@
 ---
 tags:
-  - automatyka-i-robotyka/uncategorized
+  - automatyka-i-robotyka
   - automatyka-i-robotyka/elektryka
+  - automatyka-i-robotyka/uncategorized
   - energetyka
   - terminologia
 ---

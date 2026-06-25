@@ -1,8 +1,11 @@
 ---
 tags:
+  - bialko
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/nabia
   - gotowanie/skladniki
   - gotowanie/skladniki/nabial
-  - bialko
   - nabial
 ---
 

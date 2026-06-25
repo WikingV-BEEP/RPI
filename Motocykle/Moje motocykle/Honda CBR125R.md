@@ -1,5 +1,6 @@
 ---
 tags:
+  - motocykle
   - motocykle/moje-motocykle
 ---
 Książka dostępna na google drivie

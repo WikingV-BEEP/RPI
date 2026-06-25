@@ -1,10 +1,10 @@
 ---
 tags:
-  - medycyna/dermatologia
-  - medycyna/dermatologia/substancje-czynne
   - dermatologia
   - leki
   - medycyna
+  - medycyna/dermatologia
+  - medycyna/dermatologia/substancje-czynne
   - substancje-czynne
 ---
 

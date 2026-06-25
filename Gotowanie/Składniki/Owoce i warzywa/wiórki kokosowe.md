@@ -1,8 +1,11 @@
 ---
 tags:
+  - dodatki
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/owoce-i-warzywa
   - gotowanie/skladniki
   - gotowanie/skladniki/owoce-i-warzywa
-  - dodatki
   - owoce-i-warzywa
 ---
 

@@ -1,9 +1,9 @@
 ---
 tags:
-  - medycyna/anatomia
-  - indeks
   - anatomia
+  - indeks
   - medycyna
+  - medycyna/anatomia
 ---
 
 ## Zakres działu

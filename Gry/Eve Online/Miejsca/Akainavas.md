@@ -1,5 +1,6 @@
 ---
 tags:
+  - gry
   - gry/eve-online
   - gry/eve-online/miejsca
 ---

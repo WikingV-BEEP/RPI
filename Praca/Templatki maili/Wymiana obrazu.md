@@ -1,5 +1,6 @@
 ---
 tags:
+  - praca
   - praca/templatki-maili
 ---
 W celu zresetowania sterownika do ustawień fabrycznych należy wymienić obraz systemu.

@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/podstawy
+  - gotowanie
   - gotowanie/narzedzia
+  - gotowanie/podstawy
   - kuchnia
 ---
 

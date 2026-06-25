@@ -1,9 +1,12 @@
 ---
 tags:
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - dodatek-technologiczny
   - fermentacja
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/przyprawy-i-dodatki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
   - wypieki
 ---
 

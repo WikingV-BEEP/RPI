@@ -1,8 +1,9 @@
 ---
 tags:
+  - analog-output
+  - automatyka-i-robotyka
   - automatyka-i-robotyka/programowanie
   - automatyka-i-robotyka/programowanie/ba2
-  - analog-output
   - bacnet
   - beckhoff
   - plc

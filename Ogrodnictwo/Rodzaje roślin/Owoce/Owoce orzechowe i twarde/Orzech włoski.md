@@ -1,10 +1,11 @@
 ---
 tags:
+  - gleba/gleboka
+  - gleba/zyzna
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/owoce
   - ogrodnictwo/rodzaje-roslin/owoce/owoce-orzechowe-i-twarde
-  - gleba/gleboka
-  - gleba/zyzna
   - okres-zbioru/jesien
   - owoce/orzechowe-i-twarde
   - roslina-wieloletnia

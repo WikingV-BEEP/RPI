@@ -1,9 +1,9 @@
 ---
 tags:
-  - medycyna/dermatologia
-  - indeks
   - dermatologia
+  - indeks
   - medycyna
+  - medycyna/dermatologia
 ---
 
 ## Zakres działu

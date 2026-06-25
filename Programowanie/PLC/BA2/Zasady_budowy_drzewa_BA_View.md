@@ -1,12 +1,12 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - ba-view
   - beckhoff
   - dpad
   - plc
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
   - struktura-drzewa
 ---
 

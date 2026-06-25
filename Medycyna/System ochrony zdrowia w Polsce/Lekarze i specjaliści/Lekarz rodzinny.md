@@ -1,9 +1,9 @@
 ---
 tags:
-  - medycyna/system-ochrony-zdrowia-w-polsce
-  - medycyna/system-ochrony-zdrowia-w-polsce/lekarze-i-specjalisci
   - lekarz-rodzinny
   - medycyna
+  - medycyna/system-ochrony-zdrowia-w-polsce
+  - medycyna/system-ochrony-zdrowia-w-polsce/lekarze-i-specjalisci
   - poz
   - system-ochrony-zdrowia
 ---

@@ -1,5 +1,6 @@
 ---
 tags:
+  - akwarium-i-ryby
   - akwarium-i-ryby/projekty
   - akwarium-i-ryby/projekty/moje-akwaria
   - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1

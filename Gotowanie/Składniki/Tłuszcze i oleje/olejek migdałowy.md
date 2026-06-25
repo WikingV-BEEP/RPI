@@ -1,8 +1,11 @@
 ---
 tags:
+  - aromaty
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/tuszcze-i-oleje
   - gotowanie/skladniki
   - gotowanie/skladniki/tluszcze-i-oleje
-  - aromaty
 ---
 
 Olejek migdałowy to aromatyczny dodatek używany do wypieków, kremów, mas i deserów. Nadaje potrawom wyraźny, migdałowy zapach.

@@ -1,6 +1,8 @@
 ---
 tags:
   - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/trening
 ---
 ## Założenia i cele
 

@@ -1,11 +1,11 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - beckhoff
   - dpad
   - plc
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
   - zagniezdzenia
 ---
 

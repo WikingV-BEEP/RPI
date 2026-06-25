@@ -1,5 +1,6 @@
 ---
 tags:
+  - gry
   - gry/blue-prince
 ---
 ![[Pasted image 20260503134857.png]]![[Pasted image 20260503134943.png]]

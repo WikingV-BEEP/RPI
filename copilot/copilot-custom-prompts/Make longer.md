@@ -4,7 +4,9 @@ copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1070
 copilot-command-model-key: ""
 copilot-command-last-used: 0
+
 tags:
+  - copilot
   - copilot/copilot-custom-prompts
 ---
 Expand {} to twice its length by:

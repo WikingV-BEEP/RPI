@@ -1,10 +1,10 @@
 ---
 tags:
+  - dania-obiadowe-i-dodatki
+  - gotowanie
   - gotowanie/potrawy
   - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - indeks
-  - dania-obiadowe-i-dodatki
-  - gotowanie
   - potrawy
 ---
 

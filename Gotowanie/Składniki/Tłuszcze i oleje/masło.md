@@ -1,5 +1,8 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/tuszcze-i-oleje
   - gotowanie/skladniki
   - gotowanie/skladniki/tluszcze-i-oleje
   - tluszcze-i-oleje

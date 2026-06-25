@@ -1,7 +1,8 @@
 ---
 tags:
-  - akwarium-i-ryby/parametry-wody
   - akwarium
+  - akwarium-i-ryby
+  - akwarium-i-ryby/parametry-wody
   - bakterie-nitryfikacyjne
   - chemia-wody
   - cykl-azotowy

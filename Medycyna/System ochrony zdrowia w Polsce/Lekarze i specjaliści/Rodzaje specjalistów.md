@@ -1,9 +1,9 @@
 ---
 tags:
-  - medycyna/system-ochrony-zdrowia-w-polsce
-  - medycyna/system-ochrony-zdrowia-w-polsce/lekarze-i-specjalisci
   - lekarze
   - medycyna
+  - medycyna/system-ochrony-zdrowia-w-polsce
+  - medycyna/system-ochrony-zdrowia-w-polsce/lekarze-i-specjalisci
   - specjalisci
   - system-ochrony-zdrowia
 ---

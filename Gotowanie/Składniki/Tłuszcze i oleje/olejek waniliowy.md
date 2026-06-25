@@ -1,8 +1,11 @@
 ---
 tags:
+  - aromaty
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/tuszcze-i-oleje
   - gotowanie/skladniki
   - gotowanie/skladniki/tluszcze-i-oleje
-  - aromaty
 ---
 
 Olejek waniliowy to aromatyczny dodatek używany do ciast, kremów, deserów i mas. Nadaje potrawom słodki, waniliowy zapach.

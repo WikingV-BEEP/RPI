@@ -1,8 +1,9 @@
 ---
 tags:
+  - dania-obiadowe
+  - gotowanie
   - gotowanie/potrawy
   - gotowanie/potrawy/dania-obiadowe-i-dodatki
-  - dania-obiadowe
   - mortadela
   - pistacje
   - pizza

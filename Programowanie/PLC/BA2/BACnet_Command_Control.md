@@ -1,13 +1,13 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - bacnet
   - beckhoff
   - command-control
   - plc
   - priority-array
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
 ---
 
 ## BACnet – Command Control

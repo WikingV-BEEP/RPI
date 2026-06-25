@@ -1,5 +1,6 @@
 ---
 tags:
+  - motocykle
   - motocykle/moje-motocykle
 ---
 

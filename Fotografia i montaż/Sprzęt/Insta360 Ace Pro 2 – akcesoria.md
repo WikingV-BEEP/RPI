@@ -1,5 +1,6 @@
 ---
 tags:
+  - fotografia-i-montaz
   - fotografia-i-montaz/sprzet
   - fotografia/sprzet
   - kamera/insta360

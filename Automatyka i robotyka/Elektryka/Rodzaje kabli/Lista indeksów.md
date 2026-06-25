@@ -1,10 +1,11 @@
 ---
 tags:
+  - automatyka
+  - automatyka-i-robotyka
   - automatyka-i-robotyka/elektryka
   - automatyka-i-robotyka/elektryka/rodzaje-kabli
-  - indeks
-  - automatyka
   - elektryka
+  - indeks
   - kable
   - przewody
 ---

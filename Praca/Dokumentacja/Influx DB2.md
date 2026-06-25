@@ -1,5 +1,6 @@
 ---
 tags:
+  - praca
   - praca/dokumentacja
 ---
 Na swoim lapku z pracy mam master klucz :

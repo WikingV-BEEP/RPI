@@ -1,5 +1,8 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/sodziki-i-sodycze
   - gotowanie/skladniki
   - gotowanie/skladniki/slodziki-i-slodycze
 ---

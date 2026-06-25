@@ -4,7 +4,9 @@ aliases:
   - przewody
   - przewód
   - kabel
+
 tags:
+  - automatyka-i-robotyka
   - automatyka-i-robotyka/elektryka
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - praca
   - indeks
+  - praca
 ---
 
 ## Zakres folderu

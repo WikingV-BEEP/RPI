@@ -1,11 +1,14 @@
 ---
 tags:
-  - zdrowie-uroda-i-silownia/suplementacja
-  - zdrowie-uroda-i-silownia/suplementacja/suplementy
   - silownia
   - suplementacja
   - trening
   - wydolnosc
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/suplementacja
+  - zdrowie-uroda-i-siownia/suplementacja/suplementy
 ---
 
 ## W skrócie

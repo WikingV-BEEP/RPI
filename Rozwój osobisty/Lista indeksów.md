@@ -1,7 +1,7 @@
 ---
 tags:
-  - rozwoj-osobisty
   - indeks
+  - rozwoj-osobisty
 ---
 
 ## Zakres folderu

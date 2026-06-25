@@ -1,11 +1,14 @@
 ---
 tags:
-  - zdrowie-uroda-i-silownia/trening
-  - zdrowie-uroda-i-silownia/trening/silownia
-  - indeks
   - hipertrofia
+  - indeks
   - silownia
   - trening
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/trening
+  - zdrowie-uroda-i-siownia/trening/siownia
 ---
 
 ## Zakres folderu

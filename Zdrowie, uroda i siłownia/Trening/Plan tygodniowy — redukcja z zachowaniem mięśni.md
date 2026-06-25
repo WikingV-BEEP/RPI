@@ -1,8 +1,10 @@
 ---
 tags:
-  - zdrowie-uroda-i-silownia/trening
   - plan-treningowy
   - redukcja
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/trening
   - zdrowie-uroda-silownia/trening
 ---
 

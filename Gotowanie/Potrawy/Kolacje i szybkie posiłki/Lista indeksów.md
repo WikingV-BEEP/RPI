@@ -1,9 +1,10 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posiki
   - gotowanie/potrawy/kolacje-i-szybkie-posilki
   - indeks
-  - gotowanie
   - kolacje-i-szybkie-posilki
   - potrawy
 ---

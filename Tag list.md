@@ -3,23 +3,26 @@ tags:
   - indeks
   - tagi
   - vault
+  - standard-tagowania
 ---
 
 # Tag list
 
 ## Standard tagowania
-Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: lowercase, ASCII bez polskich znakow, kebab-case, bez spacji, zagnieżdżenia rozdzielane znakiem `/`.
+Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`.
+Standard: lowercase, ASCII bez polskich znakow, kebab-case, bez spacji, hierarchia rozdzielana znakiem `/`.
 
-## Najwazniejsze reguly
+## Reguly
 - Kazda notatka ma frontmatter na poczatku pliku.
 - Pole `tags` jest lista YAML, po jednym tagu w wierszu.
 - Tagi folderowe wynikaja ze sciezki notatki i sa budowane jako zagniezdzone prefiksy.
-- Istniejace sensowne tagi merytoryczne sa zachowywane po normalizacji.
+- Istniejace sensowne tagi sa zachowywane po normalizacji.
 - Duplikaty po normalizacji sa usuwane.
-- Pliki `Lista indeksów.md` dostaja tag `indeks`.
+- Pliki `Lista indeksow.md` dostaja tag `indeks`.
 - `Global index list.md` ma tagi `indeks`, `global-index`, `vault`.
+- `Tag list.md` ma tagi `indeks`, `tagi`, `vault`, `standard-tagowania`.
 
-## Pelna lista tagow (357)
+## Pelna lista tagow (388)
 - `akwarium`
 - `akwarium-i-ryby`
 - `akwarium-i-ryby/parametry-wody`
@@ -102,6 +105,7 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `gotowanie`
 - `gotowanie/ciasta-i-wypieki`
 - `gotowanie/diety`
+- `gotowanie/diety/posiki-wysokobiakowe`
 - `gotowanie/diety/posilki-wysokobialkowe`
 - `gotowanie/narzedzia`
 - `gotowanie/podstawy`
@@ -110,8 +114,20 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `gotowanie/potrawy/dania-obiadowe`
 - `gotowanie/potrawy/dania-obiadowe-i-dodatki`
 - `gotowanie/potrawy/desery-i-slodkie-przekaski`
+- `gotowanie/potrawy/desery-i-sodkie-przekaski`
+- `gotowanie/potrawy/kolacje-i-szybkie-posiki`
 - `gotowanie/potrawy/kolacje-i-szybkie-posilki`
 - `gotowanie/potrawy/marynaty-i-farsze`
+- `gotowanie/skadniki`
+- `gotowanie/skadniki/inne`
+- `gotowanie/skadniki/nabia`
+- `gotowanie/skadniki/owoce-i-warzywa`
+- `gotowanie/skadniki/produkty-miesne`
+- `gotowanie/skadniki/produkty-zbozowe`
+- `gotowanie/skadniki/przyprawy-i-dodatki`
+- `gotowanie/skadniki/sodziki-i-sodycze`
+- `gotowanie/skadniki/sosy-i-dipy`
+- `gotowanie/skadniki/tuszcze-i-oleje`
 - `gotowanie/skladniki`
 - `gotowanie/skladniki/inne`
 - `gotowanie/skladniki/nabial`
@@ -207,6 +223,7 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-korzeniowe`
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-lisciowe`
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-lodygowe`
+- `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-odygowe`
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe`
 - `okres-zbioru/jesien`
 - `okres-zbioru/jesienne`
@@ -244,6 +261,7 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `praca/szkolenia`
 - `praca/templatki-maili`
 - `praca/zlecenia`
+- `praca/zlecenia/pompa-ciepa`
 - `praca/zlecenia/pompa-ciepla`
 - `priority-array`
 - `procedury`
@@ -291,6 +309,7 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `sos-pomidorowy`
 - `sosy-i-dipy`
 - `specjalisci`
+- `standard-tagowania`
 - `stanowisko-cien`
 - `stanowisko-polcien`
 - `stanowisko-swiatlo-mocne`
@@ -301,6 +320,8 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `stolarstwo`
 - `stolarstwo/materialy`
 - `stolarstwo/materialy/drewno`
+- `stolarstwo/materiay`
+- `stolarstwo/materiay/drewno`
 - `stres`
 - `struktura-drzewa`
 - `struktura-zagniezdzen`
@@ -374,16 +395,29 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `zdrowie-uroda-i-silownia/trening/silownia/nogi`
 - `zdrowie-uroda-i-silownia/trening/silownia/plecy`
 - `zdrowie-uroda-i-silownia/trening/silownia/ramiona`
+- `zdrowie-uroda-i-siownia`
+- `zdrowie-uroda-i-siownia/dieta`
+- `zdrowie-uroda-i-siownia/pranie`
+- `zdrowie-uroda-i-siownia/suplementacja`
+- `zdrowie-uroda-i-siownia/suplementacja/suplementy`
+- `zdrowie-uroda-i-siownia/trening`
+- `zdrowie-uroda-i-siownia/trening/siownia`
+- `zdrowie-uroda-i-siownia/trening/siownia/barki`
+- `zdrowie-uroda-i-siownia/trening/siownia/brzuch-i-core`
+- `zdrowie-uroda-i-siownia/trening/siownia/klatka-piersiowa`
+- `zdrowie-uroda-i-siownia/trening/siownia/nogi`
+- `zdrowie-uroda-i-siownia/trening/siownia/plecy`
+- `zdrowie-uroda-i-siownia/trening/siownia/ramiona`
 - `zdrowie-uroda-silownia/trening`
 - `ziola`
 - `zrodla`
 
-# Sekcje wedlug glownych dzialow
+## Sekcje wedlug glownych dzialow
 
-## akwarium
+### akwarium (1)
 - `akwarium`
 
-## akwarium-i-ryby
+### akwarium-i-ryby (9)
 - `akwarium-i-ryby`
 - `akwarium-i-ryby/parametry-wody`
 - `akwarium-i-ryby/projekty`
@@ -394,28 +428,28 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `akwarium-i-ryby/rosliny-akwariowe`
 - `akwarium-i-ryby/rosliny-akwariowe/glony-i-ich-kontrola`
 
-## alarmy
+### alarmy (1)
 - `alarmy`
 
-## aminokwasy
+### aminokwasy (1)
 - `aminokwasy`
 
-## amsnetid
+### amsnetid (1)
 - `amsnetid`
 
-## analog-output
+### analog-output (1)
 - `analog-output`
 
-## anatomia
+### anatomia (1)
 - `anatomia`
 
-## aromaty
+### aromaty (1)
 - `aromaty`
 
-## automatyka
+### automatyka (1)
 - `automatyka`
 
-## automatyka-i-robotyka
+### automatyka-i-robotyka (7)
 - `automatyka-i-robotyka`
 - `automatyka-i-robotyka/elektryka`
 - `automatyka-i-robotyka/elektryka/rodzaje-kabli`
@@ -424,157 +458,158 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `automatyka-i-robotyka/programowanie/ba2`
 - `automatyka-i-robotyka/uncategorized`
 
-## ba-view
+### ba-view (1)
 - `ba-view`
 
-## ba2
+### ba2 (1)
 - `ba2`
 
-## babeczki
+### babeczki (1)
 - `babeczki`
 
-## bacnet
+### bacnet (1)
 - `bacnet`
 
-## badania
+### badania (1)
 - `badania`
 
-## bakterie-nitryfikacyjne
+### bakterie-nitryfikacyjne (1)
 - `bakterie-nitryfikacyjne`
 
-## beckhoff
+### beckhoff (1)
 - `beckhoff`
 
-## bialko
+### bialko (1)
 - `bialko`
 
-## cardio
+### cardio (1)
 - `cardio`
 
-## chemia-wody
+### chemia-wody (1)
 - `chemia-wody`
 
-## choroby-skory
+### choroby-skory (1)
 - `choroby-skory`
 
-## ciasta-i-wypieki
+### ciasta-i-wypieki (1)
 - `ciasta-i-wypieki`
 
-## command-control
+### command-control (1)
 - `command-control`
 
-## copilot
+### copilot (2)
 - `copilot`
 - `copilot/copilot-custom-prompts`
 
-## cryptocoryne-wendtii
+### cryptocoryne-wendtii (1)
 - `cryptocoryne-wendtii`
 
-## cykl-azotowy
+### cykl-azotowy (1)
 - `cykl-azotowy`
 
-## czekolada
+### czekolada (1)
 - `czekolada`
 
-## daily-notes
+### daily-notes (1)
 - `daily-notes`
 
-## dania-obiadowe
+### dania-obiadowe (1)
 - `dania-obiadowe`
 
-## dania-obiadowe-i-dodatki
+### dania-obiadowe-i-dodatki (1)
 - `dania-obiadowe-i-dodatki`
 
-## dermatologia
+### dermatologia (1)
 - `dermatologia`
 
-## deser
+### deser (1)
 - `deser`
 
-## desery-i-slodkie-przekaski
+### desery-i-slodkie-przekaski (1)
 - `desery-i-slodkie-przekaski`
 
-## diagnostyka
+### diagnostyka (1)
 - `diagnostyka`
 
-## dieta
+### dieta (1)
 - `dieta`
 
-## do-ostroznego-uzycia
+### do-ostroznego-uzycia (1)
 - `do-ostroznego-uzycia`
 
-## dodatek
+### dodatek (1)
 - `dodatek`
 
-## dodatek-technologiczny
+### dodatek-technologiczny (1)
 - `dodatek-technologiczny`
 
-## dodatki
+### dodatki (1)
 - `dodatki`
 
-## dpad
+### dpad (1)
 - `dpad`
 
-## dziedziny-medycyny
+### dziedziny-medycyny (1)
 - `dziedziny-medycyny`
 
-## dziennik
+### dziennik (1)
 - `dziennik`
 
-## elektryka
+### elektryka (3)
 - `elektryka`
 - `elektryka/przewody`
 - `elektryka/terminologia`
 
-## energetyka
+### energetyka (1)
 - `energetyka`
 
-## eve-online
+### eve-online (1)
 - `eve-online/frakcje`
 
-## eventlogger
+### eventlogger (1)
 - `eventlogger`
 
-## explorer
+### explorer (1)
 - `explorer`
 
-## farmakologia
+### farmakologia (1)
 - `farmakologia`
 
-## fermentacja
+### fermentacja (1)
 - `fermentacja`
 
-## fermentowane
+### fermentowane (1)
 - `fermentowane`
 
-## fizyka
+### fizyka (1)
 - `fizyka`
 
-## fotografia
+### fotografia (2)
 - `fotografia`
 - `fotografia/sprzet`
 
-## fotografia-i-montaz
+### fotografia-i-montaz (3)
 - `fotografia-i-montaz`
 - `fotografia-i-montaz/obrobka`
 - `fotografia-i-montaz/sprzet`
 
-## gatunki
+### gatunki (1)
 - `gatunki/razbora-klinowa`
 
-## gleba
+### gleba (4)
 - `gleba/gleboka`
 - `gleba/lekka`
 - `gleba/prochniczna`
 - `gleba/zyzna`
 
-## global-index
+### global-index (1)
 - `global-index`
 
-## gotowanie
+### gotowanie (36)
 - `gotowanie`
 - `gotowanie/ciasta-i-wypieki`
 - `gotowanie/diety`
+- `gotowanie/diety/posiki-wysokobiakowe`
 - `gotowanie/diety/posilki-wysokobialkowe`
 - `gotowanie/narzedzia`
 - `gotowanie/podstawy`
@@ -583,8 +618,20 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `gotowanie/potrawy/dania-obiadowe`
 - `gotowanie/potrawy/dania-obiadowe-i-dodatki`
 - `gotowanie/potrawy/desery-i-slodkie-przekaski`
+- `gotowanie/potrawy/desery-i-sodkie-przekaski`
+- `gotowanie/potrawy/kolacje-i-szybkie-posiki`
 - `gotowanie/potrawy/kolacje-i-szybkie-posilki`
 - `gotowanie/potrawy/marynaty-i-farsze`
+- `gotowanie/skadniki`
+- `gotowanie/skadniki/inne`
+- `gotowanie/skadniki/nabia`
+- `gotowanie/skadniki/owoce-i-warzywa`
+- `gotowanie/skadniki/produkty-miesne`
+- `gotowanie/skadniki/produkty-zbozowe`
+- `gotowanie/skadniki/przyprawy-i-dodatki`
+- `gotowanie/skadniki/sodziki-i-sodycze`
+- `gotowanie/skadniki/sosy-i-dipy`
+- `gotowanie/skadniki/tuszcze-i-oleje`
 - `gotowanie/skladniki`
 - `gotowanie/skladniki/inne`
 - `gotowanie/skladniki/nabial`
@@ -596,7 +643,7 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `gotowanie/skladniki/sosy-i-dipy`
 - `gotowanie/skladniki/tluszcze-i-oleje`
 
-## gry
+### gry (7)
 - `gry`
 - `gry/bitburner`
 - `gry/bitburner/console`
@@ -605,89 +652,89 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `gry/eve-online/miejsca`
 - `gry/eve-online/nacje`
 
-## grzyby
+### grzyby (1)
 - `grzyby`
 
-## hipertrofia
+### hipertrofia (1)
 - `hipertrofia`
 
-## indeks
+### indeks (1)
 - `indeks`
 
-## inne
+### inne (1)
 - `inne`
 
-## instalacje-elektrczne
+### instalacje-elektrczne (1)
 - `instalacje-elektrczne`
 
-## interwaly
+### interwaly (1)
 - `interwaly`
 
-## io-linking
+### io-linking (1)
 - `io-linking`
 
-## jajka
+### jajka (1)
 - `jajka`
 
-## jelita
+### jelita (1)
 - `jelita`
 
-## kable
+### kable (1)
 - `kable`
 
-## kamera
+### kamera (1)
 - `kamera/insta360`
 
-## kasza
+### kasza (1)
 - `kasza`
 
-## kolacje-i-szybkie-posilki
+### kolacje-i-szybkie-posilki (1)
 - `kolacje-i-szybkie-posilki`
 
-## komunikacja
+### komunikacja (1)
 - `komunikacja`
 
-## konfiguracja
+### konfiguracja (1)
 - `konfiguracja`
 
-## ksiazki
+### ksiazki (1)
 - `ksiazki`
 
-## kuchnia
+### kuchnia (2)
 - `kuchnia`
 - `kuchnia/francuska`
 
-## kuchnia-wloska
+### kuchnia-wloska (1)
 - `kuchnia-wloska`
 
-## kwasne
+### kwasne (1)
 - `kwasne`
 
-## lakierowanie
+### lakierowanie (1)
 - `lakierowanie`
 
-## lekarz-rodzinny
+### lekarz-rodzinny (1)
 - `lekarz-rodzinny`
 
-## lekarze
+### lekarze (1)
 - `lekarze`
 
-## leki
+### leki (1)
 - `leki`
 
-## limnophila-heterophylla
+### limnophila-heterophylla (1)
 - `limnophila-heterophylla`
 
-## makaron
+### makaron (1)
 - `makaron`
 
-## marynaty-i-farsze
+### marynaty-i-farsze (1)
 - `marynaty-i-farsze`
 
-## materialy
+### materialy (1)
 - `materialy`
 
-## medycyna
+### medycyna (13)
 - `medycyna`
 - `medycyna/anatomia`
 - `medycyna/dermatologia`
@@ -702,70 +749,70 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `medycyna/system-ochrony-zdrowia-w-polsce/nfz`
 - `medycyna/system-ochrony-zdrowia-w-polsce/skierowania`
 
-## medycyna-estetyczna
+### medycyna-estetyczna (1)
 - `medycyna-estetyczna`
 
-## mieso
+### mieso (1)
 - `mieso`
 
-## mieso-mielone
+### mieso-mielone (1)
 - `mieso-mielone`
 
-## mieszanka-przypraw
+### mieszanka-przypraw (1)
 - `mieszanka-przypraw`
 
-## mikrobiom
+### mikrobiom (1)
 - `mikrobiom`
 
-## mineraly
+### mineraly (1)
 - `mineraly`
 
-## moda
+### moda (4)
 - `moda`
 - `moda/dopasowanie`
 - `moda/sylwetki`
 - `moda/ubrania`
 
-## moda-i-styl
+### moda-i-styl (2)
 - `moda-i-styl`
 - `moda-i-styl/ubrania`
 
-## montaz
+### montaz (1)
 - `montaz`
 
-## mortadela
+### mortadela (1)
 - `mortadela`
 
-## motocykl
+### motocykl (1)
 - `motocykl`
 
-## motocykle
+### motocykle (3)
 - `motocykle`
 - `motocykle/moje-motocykle`
 - `motocykle/serwis-i-eksploatacja`
 
-## nabial
+### nabial (1)
 - `nabial`
 
-## nasiona
+### nasiona (1)
 - `nasiona`
 
-## nawodnienie
+### nawodnienie (1)
 - `nawodnienie`
 
-## nfz
+### nfz (1)
 - `nfz`
 
-## niedobory
+### niedobory (1)
 - `niedobory`
 
-## obiad
+### obiad (1)
 - `obiad`
 
-## ocena
+### ocena (1)
 - `ocena`
 
-## ogrodnictwo
+### ogrodnictwo (14)
 - `ogrodnictwo`
 - `ogrodnictwo/rodzaje-roslin`
 - `ogrodnictwo/rodzaje-roslin/owoce`
@@ -778,320 +825,327 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-korzeniowe`
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-lisciowe`
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-lodygowe`
+- `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-odygowe`
 - `ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe`
 
-## okres-zbioru
+### okres-zbioru (5)
 - `okres-zbioru/jesien`
 - `okres-zbioru/jesienne`
 - `okres-zbioru/letnie`
 - `okres-zbioru/pozne-lato`
 - `okres-zbioru/wiosenne`
 
-## orzechy
+### orzechy (1)
 - `orzechy`
 
-## ostre
+### ostre (1)
 - `ostre`
 
-## owoc
+### owoc (1)
 - `owoc`
 
-## owoce
+### owoce (5)
 - `owoce`
 - `owoce/jagodowe`
 - `owoce/orzechowe-i-twarde`
 - `owoce/pestkowe`
 - `owoce/ziarnkowe`
 
-## owoce-i-warzywa
+### owoce-i-warzywa (1)
 - `owoce-i-warzywa`
 
-## oznaczenia-kabli
+### oznaczenia-kabli (1)
 - `oznaczenia-kabli`
 
-## panierka
+### panierka (1)
 - `panierka`
 
-## parametry-wody
+### parametry-wody (1)
 - `parametry-wody`
 
-## pistacje
+### pistacje (1)
 - `pistacje`
 
-## pizza
+### pizza (1)
 - `pizza`
 
-## plan-treningowy
+### plan-treningowy (1)
 - `plan-treningowy`
 
-## plc
+### plc (1)
 - `plc`
 
-## plyn
+### plyn (1)
 - `plyn`
 
-## pobudzenie
+### pobudzenie (1)
 - `pobudzenie`
 
-## podstawowe
+### podstawowe (1)
 - `podstawowe`
 
-## podstawy
+### podstawy (1)
 - `podstawy`
 
-## polprodukt
+### polprodukt (1)
 - `polprodukt`
 
-## polska
+### polska (1)
 - `polska`
 
-## potrawy
+### potrawy (2)
 - `potrawy`
 - `potrawy/dania-obiadowe`
 
-## poz
+### poz (1)
 - `poz`
 
-## praca
+### praca (8)
 - `praca`
 - `praca/dokumentacja`
 - `praca/serwis`
 - `praca/szkolenia`
 - `praca/templatki-maili`
 - `praca/zlecenia`
+- `praca/zlecenia/pompa-ciepa`
 - `praca/zlecenia/pompa-ciepla`
 
-## priority-array
+### priority-array (1)
 - `priority-array`
 
-## procedury
+### procedury (1)
 - `procedury`
 
-## produkty-miesne
+### produkty-miesne (1)
 - `produkty-miesne`
 
-## produkty-zbozowe
+### produkty-zbozowe (1)
 - `produkty-zbozowe`
 
-## programowanie
+### programowanie (3)
 - `programowanie`
 - `programowanie/plc`
 - `programowanie/plc/ba2`
 
-## protokoly-komunikacyjne
+### protokoly-komunikacyjne (1)
 - `protokoly-komunikacyjne`
 
-## przedtreningowka
+### przedtreningowka (1)
 - `przedtreningowka`
 
-## przemysl
+### przemysl (1)
 - `przemysl`
 
-## przepisy
+### przepisy (1)
 - `przepisy`
 
-## przewody
+### przewody (1)
 - `przewody`
 
-## przyprawa
+### przyprawa (1)
 - `przyprawa`
 
-## przyprawowe
+### przyprawowe (1)
 - `przyprawowe`
 
-## przyprawy-i-dodatki
+### przyprawy-i-dodatki (1)
 - `przyprawy-i-dodatki`
 
-## redukcja
+### redukcja (1)
 - `redukcja`
 
-## regeneracja
+### regeneracja (1)
 - `regeneracja`
 
-## renowacja
+### renowacja (1)
 - `renowacja`
 
-## robotyka
+### robotyka (1)
 - `robotyka`
 
-## rolnictwo
+### rolnictwo (1)
 - `rolnictwo`
 
-## roslina-dwuletnia
+### roslina-dwuletnia (1)
 - `roslina-dwuletnia`
 
-## roslina-jednoroczna
+### roslina-jednoroczna (1)
 - `roslina-jednoroczna`
 
-## roslina-wieloletnia
+### roslina-wieloletnia (1)
 - `roslina-wieloletnia`
 
-## rosliny
+### rosliny (2)
 - `rosliny`
 - `rosliny/wodne`
 
-## rosliny-akwariowe
+### rosliny-akwariowe (2)
 - `rosliny-akwariowe`
 - `rosliny-akwariowe/anubias`
 
-## rosliny-latwe
+### rosliny-latwe (1)
 - `rosliny-latwe`
 
-## rosliny-plywajace
+### rosliny-plywajace (1)
 - `rosliny-plywajace`
 
-## rosliny-srednio-trudne
+### rosliny-srednio-trudne (1)
 - `rosliny-srednio-trudne`
 
-## rosliny-zanurzone
+### rosliny-zanurzone (1)
 - `rosliny-zanurzone`
 
-## rozmiary
+### rozmiary (1)
 - `rozmiary`
 
-## rozwoj-osobisty
+### rozwoj-osobisty (1)
 - `rozwoj-osobisty`
 
-## ryby
+### ryby (1)
 - `ryby`
 
-## ryby-akwariowe
+### ryby-akwariowe (2)
 - `ryby-akwariowe`
 - `ryby-akwariowe/lawicowe`
 
-## sen
+### sen (1)
 - `sen`
 
-## ser
+### ser (1)
 - `ser`
 
-## silownia
+### silownia (1)
 - `silownia`
 
-## skierowanie
+### skierowanie (1)
 - `skierowanie`
 
-## skladniki
+### skladniki (1)
 - `skladniki`
 
-## skora
+### skora (1)
 - `skora`
 
-## slodziki-i-slodycze
+### slodziki-i-slodycze (1)
 - `slodziki-i-slodycze`
 
-## sos-pomidorowy
+### sos-pomidorowy (1)
 - `sos-pomidorowy`
 
-## sosy-i-dipy
+### sosy-i-dipy (1)
 - `sosy-i-dipy`
 
-## specjalisci
+### specjalisci (1)
 - `specjalisci`
 
-## stanowisko
+### standard-tagowania (1)
+- `standard-tagowania`
+
+### stanowisko (2)
 - `stanowisko/polcien`
 - `stanowisko/sloneczne`
 
-## stanowisko-cien
+### stanowisko-cien (1)
 - `stanowisko-cien`
 
-## stanowisko-polcien
+### stanowisko-polcien (1)
 - `stanowisko-polcien`
 
-## stanowisko-swiatlo-mocne
+### stanowisko-swiatlo-mocne (1)
 - `stanowisko-swiatlo-mocne`
 
-## stanowisko-swiatlo-umiarkowane
+### stanowisko-swiatlo-umiarkowane (1)
 - `stanowisko-swiatlo-umiarkowane`
 
-## stawy
+### stawy (1)
 - `stawy`
 
-## stolarstwo
+### stolarstwo (5)
 - `stolarstwo`
 - `stolarstwo/materialy`
 - `stolarstwo/materialy/drewno`
+- `stolarstwo/materiay`
+- `stolarstwo/materiay/drewno`
 
-## stres
+### stres (1)
 - `stres`
 
-## struktura-drzewa
+### struktura-drzewa (1)
 - `struktura-drzewa`
 
-## struktura-zagniezdzen
+### struktura-zagniezdzen (1)
 - `struktura-zagniezdzen`
 
-## styl
+### styl (1)
 - `styl`
 
-## substancje-czynne
+### substancje-czynne (1)
 - `substancje-czynne`
 
-## suplementacja
+### suplementacja (1)
 - `suplementacja`
 
-## suszone-owoce
+### suszone-owoce (1)
 - `suszone-owoce`
 
-## system-ochrony-zdrowia
+### system-ochrony-zdrowia (1)
 - `system-ochrony-zdrowia`
 
-## tagi
+### tagi (1)
 - `tagi`
 
-## templates
+### templates (1)
 - `templates`
 
-## terminologia
+### terminologia (1)
 - `terminologia`
 
-## tluszcz
+### tluszcz (1)
 - `tluszcz`
 
-## tluszcze
+### tluszcze (1)
 - `tluszcze`
 
-## tluszcze-i-oleje
+### tluszcze-i-oleje (1)
 - `tluszcze-i-oleje`
 
-## tradzik
+### tradzik (1)
 - `tradzik`
 
-## trening
+### trening (1)
 - `trening`
 
-## trudnosc
+### trudnosc (3)
 - `trudnosc/latwa`
 - `trudnosc/srednia`
 - `trudnosc/umiarkowana`
 
-## trudnosc-uprawy
+### trudnosc-uprawy (2)
 - `trudnosc-uprawy/latwa`
 - `trudnosc-uprawy/srednia`
 
-## twarz
+### twarz (1)
 - `twarz`
 
-## typ-gleby
+### typ-gleby (4)
 - `typ-gleby/kwasna`
 - `typ-gleby/lekka`
 - `typ-gleby/prochniczna`
 - `typ-gleby/zyzna`
 
-## uroda
+### uroda (1)
 - `uroda`
 
-## vault
+### vault (1)
 - `vault`
 
-## visualisation
+### visualisation (1)
 - `visualisation`
 
-## warsztat
+### warsztat (1)
 - `warsztat`
 
-## warzywa
+### warzywa (6)
 - `warzywa`
 - `warzywa/dyniowate`
 - `warzywa/korzeniowe`
@@ -1099,37 +1153,37 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `warzywa/lodygowe`
 - `warzywa/przyprawowe`
 
-## warzywo
+### warzywo (1)
 - `warzywo`
 
-## weglowodany
+### weglowodany (1)
 - `weglowodany`
 
-## wlasciwosci
+### wlasciwosci (1)
 - `wlasciwosci`
 
-## wloska-kuchnia
+### wloska-kuchnia (1)
 - `wloska-kuchnia`
 
-## wsparcie-techniczne
+### wsparcie-techniczne (1)
 - `wsparcie-techniczne`
 
-## wydolnosc
+### wydolnosc (1)
 - `wydolnosc`
 
-## wypieki
+### wypieki (1)
 - `wypieki`
 
-## zageszczanie
+### zageszczanie (1)
 - `zageszczanie`
 
-## zagniezdzenia
+### zagniezdzenia (1)
 - `zagniezdzenia`
 
-## zasilanie
+### zasilanie (1)
 - `zasilanie`
 
-## zastosowanie
+### zastosowanie (12)
 - `zastosowanie/deserowe`
 - `zastosowanie/do-przyprawiania`
 - `zastosowanie/gotowanie`
@@ -1143,13 +1197,13 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `zastosowanie/uniwersalne`
 - `zastosowanie/zupy`
 
-## zdarzenia
+### zdarzenia (1)
 - `zdarzenia`
 
-## zdrowie
+### zdrowie (1)
 - `zdrowie`
 
-## zdrowie-uroda-i-silownia
+### zdrowie-uroda-i-silownia (13)
 - `zdrowie-uroda-i-silownia`
 - `zdrowie-uroda-i-silownia/dieta`
 - `zdrowie-uroda-i-silownia/pranie`
@@ -1164,12 +1218,26 @@ Tagi sa zapisywane w YAML frontmatter jako lista pod polem `tags`. Standard: low
 - `zdrowie-uroda-i-silownia/trening/silownia/plecy`
 - `zdrowie-uroda-i-silownia/trening/silownia/ramiona`
 
-## zdrowie-uroda-silownia
+### zdrowie-uroda-i-siownia (13)
+- `zdrowie-uroda-i-siownia`
+- `zdrowie-uroda-i-siownia/dieta`
+- `zdrowie-uroda-i-siownia/pranie`
+- `zdrowie-uroda-i-siownia/suplementacja`
+- `zdrowie-uroda-i-siownia/suplementacja/suplementy`
+- `zdrowie-uroda-i-siownia/trening`
+- `zdrowie-uroda-i-siownia/trening/siownia`
+- `zdrowie-uroda-i-siownia/trening/siownia/barki`
+- `zdrowie-uroda-i-siownia/trening/siownia/brzuch-i-core`
+- `zdrowie-uroda-i-siownia/trening/siownia/klatka-piersiowa`
+- `zdrowie-uroda-i-siownia/trening/siownia/nogi`
+- `zdrowie-uroda-i-siownia/trening/siownia/plecy`
+- `zdrowie-uroda-i-siownia/trening/siownia/ramiona`
+
+### zdrowie-uroda-silownia (1)
 - `zdrowie-uroda-silownia/trening`
 
-## ziola
+### ziola (1)
 - `ziola`
 
-## zrodla
+### zrodla (1)
 - `zrodla`
-

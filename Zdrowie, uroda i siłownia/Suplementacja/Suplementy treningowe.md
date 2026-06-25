@@ -1,9 +1,11 @@
 ---
 tags:
-  - zdrowie-uroda-i-silownia/suplementacja
   - silownia
   - suplementacja
   - trening
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/suplementacja
 ---
 
 ## Sens notatki

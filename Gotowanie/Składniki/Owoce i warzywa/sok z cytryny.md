@@ -1,5 +1,8 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/owoce-i-warzywa
   - gotowanie/skladniki
   - gotowanie/skladniki/owoce-i-warzywa
   - kwasne

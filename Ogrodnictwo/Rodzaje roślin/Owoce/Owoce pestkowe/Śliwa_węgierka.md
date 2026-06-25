@@ -1,10 +1,11 @@
 ---
 tags:
+  - gleba/prochniczna
+  - gleba/zyzna
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/owoce
   - ogrodnictwo/rodzaje-roslin/owoce/owoce-pestkowe
-  - gleba/prochniczna
-  - gleba/zyzna
   - okres-zbioru/pozne-lato
   - owoce/pestkowe
   - roslina-wieloletnia

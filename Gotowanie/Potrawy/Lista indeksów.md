@@ -1,8 +1,8 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/potrawy
   - indeks
-  - gotowanie
   - potrawy
 ---
 

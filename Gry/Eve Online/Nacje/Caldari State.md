@@ -1,8 +1,9 @@
 ---
 tags:
+  - eve-online/frakcje
+  - gry
   - gry/eve-online
   - gry/eve-online/nacje
-  - eve-online/frakcje
 ---
 
 Caldari State to jedna z głównych frakcji w [[Eve Online]], oparta na kulturze korporacyjnej, militaryzmie i wysokiej dyscyplinie społecznej.

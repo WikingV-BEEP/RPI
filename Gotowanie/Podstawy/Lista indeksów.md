@@ -1,8 +1,8 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/podstawy
   - indeks
-  - gotowanie
   - podstawy
 ---
 

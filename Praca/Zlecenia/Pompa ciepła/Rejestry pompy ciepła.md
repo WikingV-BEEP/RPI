@@ -1,6 +1,8 @@
 ---
 tags:
+  - praca
   - praca/zlecenia
+  - praca/zlecenia/pompa-ciepa
   - praca/zlecenia/pompa-ciepla
 ---
 

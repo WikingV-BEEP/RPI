@@ -1,13 +1,13 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - ba2
   - bacnet
   - beckhoff
   - dpad
   - explorer
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
   - visualisation
 ---
 

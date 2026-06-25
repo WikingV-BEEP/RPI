@@ -1,8 +1,10 @@
 ---
 tags:
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/warzywa
   - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-lodygowe
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-odygowe
   - okres-zbioru/jesienne
   - roslina-dwuletnia
   - stanowisko/sloneczne

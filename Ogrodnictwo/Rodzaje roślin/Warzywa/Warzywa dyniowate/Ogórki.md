@@ -1,5 +1,6 @@
 ---
 tags:
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/warzywa
   - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-dyniowate

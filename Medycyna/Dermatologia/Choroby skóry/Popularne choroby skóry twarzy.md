@@ -1,10 +1,10 @@
 ---
 tags:
-  - medycyna/dermatologia
-  - medycyna/dermatologia/choroby-skory
   - choroby-skory
   - dermatologia
   - medycyna
+  - medycyna/dermatologia
+  - medycyna/dermatologia/choroby-skory
   - twarz
 ---
 

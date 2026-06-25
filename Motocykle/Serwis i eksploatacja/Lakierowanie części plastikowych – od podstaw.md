@@ -1,8 +1,9 @@
 ---
 tags:
-  - motocykle/serwis-i-eksploatacja
   - lakierowanie
   - motocykl
+  - motocykle
+  - motocykle/serwis-i-eksploatacja
   - renowacja
   - warsztat
 ---

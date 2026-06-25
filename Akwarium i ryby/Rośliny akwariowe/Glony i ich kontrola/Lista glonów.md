@@ -1,5 +1,6 @@
 ---
 tags:
+  - akwarium-i-ryby
   - akwarium-i-ryby/rosliny-akwariowe
   - akwarium-i-ryby/rosliny-akwariowe/glony-i-ich-kontrola
 ---

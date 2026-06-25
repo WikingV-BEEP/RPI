@@ -1,10 +1,11 @@
 ---
 tags:
+  - gleba/lekka
+  - gleba/prochniczna
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/warzywa
   - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe
-  - gleba/lekka
-  - gleba/prochniczna
   - okres-zbioru/letnie
   - roslina-wieloletnia
   - stanowisko/polcien

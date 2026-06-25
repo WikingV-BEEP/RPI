@@ -1,5 +1,6 @@
 ---
 tags:
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/owoce
   - ogrodnictwo/rodzaje-roslin/owoce/owoce-pestkowe

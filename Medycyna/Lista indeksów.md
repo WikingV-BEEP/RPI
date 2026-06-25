@@ -1,7 +1,7 @@
 ---
 tags:
-  - medycyna
   - indeks
+  - medycyna
 ---
 
 ## Zakres katalogu

@@ -4,7 +4,9 @@ copilot-command-slash-enabled: false
 copilot-command-context-menu-order: 1110
 copilot-command-model-key: ""
 copilot-command-last-used: 0
+
 tags:
+  - copilot
   - copilot/copilot-custom-prompts
 ---
 Rewrite {} as a single tweet with these requirements:

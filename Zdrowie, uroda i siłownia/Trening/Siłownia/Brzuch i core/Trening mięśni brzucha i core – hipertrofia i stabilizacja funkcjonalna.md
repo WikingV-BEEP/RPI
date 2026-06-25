@@ -3,6 +3,10 @@ tags:
   - zdrowie-uroda-i-silownia/trening
   - zdrowie-uroda-i-silownia/trening/silownia
   - zdrowie-uroda-i-silownia/trening/silownia/brzuch-i-core
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/trening
+  - zdrowie-uroda-i-siownia/trening/siownia
+  - zdrowie-uroda-i-siownia/trening/siownia/brzuch-i-core
 ---
 ## Anatomia mięśni brzucha i core
 

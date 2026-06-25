@@ -1,9 +1,9 @@
 ---
 tags:
-  - ogrodnictwo/rodzaje-roslin
-  - ogrodnictwo/rodzaje-roslin/warzywa
   - indeks
   - ogrodnictwo
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
   - rosliny
   - warzywa
 ---

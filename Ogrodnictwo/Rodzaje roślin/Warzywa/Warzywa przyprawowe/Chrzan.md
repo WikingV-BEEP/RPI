@@ -1,10 +1,11 @@
 ---
 tags:
+  - gleba/prochniczna
+  - gleba/zyzna
+  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/warzywa
   - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe
-  - gleba/prochniczna
-  - gleba/zyzna
   - okres-zbioru/jesienne
   - roslina-wieloletnia
   - stanowisko/sloneczne

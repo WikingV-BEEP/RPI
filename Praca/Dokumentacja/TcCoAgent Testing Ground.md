@@ -1,5 +1,6 @@
 ---
 tags:
+  - praca
   - praca/dokumentacja
 ---
 [https://tcce-training.beckhoff-cloud.com/sign-in](https://tcce-training.beckhoff-cloud.com/sign-in "https://tcce-training.beckhoff-cloud.com/sign-in")

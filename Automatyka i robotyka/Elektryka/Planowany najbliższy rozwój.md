@@ -1,5 +1,6 @@
 ---
 tags:
+  - automatyka-i-robotyka
   - automatyka-i-robotyka/elektryka
 ---
 ## Instalacje elektryczne – wiedza praktyczna (Markiewicz, SEP)

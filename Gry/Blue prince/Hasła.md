@@ -1,5 +1,6 @@
 ---
 tags:
+  - gry
   - gry/blue-prince
 ---
 Do terminala SWANSONG

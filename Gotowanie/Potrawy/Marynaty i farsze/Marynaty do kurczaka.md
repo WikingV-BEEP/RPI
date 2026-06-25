@@ -1,5 +1,6 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/potrawy
   - gotowanie/potrawy/marynaty-i-farsze
 ---

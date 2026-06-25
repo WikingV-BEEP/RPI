@@ -1,5 +1,8 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/produkty-miesne
   - gotowanie/skladniki
   - gotowanie/skladniki/produkty-miesne
   - produkty-miesne

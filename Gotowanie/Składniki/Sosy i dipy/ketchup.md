@@ -1,5 +1,8 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/sosy-i-dipy
   - gotowanie/skladniki
   - gotowanie/skladniki/sosy-i-dipy
   - sosy-i-dipy

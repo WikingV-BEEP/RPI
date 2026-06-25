@@ -1,5 +1,8 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/przyprawy-i-dodatki
   - gotowanie/skladniki
   - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawy-i-dodatki

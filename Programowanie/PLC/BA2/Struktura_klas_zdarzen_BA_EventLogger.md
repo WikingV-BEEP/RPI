@@ -1,13 +1,13 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - alarmy
   - ba-view
   - beckhoff
   - eventlogger
   - plc
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
   - zdarzenia
 ---
 

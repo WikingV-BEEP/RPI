@@ -1,10 +1,11 @@
 ---
 tags:
-  - zdrowie-uroda-i-silownia
   - indeks
   - silownia
   - uroda
   - zdrowie
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-siownia
 ---
 
 ## Zakres folderu

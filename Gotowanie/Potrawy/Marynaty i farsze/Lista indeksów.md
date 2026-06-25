@@ -1,9 +1,9 @@
 ---
 tags:
+  - gotowanie
   - gotowanie/potrawy
   - gotowanie/potrawy/marynaty-i-farsze
   - indeks
-  - gotowanie
   - marynaty-i-farsze
   - potrawy
 ---

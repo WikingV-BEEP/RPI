@@ -1,10 +1,11 @@
 ---
 tags:
-  - gotowanie/potrawy
-  - gotowanie/potrawy/desery-i-slodkie-przekaski
-  - indeks
   - desery-i-slodkie-przekaski
   - gotowanie
+  - gotowanie/potrawy
+  - gotowanie/potrawy/desery-i-slodkie-przekaski
+  - gotowanie/potrawy/desery-i-sodkie-przekaski
+  - indeks
   - potrawy
 ---
 

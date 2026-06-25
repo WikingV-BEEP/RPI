@@ -1,5 +1,6 @@
 ---
 tags:
+  - programowanie
   - programowanie/plc
   - programowanie/plc/ba2
 ---

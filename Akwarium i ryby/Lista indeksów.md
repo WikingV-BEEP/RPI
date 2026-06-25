@@ -1,8 +1,8 @@
 ---
 tags:
+  - akwarium
   - akwarium-i-ryby
   - indeks
-  - akwarium
   - ryby
 ---
 

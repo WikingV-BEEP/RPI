@@ -1,10 +1,12 @@
 ---
 tags:
-  - zdrowie-uroda-i-silownia/suplementacja
   - ocena
   - silownia
   - suplementacja
   - zdrowie
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-siownia/suplementacja
 ---
 
 ## Cel notatki

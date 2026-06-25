@@ -1,7 +1,7 @@
 ---
 tags:
-  - rolnictwo
   - indeks
+  - rolnictwo
 ---
 
 ## Zakres folderu

@@ -1,5 +1,6 @@
 ---
 tags:
+  - automatyka-i-robotyka
   - automatyka-i-robotyka/programowanie
   - automatyka-i-robotyka/programowanie/ba2
 ---

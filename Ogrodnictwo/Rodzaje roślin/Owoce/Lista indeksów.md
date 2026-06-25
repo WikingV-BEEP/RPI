@@ -1,9 +1,9 @@
 ---
 tags:
-  - ogrodnictwo/rodzaje-roslin
-  - ogrodnictwo/rodzaje-roslin/owoce
   - indeks
   - ogrodnictwo
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
   - owoce
   - rosliny
 ---

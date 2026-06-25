@@ -1,5 +1,6 @@
 ---
 tags:
+  - praca
   - praca/dokumentacja
 ---
 Filmy z szkolenia 

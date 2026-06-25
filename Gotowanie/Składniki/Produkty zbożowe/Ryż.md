@@ -1,8 +1,11 @@
 ---
 tags:
+  - dodatek
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/produkty-zbozowe
   - gotowanie/skladniki
   - gotowanie/skladniki/produkty-zbozowe
-  - dodatek
   - produkty-zbozowe
 ---
 

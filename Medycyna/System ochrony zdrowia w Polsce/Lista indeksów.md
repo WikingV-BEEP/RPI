@@ -1,8 +1,8 @@
 ---
 tags:
-  - medycyna/system-ochrony-zdrowia-w-polsce
   - indeks
   - medycyna
+  - medycyna/system-ochrony-zdrowia-w-polsce
   - nfz
   - system-ochrony-zdrowia
 ---

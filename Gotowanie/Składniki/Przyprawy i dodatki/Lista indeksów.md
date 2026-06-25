@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie
+  - gotowanie/skadniki
+  - gotowanie/skadniki/przyprawy-i-dodatki
   - gotowanie/skladniki
   - gotowanie/skladniki/przyprawy-i-dodatki
   - indeks
-  - gotowanie
   - przyprawy-i-dodatki
   - skladniki
 ---

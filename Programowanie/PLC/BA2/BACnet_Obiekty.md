@@ -1,11 +1,11 @@
 ---
 tags:
-  - programowanie/plc
-  - programowanie/plc/ba2
   - bacnet
   - beckhoff
   - plc
   - programowanie
+  - programowanie/plc
+  - programowanie/plc/ba2
   - protokoly-komunikacyjne
 ---
 

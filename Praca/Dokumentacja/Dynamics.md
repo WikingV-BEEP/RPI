@@ -1,5 +1,6 @@
 ---
 tags:
+  - praca
   - praca/dokumentacja
 ---
 Sprawdzanie konfiguracji na podstawie Var NO : 
