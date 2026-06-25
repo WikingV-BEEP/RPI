@@ -46,3 +46,6 @@ Czas: około 20 minut
 1. [[pierś z kurczaka|Pierś z kurczaka]] pokrój w kostkę lub paski.
 2. Dopraw [[sól|solą]], [[pieprz czarny|pieprzem czarnym]] i [[papryka wędzona|papryką wędzoną]].
 3. Usmaż na patelni beztłuszczowej, grillowej albo z minimalną ilością tłuszczu. Można też użyć air fryera.
+4. [[ogórek|Ogórka]], [[pomidor koktajlowy|pomidory]], [[papryka czerwona|paprykę]] i [[cebula czerwona|cebulę]] pokrój na małe kawałki.
+5. Wymieszaj [[skyr naturalny|skyr]], [[musztarda|musztardę]], [[sok z cytryny|sok z cytryny]], przeciśnięty [[czosnek|czosnek]] i przyprawy.
+6. Połącz warzywa z [[mix sałat|mixem sałat]], dodaj kurczaka i polej sosem.
