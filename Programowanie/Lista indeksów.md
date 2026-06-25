@@ -10,7 +10,7 @@ Dział na języki programowania, wzorce, notatki techniczne, PLC, frontend, Pyth
 
 ## Główne działy
 
-### [[PLC]]
+### [[PLC/Lista indeksów]]
 
 Programowanie sterowników, logika przemysłowa, bloki, komunikacja i diagnostyka.
 
@@ -30,8 +30,17 @@ Aplikacje, narzędzia, backend, integracje i programy pomocnicze.
 
 Notatki językowe, wydajność i programowanie niskopoziomowe.
 
+## Indeksy podrzędne
+
+- [[PLC/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Językowe rzeczy trafiają do folderu języka.
 - PLC zostaje osobno, nawet jeśli używa podobnych pojęć programistycznych.
 - Notatki ogólne o architekturze można trzymać na poziomie głównym lub w osobnym folderze, gdy powstanie.
+
+## Najbliższy rozwój
+
+- Dodać indeks dla `PLC/BA2`.
+- Dodać pierwsze notatki do `Python`, `Frontend`, `C#` i `C++`.
