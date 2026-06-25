@@ -14,7 +14,7 @@ Dział na przepisy, składniki, podstawy gotowania, diety i praktyczne notatki k
 
 Główna notatka działu.
 
-### [[Diety]]
+### [[Diety/Lista indeksów|Diety]]
 
 Diety, schematy żywieniowe, posiłki wysokobiałkowe i podejścia specjalne.
 
@@ -30,6 +30,12 @@ Przepisy podzielone na obiady, dodatki, desery, kolacje, wypieki, farsze i maryn
 
 Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i sosy.
 
+## Indeksy podrzędne
+
+- [[Diety/Lista indeksów]]
+- [[Potrawy/Lista indeksów]]
+- [[Składniki/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Przepis trafia do `Potrawy`.
@@ -37,13 +43,8 @@ Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i sos
 - Technika trafia do `Podstawy`.
 - Dieta lub plan jedzenia trafia do `Diety`.
 
-## Indeksy podrzędne
-
-- [[Potrawy/Lista indeksów]]
-- [[Składniki/Lista indeksów]]
-
 ## Najbliższy rozwój
 
-- Dodać indeks dla `Potrawy/Ciasta i wypieki`.
-- Dodać indeks dla `Składniki/Owoce i warzywa`.
 - Uporządkować przepisy wysokobiałkowe.
+- Dodać notatki w `Podstawy`, jeśli zaczną powstawać techniki gotowania.
+- Ujednolicić nazwy składników i usunąć odmiany jako osobne notatki, jeśli są duplikatami.
