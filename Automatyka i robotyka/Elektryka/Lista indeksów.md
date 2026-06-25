@@ -11,11 +11,11 @@ Indeks działu elektrycznego. Ten folder służy do trzymania wiedzy o przewodac
 
 ## Główne działy
 
-### [[Rodzaje kabli]]
+### [[Rodzaje kabli/Lista indeksów|Rodzaje kabli]]
 
 Przewody i kable: DY, YDY, YKY, OWY, OMY, H07V-K, NYM, NYY i różnice między oznaczeniami.
 
-### [[Terminologia]]
+### [[Terminologia/Lista indeksów|Terminologia]]
 
 Pojęcia elektryczne, oznaczenia graficzne, oznaczenia literowe i definicje praktyczne.
 
@@ -37,6 +37,11 @@ Notatka o izolacji PVC i jej zastosowaniu.
 
 Plan dalszego rozwoju działu elektryki.
 
+## Indeksy podrzędne
+
+- [[Rodzaje kabli/Lista indeksów]]
+- [[Terminologia/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Konkretny typ przewodu trafia do `Rodzaje kabli`.
@@ -46,6 +51,6 @@ Plan dalszego rozwoju działu elektryki.
 
 ## Najbliższe porządki
 
-- Dodać indeks dla `Rodzaje kabli`.
-- Dodać indeks dla `Terminologia`.
 - Rozbudować dział zwarć o przykłady obliczeń.
+- Dodać indeks dla `Zasady obliczania prądów zwarciowych`, gdy pojawią się pierwsze notatki.
+- Uzupełniać opisy przewodów według jednego schematu.
