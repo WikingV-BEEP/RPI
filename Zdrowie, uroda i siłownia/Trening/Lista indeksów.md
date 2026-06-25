@@ -12,7 +12,7 @@ Indeks treningu. Ten folder służy do trzymania planów treningowych, notatek o
 
 ## Główne działy i notatki
 
-### [[Siłownia]]
+### [[Siłownia/Lista indeksów|Siłownia]]
 
 Trening siłowy, hipertrofia, grupy mięśniowe i plany ćwiczeń.
 
@@ -28,6 +28,10 @@ Plan łączący redukcję masy ciała z utrzymaniem mięśni.
 
 Notatki o treningu rowerowym.
 
+## Indeksy podrzędne
+
+- [[Siłownia/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Trening siłowy trafia do `Siłownia`.
@@ -38,6 +42,6 @@ Notatki o treningu rowerowym.
 
 ## Najbliższe porządki
 
-- Dodać indeks dla `Siłownia`.
 - Dodać notatkę o progresji siłowej.
 - Dodać notatkę o cardio na redukcji.
+- Dodać indeks dla biegania albo cardio, jeśli powstanie osobny folder.
