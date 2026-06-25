@@ -22,13 +22,13 @@ Gotowe przepisy podzielone według typu potrawy: śniadania, obiady, kolacje, sa
 
 Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i inne składniki.
 
-### [[Techniki]]
+### [[Techniki/Lista indeksów|Techniki]]
 
-Techniki gotowania, obróbka termiczna, przygotowanie składników i praktyczne procesy kuchenne.
+Techniki gotowania, obróbka termiczna, przygotowanie składników, narzędzia i praktyczne procesy kuchenne.
 
-### [[Makro i odżywianie]]
+### [[Makro i odżywianie/Lista indeksów|Makro i odżywianie]]
 
-Kalorie, białko, tłuszcze, węglowodany, redukcja i produkty wysokobiałkowe.
+Kalorie, białko, tłuszcze, węglowodany, redukcja, keto i produkty wysokobiałkowe.
 
 ### [[System tagów]]
 
@@ -38,18 +38,20 @@ Zasady tagowania przepisów, składników, technik, diet, kuchni i statusów.
 
 - [[Przepisy/Lista indeksów]]
 - [[Składniki/Lista indeksów]]
+- [[Techniki/Lista indeksów]]
+- [[Makro i odżywianie/Lista indeksów]]
 - [[System tagów]]
 
 ## Zasada porządkowania
 
 - Przepis trafia do `Przepisy`.
 - Opis produktu trafia do `Składniki`.
-- Technika trafia do `Techniki`.
+- Technika lub narzędzie trafia do `Techniki`.
 - Makro, kalorie i zasady odżywiania trafiają do `Makro i odżywianie`.
 - Dieta, kuchnia, składnik, technika i status są oznaczane tagami.
 
 ## Najbliższy rozwój
 
 - Ujednolicić tagi w starych przepisach po migracji.
-- Przenieść pozostałości z dawnych folderów `Diety` i `Podstawy`, jeśli ich treść pasuje do nowej struktury.
 - Uzupełniać makro w przepisach wysokobiałkowych i redukcyjnych.
+- Ograniczać puste foldery tylko do kategorii, które realnie będą używane.
