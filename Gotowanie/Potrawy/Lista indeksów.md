@@ -11,7 +11,7 @@ Indeks przepisów i gotowych potraw. Ten folder służy do trzymania konkretnych
 
 ## Kategorie potraw
 
-### [[Ciasta i wypieki]]
+### [[Ciasta i wypieki/Lista indeksów|Ciasta i wypieki]]
 
 Ciasta, torty, serniki, babki, chleby, placki, masy, polewy i wypieki domowe.
 
@@ -31,6 +31,10 @@ Proste posiłki, kolacje, szybkie dania wysokobiałkowe i jedzenie na szybko.
 
 Marynaty do mięsa, farsze, mieszanki smakowe i dodatki przygotowawcze.
 
+## Indeksy podrzędne
+
+- [[Ciasta i wypieki/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Pełny przepis trafia do konkretnej kategorii potrawy.
@@ -41,5 +45,5 @@ Marynaty do mięsa, farsze, mieszanki smakowe i dodatki przygotowawcze.
 ## Najbliższe porządki
 
 - Sprawdzić `Untitled.md` w daniach obiadowych.
-- Dodać indeks dla `Ciasta i wypieki`, bo to największa kategoria.
 - Dodać oznaczenia: szybkie, wysokobiałkowe, rodzinne, świąteczne.
+- Dodać indeks dla `Dania obiadowe i dodatki`, jeśli folder będzie dalej rósł.
