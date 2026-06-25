@@ -1,10 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
   - gotowanie/skladniki
   - indeks
-  - skladniki
 ---
 
 ## Zakres folderu
@@ -23,11 +20,11 @@ Mleko, śmietana, sery, jogurty, jajka, budynie i produkty mleczne.
 
 ### [[Owoce i warzywa/Lista indeksów|Owoce i warzywa]]
 
-Warzywa, owoce, zioła świeże, bakalie i składniki roślinne.
+Warzywa, owoce, bakalie, zioła świeże i składniki roślinne.
 
 ### [[Produkty mięsne/Lista indeksów|Produkty mięsne]]
 
-Mięso, wędliny, ryby i inne produkty białkowe pochodzenia zwierzęcego.
+Mięso, wędliny, ryby i produkty białkowe pochodzenia zwierzęcego.
 
 ### [[Produkty zbożowe/Lista indeksów|Produkty zbożowe]]
 
@@ -63,10 +60,10 @@ Masło, oleje, smalec, margaryna i inne tłuszcze.
 
 ## Zasada porządkowania
 
-- Pojedynczy składnik trafia tutaj, nie do potraw.
-- Przepis z użyciem składnika trafia do [[../Potrawy/Lista indeksów|Potraw]].
-- Opis diety lub makroskładników trafia do [[../Diety/Lista indeksów|Diet]].
-- Narzędzie kuchenne trafia do [[../Podstawy/Lista indeksów|Podstaw]].
+- Pojedynczy składnik trafia do `Składniki`.
+- Przepis trafia do [[../Przepisy/Lista indeksów|Przepisów]].
+- Technika lub narzędzie trafia do [[../Techniki|Technik]].
+- Makro, kalorie i zasady odżywiania trafiają do [[../Makro i odżywianie|Makro i odżywianie]].
 - Nazwy składników w przepisach linkować zgodnie z zasadą Obsidiana.
 
 ## Najbliższe porządki
