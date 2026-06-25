@@ -6,7 +6,7 @@ tags:
 
 ## Zakres folderu
 
-Dział na przepisy, składniki, podstawy gotowania, diety i praktyczne notatki kuchenne.
+Dział na przepisy, składniki, techniki gotowania, makro i praktyczne notatki kuchenne.
 
 ## Główne działy
 
@@ -14,38 +14,42 @@ Dział na przepisy, składniki, podstawy gotowania, diety i praktyczne notatki k
 
 Główna notatka działu.
 
-### [[Diety/Lista indeksów|Diety]]
+### [[Przepisy/Lista indeksów|Przepisy]]
 
-Diety, schematy żywieniowe, posiłki wysokobiałkowe i podejścia specjalne.
+Gotowe przepisy podzielone według typu potrawy: śniadania, obiady, kolacje, sałatki, zupy, desery, sosy i przekąski.
 
-### [[Podstawy/Lista indeksów|Podstawy]]
+### [[Składniki/Lista indeksów|Składniki]]
 
-Techniki gotowania, narzędzia kuchenne, obróbka termiczna, bezpieczeństwo i organizacja pracy w kuchni.
+Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i inne składniki.
 
-### [[Potrawy/Lista indeksów]]
+### [[Techniki]]
 
-Przepisy podzielone na obiady, dodatki, desery, kolacje, wypieki, farsze i marynaty.
+Techniki gotowania, obróbka termiczna, przygotowanie składników i praktyczne procesy kuchenne.
 
-### [[Składniki/Lista indeksów]]
+### [[Makro i odżywianie]]
 
-Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i sosy.
+Kalorie, białko, tłuszcze, węglowodany, redukcja i produkty wysokobiałkowe.
+
+### [[System tagów]]
+
+Zasady tagowania przepisów, składników, technik, diet, kuchni i statusów.
 
 ## Indeksy podrzędne
 
-- [[Diety/Lista indeksów]]
-- [[Podstawy/Lista indeksów]]
-- [[Potrawy/Lista indeksów]]
+- [[Przepisy/Lista indeksów]]
 - [[Składniki/Lista indeksów]]
+- [[System tagów]]
 
 ## Zasada porządkowania
 
-- Przepis trafia do `Potrawy`.
+- Przepis trafia do `Przepisy`.
 - Opis produktu trafia do `Składniki`.
-- Technika lub narzędzie trafia do `Podstawy`.
-- Dieta lub plan jedzenia trafia do `Diety`.
+- Technika trafia do `Techniki`.
+- Makro, kalorie i zasady odżywiania trafiają do `Makro i odżywianie`.
+- Dieta, kuchnia, składnik, technika i status są oznaczane tagami.
 
 ## Najbliższy rozwój
 
-- Uporządkować przepisy wysokobiałkowe.
-- Dodać podstawowe techniki gotowania do `Podstawy`.
-- Ujednolicić nazwy składników i usuwać odmiany jako osobne notatki, jeśli są duplikatami.
+- Ujednolicić tagi w starych przepisach po migracji.
+- Przenieść pozostałości z dawnych folderów `Diety` i `Podstawy`, jeśli ich treść pasuje do nowej struktury.
+- Uzupełniać makro w przepisach wysokobiałkowych i redukcyjnych.
