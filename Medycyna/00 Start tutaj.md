@@ -10,14 +10,14 @@ Ten katalog ma zbierać wiedzę medyczną w kilku osobnych porządkach: anatomia
 
 ## Główne działy
 
-| Dział | Do czego służy |
-|---|---|
-| [[Anatomia]] | budowa ciała i układów |
-| [[Dermatologia/00 Start tutaj|Dermatologia]] | skóra, choroby skóry, substancje i leki dermatologiczne |
-| [[Farmakologia/00 Start tutaj|Farmakologia]] | substancje czynne, grupy leków, działania niepożądane, interakcje |
-| [[Medycyna estetyczna/Medycyna estetyczna|Medycyna estetyczna]] | zabiegi, preparaty, anatomia zabiegowa, powikłania |
-| [[System ochrony zdrowia w Polsce/00 Start tutaj|System ochrony zdrowia w Polsce]] | NFZ, skierowania, lekarze, prawa pacjenta |
-| [[Książki]] | źródła i materiały edukacyjne |
+| Dział                                            | Do czego służy                    |                                                                   |
+| ------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------- |
+| [[Anatomia]]                                     | budowa ciała i układów            |                                                                   |
+| [[Dermatologia/00 Start tutaj                    | Dermatologia]]                    | skóra, choroby skóry, substancje i leki dermatologiczne           |
+| [[Farmakologia/00 Start tutaj                    | Farmakologia]]                    | substancje czynne, grupy leków, działania niepożądane, interakcje |
+| [[Medycyna estetyczna/Medycyna estetyczna        | Medycyna estetyczna]]             | zabiegi, preparaty, anatomia zabiegowa, powikłania                |
+| [[System ochrony zdrowia w Polsce/00 Start tutaj | System ochrony zdrowia w Polsce]] | NFZ, skierowania, lekarze, prawa pacjenta                         |
+| [[Książki]]                                      | źródła i materiały edukacyjne     |                                                                   |
 
 ## Zasada porządkowania
 

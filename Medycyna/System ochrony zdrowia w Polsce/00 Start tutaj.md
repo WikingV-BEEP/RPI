@@ -12,14 +12,14 @@ Ten folder opisuje praktyczną stronę korzystania z ochrony zdrowia w Polsce: N
 
 ## Główne notatki
 
-| Temat | Notatka |
-|---|---|
-| ogólny obraz systemu | [[Medycyna a obywatel w Polsce]] |
-| NFZ | [[NFZ/Narodowy Fundusz Zdrowia (NFZ)|Narodowy Fundusz Zdrowia (NFZ)]] |
-| lekarz pierwszego kontaktu | [[Lekarze i specjaliści/Lekarz rodzinny|Lekarz rodzinny]] |
-| specjalizacje | [[Lekarze i specjaliści/Rodzaje specjalistów|Rodzaje specjalistów]] |
-| skierowania | [[Skierowania/Skierowanie|Skierowanie]] |
-| dermatolog | [[Lekarze i specjaliści/Dermatolog|Dermatolog]] |
+| Temat                      | Notatka                                        |     |
+| -------------------------- | ---------------------------------------------- | --- |
+| ogólny obraz systemu       | [[Medycyna a obywatel w Polsce]]               |     |
+| NFZ                        | [[NFZ/Narodowy Fundusz Zdrowia (NFZ)]]         |     |
+| lekarz pierwszego kontaktu | [[Lekarze i specjaliści/Lekarz rodzinny]]      |     |
+| specjalizacje              | [[Lekarze i specjaliści/Rodzaje specjalistów]] |     |
+| skierowania                | [[Skierowania/Skierowanie]]                    |     |
+| dermatolog                 | [[Lekarze i specjaliści/Dermatolog]]           |     |
 
 ## Proponowany sposób rozbudowy
 
