@@ -87,15 +87,41 @@ Drewno, narzędzia, materiały, projekty, warsztat i wykończenia.
 
 Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
+## Ważne indeksy podrzędne
+
+### Gotowanie
+
+- [[Gotowanie/Potrawy/Lista indeksów]]
+- [[Gotowanie/Składniki/Lista indeksów]]
+
+### Ogrodnictwo
+
+- [[Ogrodnictwo/Rodzaje roślin/Lista indeksów]]
+
+### Automatyka i robotyka
+
+- [[Automatyka i robotyka/Elektryka/Lista indeksów]]
+
+### Programowanie
+
+- [[Programowanie/PLC/Lista indeksów]]
+
+### Zdrowie, uroda i siłownia
+
+- [[Zdrowie, uroda i siłownia/Trening/Lista indeksów]]
+- [[Zdrowie, uroda i siłownia/Suplementacja/Lista indeksów]]
+- [[Zdrowie, uroda i siłownia/Suplementacja/Suplementy/Lista indeksów]]
+
 ## Zasada pracy z indeksem
 
 - Nowy główny dział powinien dostać własny `Lista indeksów.md`.
-- Ten plik powinien prowadzić wyłącznie do głównych działów.
+- Duży podfolder z wieloma notatkami powinien dostać własny `Lista indeksów.md`.
+- Ten plik globalny powinien prowadzić do głównych działów i najważniejszych indeksów podrzędnych.
 - Szczegóły i podkategorie powinny być rozwijane w indeksach lokalnych.
 - Indeksy mają służyć do nawigacji, nie do przechowywania pełnej wiedzy.
 
 ## Najbliższe porządki do zrobienia
 
-- Dodać indeksy w dużych podfolderach: `Gotowanie/Potrawy`, `Gotowanie/Składniki`, `Ogrodnictwo/Rodzaje roślin`, `Automatyka i robotyka/Elektryka`, `Programowanie/PLC`, `Zdrowie, uroda i siłownia/Trening`.
+- Dodać indeksy dla największych podfolderów trzeciego poziomu: `Gotowanie/Potrawy/Ciasta i wypieki`, `Gotowanie/Składniki/Owoce i warzywa`, `Ogrodnictwo/Rodzaje roślin/Warzywa`, `Ogrodnictwo/Rodzaje roślin/Owoce`, `Automatyka i robotyka/Elektryka/Rodzaje kabli`, `Zdrowie, uroda i siłownia/Trening/Siłownia`.
 - Cyklicznie czyścić foldery techniczne i tymczasowe.
 - Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.
