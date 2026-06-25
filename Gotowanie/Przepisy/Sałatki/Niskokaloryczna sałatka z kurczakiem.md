@@ -69,3 +69,10 @@ Wariant z 5 g [[oliwa z oliwek|oliwy]]:
 | Białko | około 45 g |
 | Tłuszcz | około 10–12 g |
 | Węglowodany | około 25–30 g |
+
+## Uwagi praktyczne
+
+- Największy wpływ na kalorie ma tłuszcz użyty do smażenia i sosu.
+- Do wersji bardziej sycącej można dodać 100–150 g [[ziemniak|ziemniaków]] gotowanych, ale wtedy posiłek przestaje być tak lekki.
+- Do wersji bardzo niskokalorycznej użyj patelni beztłuszczowej i sosu na [[skyr naturalny|skyrze]], bez [[oliwa z oliwek|oliwy]].
+- Do pudełka najlepiej pakować sos osobno, żeby [[mix sałat|sałata]] nie zwiędła.
