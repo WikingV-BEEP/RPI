@@ -92,15 +92,22 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 ### Gotowanie
 
 - [[Gotowanie/Potrawy/Lista indeksów]]
+- [[Gotowanie/Potrawy/Ciasta i wypieki/Lista indeksów]]
 - [[Gotowanie/Składniki/Lista indeksów]]
+- [[Gotowanie/Składniki/Owoce i warzywa/Lista indeksów]]
+- [[Gotowanie/Składniki/Przyprawy i dodatki/Lista indeksów]]
 
 ### Ogrodnictwo
 
 - [[Ogrodnictwo/Rodzaje roślin/Lista indeksów]]
+- [[Ogrodnictwo/Rodzaje roślin/Warzywa/Lista indeksów]]
+- [[Ogrodnictwo/Rodzaje roślin/Owoce/Lista indeksów]]
 
 ### Automatyka i robotyka
 
 - [[Automatyka i robotyka/Elektryka/Lista indeksów]]
+- [[Automatyka i robotyka/Elektryka/Rodzaje kabli/Lista indeksów]]
+- [[Automatyka i robotyka/Elektryka/Terminologia/Lista indeksów]]
 
 ### Programowanie
 
@@ -109,6 +116,7 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 ### Zdrowie, uroda i siłownia
 
 - [[Zdrowie, uroda i siłownia/Trening/Lista indeksów]]
+- [[Zdrowie, uroda i siłownia/Trening/Siłownia/Lista indeksów]]
 - [[Zdrowie, uroda i siłownia/Suplementacja/Lista indeksów]]
 - [[Zdrowie, uroda i siłownia/Suplementacja/Suplementy/Lista indeksów]]
 
@@ -122,6 +130,7 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Najbliższe porządki do zrobienia
 
-- Dodać indeksy dla największych podfolderów trzeciego poziomu: `Gotowanie/Potrawy/Ciasta i wypieki`, `Gotowanie/Składniki/Owoce i warzywa`, `Ogrodnictwo/Rodzaje roślin/Warzywa`, `Ogrodnictwo/Rodzaje roślin/Owoce`, `Automatyka i robotyka/Elektryka/Rodzaje kabli`, `Zdrowie, uroda i siłownia/Trening/Siłownia`.
+- Dodać indeksy dla kolejnych dużych podfolderów: `Gotowanie/Potrawy/Dania obiadowe i dodatki`, `Gotowanie/Składniki/Nabiał`, `Gotowanie/Składniki/Produkty zbożowe`, `Gotowanie/Składniki/Słodziki i słodycze`, `Gotowanie/Składniki/Tłuszcze i oleje`.
+- Dodać indeksy w działach technicznych, gdy foldery zaczną zawierać więcej notatek: `Automatyka i robotyka/Elektryka/Zasady obliczania prądów zwarciowych`, `Programowanie`, `Praca`.
 - Cyklicznie czyścić foldery techniczne i tymczasowe.
 - Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.
