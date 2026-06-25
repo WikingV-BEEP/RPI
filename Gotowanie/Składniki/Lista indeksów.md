@@ -19,7 +19,7 @@ Składniki trudne do jednoznacznego przypisania, dodatki techniczne i produkty p
 
 Mleko, śmietana, sery, jogurty, jajka, budynie i produkty mleczne.
 
-### [[Owoce i warzywa]]
+### [[Owoce i warzywa/Lista indeksów|Owoce i warzywa]]
 
 Warzywa, owoce, zioła świeże, bakalie i składniki roślinne.
 
@@ -31,7 +31,7 @@ Mięso, wędliny, ryby i inne produkty białkowe pochodzenia zwierzęcego.
 
 Mąki, kasze, ryż, makarony, pieczywo i produkty zbożowe.
 
-### [[Przyprawy i dodatki]]
+### [[Przyprawy i dodatki/Lista indeksów|Przyprawy i dodatki]]
 
 Przyprawy, zioła suszone, aromaty, proszki, dodatki smakowe i spulchniacze.
 
@@ -47,6 +47,11 @@ Cukier, miód, czekolada, słodziki i składniki słodkie.
 
 Masło, oleje, smalec, margaryna i inne tłuszcze.
 
+## Indeksy podrzędne
+
+- [[Owoce i warzywa/Lista indeksów]]
+- [[Przyprawy i dodatki/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Pojedynczy składnik trafia tutaj, nie do potraw.
@@ -57,5 +62,5 @@ Masło, oleje, smalec, margaryna i inne tłuszcze.
 ## Najbliższe porządki
 
 - Ujednolicić wielkość liter w nazwach składników.
-- Dodać indeks dla `Owoce i warzywa`.
-- Dodać indeks dla `Przyprawy i dodatki`.
+- Dodać indeks dla `Nabiał`, jeśli folder będzie dalej rósł.
+- Dodać indeks dla `Produkty zbożowe`, jeśli folder będzie dalej rósł.
