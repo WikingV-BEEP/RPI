@@ -1,7 +1,8 @@
 ---
 tags:
-  - moda/ubrania
+  - moda-i-styl/ubrania
   - moda/sylwetki
+  - moda/ubrania
 ---
 
 ## Typy sylwetek męskich

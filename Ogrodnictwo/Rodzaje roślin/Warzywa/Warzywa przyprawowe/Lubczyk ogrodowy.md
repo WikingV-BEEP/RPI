@@ -1,9 +1,12 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - typ-gleby/zyzna
   - warzywa/przyprawowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - typ_gleby/żyzna
   - zastosowanie/kulinarne
 ---
 

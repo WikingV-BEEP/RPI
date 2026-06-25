@@ -1,3 +1,8 @@
+---
+tags:
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
+---
 ## Przykład implementacji zagnieżdżenia
 
 Każdy obiekt niższego poziomu przypisuje swój nadrzędny element za pomocą parametru `iParent`. Pozwala to tworzyć hierarchię zgodną z ustaloną strukturą DPAD.

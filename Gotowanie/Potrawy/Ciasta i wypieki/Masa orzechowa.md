@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 2 szkl. [[orzech|orzechów włoskich]] – zmielić
 - ⅔ szkl. [[mleko|mleka]] – ugotować

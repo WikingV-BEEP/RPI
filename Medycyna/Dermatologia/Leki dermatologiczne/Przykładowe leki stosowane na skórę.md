@@ -1,8 +1,10 @@
 ---
 tags:
-  - medycyna
+  - medycyna/dermatologia
+  - medycyna/dermatologia/leki-dermatologiczne
   - dermatologia
   - leki
+  - medycyna
   - skora
 ---
 

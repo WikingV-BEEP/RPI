@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 1 kostka [[Margaryna|margaryny]]
 - 1 szkl. [[cukier|cukru]]

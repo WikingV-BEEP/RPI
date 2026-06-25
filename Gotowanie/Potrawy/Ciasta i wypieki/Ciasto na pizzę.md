@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - [[Mąka|2,5 szkl. mąki]]
 - [[Jajka|2 jajka]]

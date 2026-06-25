@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-zbozowe
 ---
 
 Bułka to pieczywo używane do kanapek, grzanek, farszów i panierki.

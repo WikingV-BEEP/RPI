@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - gry
+  - indeks
 ---
 
 ## Zakres folderu

@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## I. [[Biszkopt|Biszkopt]]
 
 Przygotować dowolny [[Biszkopt|Biszkopt]] jako spód ciasta.

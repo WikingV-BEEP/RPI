@@ -1,11 +1,13 @@
 ---
 tags:
+  - programowanie/plc
+  - programowanie/plc/ba2
+  - analog-output
   - bacnet
-  - programowanie
-  - plc
   - beckhoff
-  - analog_output
-  - właściwości
+  - plc
+  - programowanie
+  - wlasciwosci
 ---
 
 ## BACnet – Właściwości obiektu Analog Output (AO)

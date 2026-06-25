@@ -1,3 +1,7 @@
+---
+tags:
+  - praca/dokumentacja
+---
 Hasło TwinCAT2022#
 10.24.100.5
 

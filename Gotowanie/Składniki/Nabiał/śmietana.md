@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
-  - tłuszcz
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
+  - nabial
+  - tluszcz
 ---
 
 Śmietana to produkt mleczny o podwyższonej zawartości tłuszczu, używany do sosów, zup, deserów, kremów i wypieków. Może być słodka albo kwaśna, a jej właściwości zależą głównie od zawartości tłuszczu oraz sposobu przetworzenia.

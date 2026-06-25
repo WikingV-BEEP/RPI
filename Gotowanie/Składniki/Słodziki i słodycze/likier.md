@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Likier to słodki, aromatyczny dodatek używany w deserach, kremach, polewach i niektórych ciastach.

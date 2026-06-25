@@ -1,14 +1,17 @@
 ---
 tags:
-  - warzywa/przyprawowe
-  - roślina wieloletnia
-  - stanowisko/słoneczne
-  - stanowisko/półcień
-  - gleba/próchniczna
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe
   - gleba/lekka
-  - zastosowanie/do przyprawiania
-  - okres zbioru/letnie
-  - trudność/łatwa
+  - gleba/prochniczna
+  - okres-zbioru/letnie
+  - roslina-wieloletnia
+  - stanowisko/polcien
+  - stanowisko/sloneczne
+  - trudnosc/latwa
+  - warzywa/przyprawowe
+  - zastosowanie/do-przyprawiania
 ---
 
 ## Opis ogólny  

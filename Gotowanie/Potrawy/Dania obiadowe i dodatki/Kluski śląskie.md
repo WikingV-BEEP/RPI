@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 ## Składniki
 - 3/4 objętości [[Ziemniaki|ziemniaków]] (ugotowanych i przetartych)
 - 1/4 objętości [[Mąka|mąki kartoflanej]]

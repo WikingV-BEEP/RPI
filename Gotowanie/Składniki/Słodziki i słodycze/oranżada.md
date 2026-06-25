@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Oranżada to słodki napój gazowany lub aromatyczny dodatek pojawiający się w niektórych domowych przepisach.

@@ -1,8 +1,9 @@
 ---
 tags:
+  - programowanie/plc
   - indeks
-  - programowanie
   - plc
+  - programowanie
 ---
 
 ## Zakres folderu

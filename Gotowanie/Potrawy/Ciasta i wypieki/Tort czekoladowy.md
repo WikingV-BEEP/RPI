@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki na ciasto
 - 10 [[Jajka|jaj]]
 - 20 dkg [[Mąka|mąki]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 # [[tarta owocowa|Tarta owocowa]] z budyniem i galaretką
 
 ## Składniki

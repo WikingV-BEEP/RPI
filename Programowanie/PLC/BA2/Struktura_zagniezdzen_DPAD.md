@@ -1,10 +1,12 @@
 ---
 tags:
-  - programowanie
-  - plc
+  - programowanie/plc
+  - programowanie/plc/ba2
   - beckhoff
   - dpad
-  - struktura_zagniezdzen
+  - plc
+  - programowanie
+  - struktura-zagniezdzen
 ---
 ## DPAD – Struktura i zasady budowy hierarchii obiektów w BA
 

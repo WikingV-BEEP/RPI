@@ -1,9 +1,10 @@
 ---
 tags:
+  - motocykle/serwis-i-eksploatacja
   - lakierowanie
   - motocykl
-  - warsztat
   - renowacja
+  - warsztat
 ---
 
 ## Przygotowanie powierzchni

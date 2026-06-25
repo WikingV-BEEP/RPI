@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - zioła
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
+  - ziola
 ---
 
 Natka pietruszki to świeży, zielony dodatek używany do zup, sosów, ziemniaków, sałatek i dań obiadowych.

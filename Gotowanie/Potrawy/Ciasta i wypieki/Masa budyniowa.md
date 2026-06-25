@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 2 szkl. [[mleko|mleka]]
 - 2 łyżki [[Mąka|mąki ziemniaczanej]]

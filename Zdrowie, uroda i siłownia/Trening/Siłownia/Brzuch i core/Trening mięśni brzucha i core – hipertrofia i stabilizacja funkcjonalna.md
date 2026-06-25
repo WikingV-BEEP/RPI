@@ -1,3 +1,9 @@
+---
+tags:
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
+  - zdrowie-uroda-i-silownia/trening/silownia/brzuch-i-core
+---
 ## Anatomia mięśni brzucha i core
 
 ### Mięsień prosty brzucha (Rectus abdominis)

@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/inne
   - indeks
   - gotowanie
-  - skladniki
   - inne
+  - skladniki
 ---
 
 ## Zakres folderu

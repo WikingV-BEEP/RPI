@@ -1,8 +1,9 @@
 ---
 tags:
+  - medycyna/medycyna-estetyczna
+  - indeks
   - medycyna
   - medycyna-estetyczna
-  - indeks
 ---
 
 ## Zakres działu

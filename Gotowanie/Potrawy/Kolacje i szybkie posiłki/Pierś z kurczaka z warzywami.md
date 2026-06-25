@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posilki
+---
 
 ### Składniki:
 - 150g [[pierś z kurczaka|piersi z kurczaka]]

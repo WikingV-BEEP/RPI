@@ -1,3 +1,7 @@
+---
+tags:
+  - rozwoj-osobisty
+---
 # Obszary zainteresowań do rozwoju
 
 ## Techniczne

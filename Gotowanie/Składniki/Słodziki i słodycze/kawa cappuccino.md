@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Kawa cappuccino to składnik o kawowo-mlecznym smaku, używany do deserów, ciast, kremów i napojów.

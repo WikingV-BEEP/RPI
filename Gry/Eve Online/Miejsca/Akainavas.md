@@ -1,3 +1,8 @@
+---
+tags:
+  - gry/eve-online
+  - gry/eve-online/miejsca
+---
 # System [[Akainavas|Akainavas]]
 ## Informacje ogólne
 - Poziom bezpieczeństwa: **0.7**

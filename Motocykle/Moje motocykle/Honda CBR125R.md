@@ -1,3 +1,7 @@
+---
+tags:
+  - motocykle/moje-motocykle
+---
 Książka dostępna na google drivie
 https://drive.google.com/file/d/1YrVZ8GRondPjenvF0yX4olsZFrTR0Fmi/view?usp=drivesdk
 

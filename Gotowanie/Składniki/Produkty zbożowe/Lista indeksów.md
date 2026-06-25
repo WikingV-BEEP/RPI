@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-zbozowe
   - indeks
   - gotowanie
-  - skladniki
   - produkty-zbozowe
+  - skladniki
 ---
 
 ## Zakres folderu

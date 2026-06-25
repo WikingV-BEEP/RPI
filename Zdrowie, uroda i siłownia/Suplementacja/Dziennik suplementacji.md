@@ -1,7 +1,8 @@
 ---
 tags:
-  - suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja
   - dziennik
+  - suplementacja
   - zdrowie
 ---
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posilki
+---
 ### Składniki:
 - 4 [[jajko kurze|jajka]]
 - 40g [[szynka z piersi kurczaka|szynki]]

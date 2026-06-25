@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
 ---
 
 Kurkuma to żółta przyprawa używana do ryżu, sosów, zup i dań jednogarnkowych.

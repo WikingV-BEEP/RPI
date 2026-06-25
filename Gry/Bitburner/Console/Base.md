@@ -1,3 +1,8 @@
+---
+tags:
+  - gry/bitburner
+  - gry/bitburner/console
+---
 
 NS api [link]([https://github.com/bitburner-official/bitburner-src/blob/stable/markdown/bitburner.ns.md])
 

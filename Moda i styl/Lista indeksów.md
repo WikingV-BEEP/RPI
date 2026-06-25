@@ -1,5 +1,6 @@
 ---
 tags:
+  - moda-i-styl
   - indeks
   - moda
   - styl

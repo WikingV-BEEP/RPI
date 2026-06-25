@@ -1,14 +1,17 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-pestkowe
+  - gleba/prochniczna
+  - gleba/zyzna
+  - okres-zbioru/letnie
   - owoce/pestkowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/próchniczna
-  - trudność/średnia
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc/srednia
   - zastosowanie/deserowe
-  - zastosowanie/przetwórcze
-  - okres_zbioru/letnie
+  - zastosowanie/przetworcze
 ---
 ## Opis
 [[brzoskwinia|Brzoskwinia]] (Prunus persica) to [[drzewo owocowe|drzewo owocowe]] pochodzące z Chin, uprawiane głównie w cieplejszych rejonach Polski. Jej owoce są soczyste, słodkie, aromatyczne i chętnie spożywane zarówno na surowo, jak i w przetworach.

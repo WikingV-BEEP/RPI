@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - ogrodnictwo
+  - indeks
 ---
 
 ## Zakres folderu

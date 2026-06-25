@@ -1,7 +1,8 @@
 ---
 tags:
+  - automatyka-i-robotyka/uncategorized
   - automatyka-i-robotyka/elektryka
-  - materiały
+  - materialy
   - terminologia
 ---
 

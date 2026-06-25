@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 ## Składniki
 - [[Ziemniaki|Ziemniaki]] – ugotować i rozgnieść
 - [[ser żółty|Ser żółty]] – zetrzeć

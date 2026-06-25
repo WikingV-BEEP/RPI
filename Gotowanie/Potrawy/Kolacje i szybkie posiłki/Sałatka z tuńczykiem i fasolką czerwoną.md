@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posilki
+---
 ### Składniki:
 - 100g [[tuńczyk w sosie własnym|tuńczyka]]
 - 100g [[fasola czerwona|fasoli czerwonej]]

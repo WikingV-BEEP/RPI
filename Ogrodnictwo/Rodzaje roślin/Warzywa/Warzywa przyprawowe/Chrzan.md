@@ -1,13 +1,16 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-przyprawowe
+  - gleba/prochniczna
+  - gleba/zyzna
+  - okres-zbioru/jesienne
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc/latwa
   - warzywa/przyprawowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/próchniczna
-  - okres_zbioru/jesienne
-  - zastosowanie/do_przyprawiania
-  - trudność/łatwa
+  - zastosowanie/do-przyprawiania
 ---
 
 ## Opis ogólny  

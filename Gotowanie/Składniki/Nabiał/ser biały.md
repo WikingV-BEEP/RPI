@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
+  - nabial
   - ser
 ---
 

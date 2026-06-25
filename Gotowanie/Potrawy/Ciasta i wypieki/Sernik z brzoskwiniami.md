@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Ciasto
 - 1 kostka [[masło|masła]]
 - 3 łyżki [[cukier puder|cukru pudru]]

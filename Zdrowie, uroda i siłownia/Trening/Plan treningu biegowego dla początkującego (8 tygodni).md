@@ -1,3 +1,7 @@
+---
+tags:
+  - zdrowie-uroda-i-silownia/trening
+---
 ## Założenia i cele
 
 - **Profil osoby:** wiek dorosły, waga 104 kg, wzrost 188 cm – czyli osoba o dużej masie ciała (nadwaga). Poziom wyjściowy niski: jednorazowo potrafi biec maksymalnie 10 minut z prędkością ok. 9 km/h (trucht).

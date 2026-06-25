@@ -1,3 +1,7 @@
+---
+tags:
+  - gotowanie/diety
+---
 # [[dieta ketogeniczna|Dieta ketogeniczna]] – zasady i działanie
 
 ## Założenia

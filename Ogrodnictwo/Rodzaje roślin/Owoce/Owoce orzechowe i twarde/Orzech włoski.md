@@ -1,13 +1,16 @@
 ---
 tags:
-  - owoce/orzechowe_i_twarde
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/głęboka
-  - trudność/średnia
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-orzechowe-i-twarde
+  - gleba/gleboka
+  - gleba/zyzna
+  - okres-zbioru/jesien
+  - owoce/orzechowe-i-twarde
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc/srednia
   - zastosowanie/jadalne
-  - okres_zbioru/jesień
 ---
 
 ## Opis ogólny  

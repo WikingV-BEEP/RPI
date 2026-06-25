@@ -1,9 +1,11 @@
 ---
 tags:
-  - suplementacja
-  - zdrowie
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
   - regeneracja
   - stawy
+  - suplementacja
+  - zdrowie
 ---
 
 ## W skrócie

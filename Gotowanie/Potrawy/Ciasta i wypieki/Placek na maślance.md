@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 3 [[Jajka|jajka]]
 - ¾ szkl. [[cukier|cukru]]

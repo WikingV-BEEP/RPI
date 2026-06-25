@@ -1,12 +1,15 @@
 ---
 tags:
-  - owoce/ziarnkowe
-  - roślina-wieloletnia
-  - stanowisko/słoneczne
-  - typ-gleby/żyzna
-  - zastosowanie/deserowe
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-ziarnkowe
   - okres-zbioru/letnie
-  - trudność-uprawy/średnia
+  - owoce/ziarnkowe
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc-uprawy/srednia
+  - typ-gleby/zyzna
+  - zastosowanie/deserowe
 ---
 
 [[grusza|Grusza]] (*Pyrus communis*) to długowieczne drzewo owocowe należące do rodziny różowatych. Jej owoce mają kształt charakterystycznej butelki i są soczyste, słodkie lub lekko kwaskowate – zależnie od odmiany. Uprawiana głównie w klimacie umiarkowanym.

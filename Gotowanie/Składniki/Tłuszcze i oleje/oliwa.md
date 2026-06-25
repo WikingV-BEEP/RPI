@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - tłuszcze-i-oleje
+  - gotowanie/skladniki
+  - gotowanie/skladniki/tluszcze-i-oleje
+  - tluszcze-i-oleje
 ---
 
 Oliwa to tłuszcz roślinny najczęściej kojarzony z kuchnią śródziemnomorską. Używa się jej do sałatek, sosów, marynat, pieczenia i krótkiego smażenia.

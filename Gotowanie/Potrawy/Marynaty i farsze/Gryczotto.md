@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/marynaty-i-farsze
+---
 ## Składniki
 - [[kasza gryczana|Kasza gryczana]] – ugotować
 - [[pierś z kurczaka|Pierś z kurczaka]] – w kostkę, [[smażyć|smażyć]]

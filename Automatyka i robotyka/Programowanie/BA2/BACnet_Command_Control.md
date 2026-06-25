@@ -1,11 +1,13 @@
 ---
 tags:
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
   - bacnet
-  - programowanie
-  - plc
   - beckhoff
-  - command_control
-  - priority_array
+  - command-control
+  - plc
+  - priority-array
+  - programowanie
 ---
 
 ## BACnet – Command Control

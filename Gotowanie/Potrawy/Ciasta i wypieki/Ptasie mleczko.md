@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 2 [[galaretka|galaretki owocowe]]
 - ¼ litra [[śmietana|śmietany]]

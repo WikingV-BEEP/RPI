@@ -1,3 +1,9 @@
+---
+tags:
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
+  - zdrowie-uroda-i-silownia/trening/silownia/ramiona
+---
 ## Anatomia mięśni nóg i pośladków
 
 **Mięśnie kończyn dolnych** obejmują liczne grupy odpowiadające za ruch w stawach biodrowych, kolanowych i skokowych. Poniżej opisano kluczowe mięśnie nóg i pośladków, ich budowę anatomiczną, funkcje oraz cechy włókien mięśniowych istotne z perspektywy hipertrofii.

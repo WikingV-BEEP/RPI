@@ -1,9 +1,11 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - pobudzenie
+  - sen
   - suplementacja
   - trening
-  - sen
-  - pobudzenie
 ---
 
 ## W skrócie

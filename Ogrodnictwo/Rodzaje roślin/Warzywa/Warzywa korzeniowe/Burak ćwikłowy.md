@@ -1,12 +1,15 @@
 ---
 tags:
-  - warzywa/korzeniowe
-  - roślina-dwuletnia
-  - stanowisko/słoneczne
-  - typ-gleby/żyzna
-  - zastosowanie/kulinarne
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-korzeniowe
   - okres-zbioru/letnie
-  - trudność-uprawy/łatwa
+  - roslina-dwuletnia
+  - stanowisko/sloneczne
+  - trudnosc-uprawy/latwa
+  - typ-gleby/zyzna
+  - warzywa/korzeniowe
+  - zastosowanie/kulinarne
 ---
 
 [[burak ćwikłowy|Burak ćwikłowy]] (Beta vulgaris) to roślina dwuletnia uprawiana głównie dla mięsistego, czerwonego korzenia, który jest spożywany na surowo, gotowany, pieczony lub kiszony. Młode liście są również jadalne – stanowią dodatek do sałatek lub dań na ciepło.

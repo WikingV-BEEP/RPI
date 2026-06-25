@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/marynaty-i-farsze
+---
 ## Składniki
 - 4 [[olej|łyżki oleju]]
 - 1 [[miód|łyżeczka miodu]]

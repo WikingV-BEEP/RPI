@@ -1,1 +1,5 @@
+---
+tags:
+  - praca/dokumentacja
+---
 thisisaBETAimage

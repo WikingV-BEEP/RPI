@@ -1,6 +1,7 @@
 ---
 tags:
   - gry/eve-online
+  - gry/eve-online/nacje
   - eve-online/frakcje
 ---
 

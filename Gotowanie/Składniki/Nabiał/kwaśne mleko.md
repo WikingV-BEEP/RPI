@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
   - fermentowane
+  - nabial
 ---
 
 Kwaśne mleko to mleko poddane naturalnej fermentacji mlekowej. Ma kwaśny smak, gęstszą konsystencję niż świeże mleko i jest wykorzystywane głównie w kuchni domowej oraz tradycyjnych wypiekach.

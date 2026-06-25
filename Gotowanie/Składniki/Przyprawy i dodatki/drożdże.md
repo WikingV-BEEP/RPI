@@ -1,9 +1,10 @@
 ---
 tags:
-  - gotowanie/składniki
-  - wypieki
-  - fermentacja
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
   - dodatek-technologiczny
+  - fermentacja
+  - wypieki
 ---
 
 Drożdże to mikroorganizmy wykorzystywane w kuchni głównie do spulchniania ciasta i prowadzenia fermentacji. Najczęściej używa się drożdży świeżych lub suszonych.

@@ -1,5 +1,7 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
   - indeks
   - gotowanie
   - skladniki

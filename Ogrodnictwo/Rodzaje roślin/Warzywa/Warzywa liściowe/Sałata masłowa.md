@@ -1,11 +1,14 @@
 ---
 tags:
-  - warzywa/liściowe
-  - roślina_jednoroczna
-  - stanowisko/słoneczne
-  - typ_gleby/żyzna
-  - zastosowanie/surówki
-  - okres_zbioru/wiosenne
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-lisciowe
+  - okres-zbioru/wiosenne
+  - roslina-jednoroczna
+  - stanowisko/sloneczne
+  - typ-gleby/zyzna
+  - warzywa/lisciowe
+  - zastosowanie/surowki
 ---
 
 ## Wygląd

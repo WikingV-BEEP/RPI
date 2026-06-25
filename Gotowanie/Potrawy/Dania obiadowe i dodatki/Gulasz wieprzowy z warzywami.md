@@ -1,5 +1,7 @@
 ---
 tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - gotowanie/potrawy/dania-obiadowe
   - kuchnia/francuska
 ---

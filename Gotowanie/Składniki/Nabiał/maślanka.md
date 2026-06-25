@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
   - fermentowane
+  - nabial
 ---
 
 Maślanka to fermentowany napój mleczny o lekko kwaśnym smaku i rzadkiej konsystencji. W kuchni jest używana jako składnik ciast, placków, naleśników, koktajli oraz lekkich sosów.

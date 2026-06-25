@@ -1,9 +1,11 @@
- ---
+---
 tags:
-  - programowanie
-  - plc
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
   - beckhoff
   - dpad
+  - plc
+  - programowanie
   - zagniezdzenia
 ---
 

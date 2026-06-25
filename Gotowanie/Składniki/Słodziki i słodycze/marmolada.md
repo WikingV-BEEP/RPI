@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Marmolada to gęsty przetwór owocowy używany jako nadzienie do pączków, ciastek, rogalików i ciast.

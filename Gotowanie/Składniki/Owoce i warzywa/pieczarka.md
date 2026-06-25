@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - owoce-i-warzywa
+  - gotowanie/skladniki
+  - gotowanie/skladniki/owoce-i-warzywa
   - grzyby
+  - owoce-i-warzywa
 ---
 
 Pieczarka to popularny grzyb jadalny o łagodnym smaku, używany w sosach, farszach, zupach, zapiekankach i daniach smażonych. Może być biała, brązowa albo portobello.

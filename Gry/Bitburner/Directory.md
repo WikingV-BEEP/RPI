@@ -1,1 +1,5 @@
+---
+tags:
+  - gry/bitburner
+---
 foodnstuff

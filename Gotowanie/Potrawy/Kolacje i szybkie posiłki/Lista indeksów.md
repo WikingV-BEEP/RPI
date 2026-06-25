@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posilki
   - indeks
   - gotowanie
-  - potrawy
   - kolacje-i-szybkie-posilki
+  - potrawy
 ---
 
 ## Zakres folderu

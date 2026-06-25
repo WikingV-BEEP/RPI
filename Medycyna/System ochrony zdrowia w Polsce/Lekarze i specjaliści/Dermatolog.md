@@ -1,8 +1,10 @@
 ---
 tags:
-  - medycyna
+  - medycyna/system-ochrony-zdrowia-w-polsce
+  - medycyna/system-ochrony-zdrowia-w-polsce/lekarze-i-specjalisci
   - dermatologia
   - lekarze
+  - medycyna
   - specjalisci
 ---
 

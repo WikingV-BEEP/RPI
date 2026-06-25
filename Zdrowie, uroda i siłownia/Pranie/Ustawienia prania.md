@@ -1,6 +1,6 @@
 ---
 tags:
-  - zdrowie_uroda_i_siłownia/pranie
+  - zdrowie-uroda-i-silownia/pranie
 ---
 
 ## Zasady prania

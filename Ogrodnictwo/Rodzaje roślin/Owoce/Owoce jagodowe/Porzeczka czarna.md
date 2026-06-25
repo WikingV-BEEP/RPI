@@ -1,14 +1,17 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-jagodowe
+  - gleba/prochniczna
+  - gleba/zyzna
+  - okres-zbioru/letnie
   - owoce/jagodowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/próchniczna
-  - okres_zbioru/letnie
-  - zastosowanie/przetwórcze
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc/latwa
   - zastosowanie/lecznicze
-  - trudność/łatwa
+  - zastosowanie/przetworcze
 ---
 ---
 ## Opis ogólny  

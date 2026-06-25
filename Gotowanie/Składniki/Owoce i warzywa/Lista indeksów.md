@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/owoce-i-warzywa
   - indeks
   - gotowanie
-  - skladniki
   - owoce-i-warzywa
+  - skladniki
 ---
 
 ## Zakres folderu

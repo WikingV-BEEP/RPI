@@ -1,11 +1,13 @@
 ---
 tags:
-  - programowanie
-  - plc
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
+  - ba-view
   - beckhoff
-  - ba_view
-  - struktura_drzewa
   - dpad
+  - plc
+  - programowanie
+  - struktura-drzewa
 ---
 
 ## Zasady budowy drzewa struktury w oparciu o `FB_BA_View`

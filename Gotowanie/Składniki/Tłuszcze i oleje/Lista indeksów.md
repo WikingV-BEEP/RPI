@@ -1,5 +1,7 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/tluszcze-i-oleje
   - indeks
   - gotowanie
   - skladniki

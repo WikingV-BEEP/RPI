@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - kwaśne
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
+  - kwasne
 ---
 
 Ocet to kwaśny składnik używany do marynat, sosów, sałatek i przetworów.

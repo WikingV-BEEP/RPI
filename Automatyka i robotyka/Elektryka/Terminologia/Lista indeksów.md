@@ -1,5 +1,7 @@
 ---
 tags:
+  - automatyka-i-robotyka/elektryka
+  - automatyka-i-robotyka/elektryka/terminologia
   - indeks
   - automatyka
   - elektryka

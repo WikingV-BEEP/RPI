@@ -1,12 +1,15 @@
 ---
 tags:
-  - warzywa/dyniowate
-  - roślina-jednoroczna
-  - stanowisko/słoneczne
-  - typ-gleby/lekka
-  - zastosowanie/uniwersalne
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-dyniowate
   - okres-zbioru/letnie
-  - trudność-uprawy/łatwa
+  - roslina-jednoroczna
+  - stanowisko/sloneczne
+  - trudnosc-uprawy/latwa
+  - typ-gleby/lekka
+  - warzywa/dyniowate
+  - zastosowanie/uniwersalne
 ---
 
 [[ogórek|Ogórek]] (*Cucumis sativus*) to jednoroczna roślina płożąca z rodziny dyniowatych. Jest popularnym warzywem w ogrodach przydomowych, uprawianym dla chrupiących owoców o świeżym smaku.

@@ -1,5 +1,6 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
   - suplementacja
   - zdrowie
 ---

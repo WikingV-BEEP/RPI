@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/marynaty-i-farsze
+---
 
 ## Składniki
 - [[sól|sól]] (1/3 łyżeczki na 1 kg mięsa)

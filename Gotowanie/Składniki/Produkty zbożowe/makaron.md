@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - produkty-zbożowe
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-zbozowe
   - dodatek
+  - produkty-zbozowe
 ---
 
 Makaron to produkt zbożowy przygotowywany najczęściej z mąki i wody lub jajek. Jest używany jako baza dań obiadowych, dodatek do zup, zapiekanek i sałatek.

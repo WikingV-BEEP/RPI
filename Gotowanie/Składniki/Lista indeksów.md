@@ -1,5 +1,6 @@
 ---
 tags:
+  - gotowanie/skladniki
   - indeks
   - gotowanie
   - skladniki

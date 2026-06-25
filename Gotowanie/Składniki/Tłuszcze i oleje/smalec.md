@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - tłuszcze-i-oleje
+  - gotowanie/skladniki
+  - gotowanie/skladniki/tluszcze-i-oleje
+  - tluszcze-i-oleje
 ---
 
 Smalec to tłuszcz używany do smażenia, pieczenia i jako dodatek do niektórych tradycyjnych potraw.

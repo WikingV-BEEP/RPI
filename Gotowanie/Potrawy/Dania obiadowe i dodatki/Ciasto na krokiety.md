@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 ## Składniki
 - 1/2 [[Margaryna|margaryny]]
 - 3 [[Jajka|jajka]]

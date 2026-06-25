@@ -1,8 +1,10 @@
 ---
 tags:
+  - automatyka-i-robotyka/elektryka
+  - automatyka-i-robotyka/elektryka/terminologia
   - elektryka/terminologia
-  - instalacje_elektrczne
-  - oznaczenia_kabli
+  - instalacje-elektrczne
+  - oznaczenia-kabli
 ---
 
 ## Oznaczenia literowe przewodów (np. [[YKY|YKY]], [[YDY|YDY]], [[DY|DY]])

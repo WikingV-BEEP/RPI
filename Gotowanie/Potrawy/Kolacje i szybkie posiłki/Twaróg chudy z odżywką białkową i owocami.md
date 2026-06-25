@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posilki
+---
 ### Składniki:
 - 200g [[twaróg chudy|twarogu]]
 - 30g [[odżywka białkowa|odżywki białkowej]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - zdrowie_uroda_i_siłownia/suplementacja
-  - siłownia
+  - zdrowie-uroda-i-silownia/suplementacja
+  - silownia
 ---
 
 ## Suplementacja stała

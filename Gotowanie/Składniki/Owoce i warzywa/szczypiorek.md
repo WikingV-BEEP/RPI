@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
-  - zioła
+  - ziola
 ---
 
 Szczypiorek to zielona część roślin cebulowych używana jako świeży, aromatyczny dodatek do potraw. Ma łagodniejszy smak niż cebula i dobrze sprawdza się w daniach na zimno oraz jako posypka.

@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - płyn
+  - gotowanie/skladniki
+  - gotowanie/skladniki/inne
+  - plyn
   - podstawowe
 ---
 

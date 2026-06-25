@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-miesne
   - indeks
   - gotowanie
-  - skladniki
   - produkty-miesne
+  - skladniki
 ---
 
 ## Zakres folderu

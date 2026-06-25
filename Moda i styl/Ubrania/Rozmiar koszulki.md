@@ -1,6 +1,6 @@
 ---
 tags:
-  - moda_i_styl/ubrania
+  - moda-i-styl/ubrania
   - rozmiary
 ---
 

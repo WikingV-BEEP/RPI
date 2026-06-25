@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 # ## Składniki
 - 60 dkg [[Mąka|mąki]]
 - 6 [[Jajka|jajek]] (tylko [[żółtko|żółtka]])

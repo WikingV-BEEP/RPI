@@ -1,11 +1,13 @@
 ---
 tags:
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
+  - ba2
   - bacnet
   - beckhoff
-  - ba2
-  - programowanie
-  - explorer
   - dpad
+  - explorer
+  - programowanie
   - visualisation
 ---
 

@@ -1,10 +1,12 @@
 ---
 tags:
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
   - bacnet
-  - protokoły_komunikacyjne
-  - programowanie
-  - plc
   - beckhoff
+  - plc
+  - programowanie
+  - protokoly-komunikacyjne
 ---
 
 ## BACnet – Obiekty

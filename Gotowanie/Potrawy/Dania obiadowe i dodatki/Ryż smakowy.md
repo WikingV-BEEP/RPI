@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 # [[ryż maślano-czosnkowy|Garlic Butter Rice]]
 
 ## Składniki

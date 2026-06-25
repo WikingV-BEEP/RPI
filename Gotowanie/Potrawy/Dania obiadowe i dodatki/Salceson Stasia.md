@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 ## Składniki
 - 6 dużych [[jabłko|jabłek]]
 - 1 opakowanie [[cukier waniliowy|cukru waniliowego]]

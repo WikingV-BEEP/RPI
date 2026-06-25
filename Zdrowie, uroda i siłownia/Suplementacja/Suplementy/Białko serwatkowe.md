@@ -1,9 +1,11 @@
 ---
 tags:
-  - suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - bialko
   - dieta
   - silownia
-  - bialko
+  - suplementacja
 ---
 
 ## W skrócie

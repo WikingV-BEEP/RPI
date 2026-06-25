@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 25 dkg [[orzech|orzechów]] – zmielić
 - 25 dkg [[cukier|cukru]]

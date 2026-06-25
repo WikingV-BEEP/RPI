@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
   - deser
+  - nabial
 ---
 
 Budyń to słodki deser lub składnik mas cukierniczych przygotowywany najczęściej na bazie mleka, skrobi i dodatku smakowego. W kuchni domowej używa się go zarówno jako samodzielnego deseru, jak i jako zagęszczacza do kremów, ciast oraz tart.

@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/desery-i-slodkie-przekaski
+---
 ## Ciasto dolne
 
 ### Składniki

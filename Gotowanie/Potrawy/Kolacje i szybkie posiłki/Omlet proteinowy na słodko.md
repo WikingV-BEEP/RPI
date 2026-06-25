@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/kolacje-i-szybkie-posilki
+---
 ### Składniki:
 - 3 [[jajko kurze|jajka]]
 - 20g [[mąka owsiana|mąki owsianej]]

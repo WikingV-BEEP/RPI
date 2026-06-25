@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/marynaty-i-farsze
+---
 # [[marynata fajita|Marynata Fajita]]
 
 ## Składniki

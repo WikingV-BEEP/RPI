@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - gotowanie
+  - indeks
 ---
 
 ## Zakres folderu

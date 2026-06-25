@@ -1,3 +1,9 @@
+---
+tags:
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
+  - zdrowie-uroda-i-silownia/trening/silownia/klatka-piersiowa
+---
 ## Anatomia mięśni klatki piersiowej
 
 **Mięsień piersiowy większy (m. pectoralis major)** – największy, powierzchowny mięsień klatki piersiowej o kształcie trójkątnym[pl.wikipedia.org](https://pl.wikipedia.org/wiki/Mi%C4%99sie%C5%84_piersiowy_wi%C4%99kszy#:~:text=Mi%C4%99sie%C5%84%20piersiowy%20wi%C4%99kszy%20%28%C5%82ac,Tylna%20powierzchnia%20mi%C4%99%C5%9Bnia%20piersiowego). Składa się z **trzech części** o odrębnych przyczepach początkowych: części obojczykowej (górnej), mostkowo-żebrowej (środkowej) oraz brzusznej (dolnej). Część obojczykowa przyczepia się do przyśrodkowej części obojczyka, część mostkowo-żebrowa do mostka i chrząstek żeber II–VI, zaś część brzuszna do pochewki mięśnia prostego brzucha[pl.wikipedia.org](https://pl.wikipedia.org/wiki/Mi%C4%99sie%C5%84_piersiowy_wi%C4%99kszy#:~:text=Przy%C5%9Brodkowo%20mi%C4%99sie%C5%84%20piersiowy%20wi%C4%99kszy%20ma,%C5%9Bci%C4%99gno%20przyczepione%20do%20grzebienia%20guzka). Wszystkie włókna zbiegają się ku bokowi, przechodząc we wspólne ścięgno na grzebieniu guzka większego kości ramiennej[pl.wikipedia.org](https://pl.wikipedia.org/wiki/Mi%C4%99sie%C5%84_piersiowy_wi%C4%99kszy#:~:text=do%20przy%C5%9Brodkowego%20fragmentu%20obojczyka%20,2). 

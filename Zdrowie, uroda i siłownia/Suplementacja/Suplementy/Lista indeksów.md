@@ -1,9 +1,11 @@
 ---
 tags:
-  - suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
   - indeks
-  - zdrowie
   - silownia
+  - suplementacja
+  - zdrowie
 ---
 
 ## Jak korzystać z tego folderu

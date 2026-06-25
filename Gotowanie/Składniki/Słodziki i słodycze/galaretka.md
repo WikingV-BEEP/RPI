@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Galaretka to słodki składnik deserowy, który po rozpuszczeniu i schłodzeniu tworzy żelową strukturę.

@@ -1,5 +1,6 @@
 ---
 tags:
+  - fotografia-i-montaz
   - indeks
   - fotografia
   - montaz

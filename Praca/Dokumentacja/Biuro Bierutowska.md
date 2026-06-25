@@ -1,3 +1,7 @@
+---
+tags:
+  - praca/dokumentacja
+---
 http://10.201.34.12:1010/
 
 Cerntrala vts 

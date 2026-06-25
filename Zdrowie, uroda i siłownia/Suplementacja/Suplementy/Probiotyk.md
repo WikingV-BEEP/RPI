@@ -1,9 +1,11 @@
 ---
 tags:
-  - suplementacja
-  - zdrowie
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
   - jelita
   - mikrobiom
+  - suplementacja
+  - zdrowie
 ---
 
 ## W skrócie

@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/marynaty-i-farsze
   - indeks
   - gotowanie
-  - potrawy
   - marynaty-i-farsze
+  - potrawy
 ---
 
 ## Zakres folderu

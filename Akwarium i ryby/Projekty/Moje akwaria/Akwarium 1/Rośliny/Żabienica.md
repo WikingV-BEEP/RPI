@@ -1,8 +1,12 @@
 ---
 tags:
-  - rosliny/wodne
+  - akwarium-i-ryby/projekty
+  - akwarium-i-ryby/projekty/moje-akwaria
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1/rosliny
   - akwarium
   - rosliny-zanurzone
+  - rosliny/wodne
 ---
 
 **[[żabienica|Żabienica]]** to popularna roślina akwariowa z rodzaju [[Echinodorus|Echinodorus]], naturalnie występująca w wodach Ameryki Południowej. Ceniona jest za dużą odporność i dekoracyjne, szerokie liście wyrastające z rozety.

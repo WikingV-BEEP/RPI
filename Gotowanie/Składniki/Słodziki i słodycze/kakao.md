@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Kakao to składnik o czekoladowym, lekko gorzkim smaku, używany do napojów, ciast, polew, kremów i deserów.

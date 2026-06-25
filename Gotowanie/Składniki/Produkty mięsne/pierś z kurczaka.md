@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - produkty-mięsne
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-miesne
+  - produkty-miesne
 ---
 
 Pierś z kurczaka to chude mięso drobiowe używane do dań obiadowych, sałatek, zapiekanek, tortilli i posiłków wysokobiałkowych.

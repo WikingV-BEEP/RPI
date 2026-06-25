@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/potrawy/dania_obiadowe_i_dodatki
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
 ---
 
 

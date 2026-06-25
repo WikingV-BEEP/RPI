@@ -1,12 +1,14 @@
 ---
 tags:
-  - bacnet
-  - programowanie
-  - plc
-  - beckhoff
+  - programowanie/plc
+  - programowanie/plc/ba2
   - amsnetid
+  - bacnet
+  - beckhoff
+  - io-linking
   - komunikacja
-  - io_linking
+  - plc
+  - programowanie
 ---
 
 ## BACnet – Podlinkowanie `AMSNetID` w konfiguracji urządzenia

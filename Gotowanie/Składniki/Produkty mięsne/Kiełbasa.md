@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - produkty-mięsne
-  - mięso
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-miesne
+  - mieso
+  - produkty-miesne
 ---
 
 Kiełbasa to wyrób mięsny przygotowywany z rozdrobnionego mięsa, tłuszczu i przypraw, zwykle zamknięty w osłonce. W kuchni może być smażona, gotowana, pieczona, grillowana albo dodawana do zup i dań jednogarnkowych.

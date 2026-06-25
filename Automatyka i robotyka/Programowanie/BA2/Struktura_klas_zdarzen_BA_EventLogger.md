@@ -1,11 +1,13 @@
 ---
 tags:
-  - programowanie
-  - plc
-  - beckhoff
-  - ba_view
-  - eventlogger
+  - automatyka-i-robotyka/programowanie
+  - automatyka-i-robotyka/programowanie/ba2
   - alarmy
+  - ba-view
+  - beckhoff
+  - eventlogger
+  - plc
+  - programowanie
   - zdarzenia
 ---
 

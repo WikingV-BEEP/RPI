@@ -1,9 +1,11 @@
 ---
 tags:
-  - suplementacja
-  - silownia
-  - trening
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
   - regeneracja
+  - silownia
+  - suplementacja
+  - trening
 ---
 
 ## W skrócie

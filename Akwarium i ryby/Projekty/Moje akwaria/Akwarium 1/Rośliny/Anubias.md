@@ -1,5 +1,9 @@
 ---
 tags:
+  - akwarium-i-ryby/projekty
+  - akwarium-i-ryby/projekty/moje-akwaria
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1/rosliny
   - rosliny-akwariowe
   - rosliny-akwariowe/anubias
   - rosliny-latwe

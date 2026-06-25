@@ -1,10 +1,11 @@
 ---
-tags:
-  - gotowanie/składniki
-  - produkty-zbożowe
-  - kasza
 aliases:
   - Manna
+tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-zbozowe
+  - kasza
+  - produkty-zbozowe
 ---
 
 Kasza manna to drobna kasza pszenna używana do deserów mlecznych, zagęszczania mas, kleików, zup i wypieków. Ma delikatny smak oraz szybko chłonie płyn.

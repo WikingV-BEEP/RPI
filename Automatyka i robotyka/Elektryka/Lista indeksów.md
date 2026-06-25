@@ -1,5 +1,6 @@
 ---
 tags:
+  - automatyka-i-robotyka/elektryka
   - indeks
   - automatyka
   - elektryka

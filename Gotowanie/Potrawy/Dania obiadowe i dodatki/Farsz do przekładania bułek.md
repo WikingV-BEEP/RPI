@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 ## Składniki
 - [[pieczarka|1 kg pieczarek]]
 - [[Cebula|4 cebule]]

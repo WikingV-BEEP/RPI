@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Ciasto
 - 2 [[Mąka|szkl. mąki]]
 - 1 [[soda oczyszczona|łyżka sody]]

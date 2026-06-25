@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 1 szkl. [[cukier|cukru]]
 - 1 szkl. [[mleko|mleka]]

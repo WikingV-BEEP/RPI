@@ -1,7 +1,9 @@
 ---
 tags:
+  - automatyka-i-robotyka/elektryka
+  - automatyka-i-robotyka/elektryka/terminologia
   - elektryka/terminologia
-  - instalacje_elektrczne
+  - instalacje-elektrczne
   - zasilanie
 ---
 

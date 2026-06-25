@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - ½ kostki [[masło|masła]] (roztopić)
 - ½ kostki [[Margaryna|margaryny]] (roztopić)

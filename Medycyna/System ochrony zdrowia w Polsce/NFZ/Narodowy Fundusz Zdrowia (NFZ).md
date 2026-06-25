@@ -1,9 +1,11 @@
 ---
 tags:
+  - medycyna/system-ochrony-zdrowia-w-polsce
+  - medycyna/system-ochrony-zdrowia-w-polsce/nfz
   - medycyna
   - nfz
-  - system-ochrony-zdrowia
   - polska
+  - system-ochrony-zdrowia
 ---
 
 ## Podstawowe informacje

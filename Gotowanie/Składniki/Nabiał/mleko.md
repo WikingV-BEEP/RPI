@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
-  - płyn
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
+  - nabial
+  - plyn
 ---
 
 Mleko to podstawowy produkt nabiałowy używany w kuchni jako składnik płynny, baza deserów, sosów, ciast, naleśników i napojów. Może występować w różnych zawartościach tłuszczu oraz jako produkt świeży, UHT lub bez laktozy.

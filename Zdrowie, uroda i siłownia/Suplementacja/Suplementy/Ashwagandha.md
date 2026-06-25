@@ -1,9 +1,11 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - sen
+  - stres
   - suplementacja
   - zdrowie
-  - stres
-  - sen
 ---
 
 ## W skrócie

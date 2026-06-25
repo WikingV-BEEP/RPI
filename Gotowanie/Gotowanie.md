@@ -1,3 +1,7 @@
+---
+tags:
+  - gotowanie
+---
 # Gotowanie
 
 ## Rodzaje kuchni

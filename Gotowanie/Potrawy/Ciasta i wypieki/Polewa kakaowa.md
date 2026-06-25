@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 4 łyżki [[kakao|kakao]]
 - 2 łyżki [[masło|masła]]

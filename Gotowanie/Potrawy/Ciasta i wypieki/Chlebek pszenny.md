@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 1 kg [[Mąka|mąki tortowej 650]]
 - 0,5 dkg [[drożdże]]

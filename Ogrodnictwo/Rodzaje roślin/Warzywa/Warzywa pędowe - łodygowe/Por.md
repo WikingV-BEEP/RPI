@@ -1,15 +1,18 @@
 ---
 tags:
-  - warzywa/łodygowe
-  - roślina_dwuletnia
-  - stanowisko/słoneczne
-  - typ_gleby/żyzna
-  - typ_gleby/próchniczna
-  - zastosowanie/surówki
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
+  - ogrodnictwo/rodzaje-roslin/warzywa/warzywa-pedowe-lodygowe
+  - okres-zbioru/jesienne
+  - roslina-dwuletnia
+  - stanowisko/sloneczne
+  - trudnosc-uprawy/srednia
+  - typ-gleby/prochniczna
+  - typ-gleby/zyzna
+  - warzywa/lodygowe
   - zastosowanie/gotowanie
+  - zastosowanie/surowki
   - zastosowanie/zupy
-  - okres_zbioru/jesienne
-  - trudność_uprawy/średnia
 ---
 
 [[por|Por]] to warzywo dwuletnie należące do rodziny amarylkowatych. Uprawiany jest głównie dla zgrubiałej, wybielonej części łodygi, przypominającej cebulę, jednak pozbawionej wyraźnej bulwy.

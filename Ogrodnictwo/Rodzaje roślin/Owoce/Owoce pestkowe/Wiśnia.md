@@ -1,13 +1,16 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-pestkowe
+  - okres-zbioru/letnie
   - owoce/pestkowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - typ_gleby/żyzna
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc-uprawy/latwa
+  - typ-gleby/zyzna
   - zastosowanie/deserowe
-  - zastosowanie/przetwórcze
-  - okres_zbioru/letnie
-  - trudność_uprawy/łatwa
+  - zastosowanie/przetworcze
 ---
 
 

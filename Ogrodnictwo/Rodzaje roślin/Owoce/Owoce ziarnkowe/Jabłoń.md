@@ -1,14 +1,17 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-ziarnkowe
+  - gleba/prochniczna
+  - gleba/zyzna
+  - okres-zbioru/letnie
   - owoce/ziarnkowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/próchniczna
-  - okres_zbioru/letnie
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc/srednia
   - zastosowanie/deserowe
-  - zastosowanie/przetwórcze
-  - trudność/średnia
+  - zastosowanie/przetworcze
 ---
 ## Opis
 [[jabłoń|Jabłoń]] (Malus domestica) to jedna z najczęściej uprawianych [[drzewo owocowe|drzew owocowych]] w Polsce. Charakteryzuje się szeroką koroną, drobnymi, białoróżowymi kwiatami i dużą różnorodnością odmian o zróżnicowanym smaku, kolorze i czasie dojrzewania. 

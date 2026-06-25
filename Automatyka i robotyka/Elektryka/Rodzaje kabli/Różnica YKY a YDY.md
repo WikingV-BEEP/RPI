@@ -1,7 +1,9 @@
 ---
 tags:
+  - automatyka-i-robotyka/elektryka
+  - automatyka-i-robotyka/elektryka/rodzaje-kabli
   - elektryka/przewody
-  - instalacje_elektrczne
+  - instalacje-elektrczne
   - kable
 ---
 

@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - produkty-zbożowe
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-zbozowe
+  - produkty-zbozowe
   - wypieki
 ---
 

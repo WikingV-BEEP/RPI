@@ -1,3 +1,8 @@
+---
+tags:
+  - automatyka-i-robotyka/elektryka
+  - automatyka-i-robotyka/elektryka/rodzaje-kabli
+---
 # [[Przewód LY|Przewód LY]]
 
 ## Charakterystyka

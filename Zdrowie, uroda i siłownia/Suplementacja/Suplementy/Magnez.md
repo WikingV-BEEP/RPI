@@ -1,9 +1,11 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - mineraly
+  - sen
   - suplementacja
   - zdrowie
-  - sen
-  - mineraly
 ---
 
 ## W skrócie

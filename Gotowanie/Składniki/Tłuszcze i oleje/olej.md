@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - tłuszcze-i-oleje
+  - gotowanie/skladniki
+  - gotowanie/skladniki/tluszcze-i-oleje
+  - tluszcze-i-oleje
 ---
 
 Olej to płynny tłuszcz używany do smażenia, pieczenia, marynat, sosów i dressingów. W kuchni występuje wiele rodzajów oleju, między innymi rzepakowy, słonecznikowy, kokosowy i sezamowy.

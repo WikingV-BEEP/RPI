@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+---
 ## Składniki
 - [[pulpety|Pulpety]]
 - 2 małe [[słoik sos pomidorowy|słoiczki sosu pomidorowego]]

@@ -1,10 +1,14 @@
 ---
 tags:
-  - rośliny-akwariowe
-  - rośliny-średnio-trudne
+  - akwarium-i-ryby/projekty
+  - akwarium-i-ryby/projekty/moje-akwaria
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1/rosliny
   - limnophila-heterophylla
-  - stanowisko-światło-umiarkowane
-  - stanowisko-światło-mocne
+  - rosliny-akwariowe
+  - rosliny-srednio-trudne
+  - stanowisko-swiatlo-mocne
+  - stanowisko-swiatlo-umiarkowane
 ---
 
 [[Limnophila heterophylla|Limnophila heterophylla]] to szybko rosnąca roślina łodygowa stosowana głównie w tle akwarium. Tworzy gęste, pierzaste okółki liści i pomaga w stabilizacji biologicznej zbiornika poprzez intensywne pobieranie związków azotu.

@@ -1,10 +1,11 @@
 ---
 tags:
+  - akwarium-i-ryby/parametry-wody
   - akwarium
-  - parametry-wody
-  - cykl-azotowy
   - bakterie-nitryfikacyjne
   - chemia-wody
+  - cykl-azotowy
+  - parametry-wody
 ---
 
 ## Czym jest cykl azotowy

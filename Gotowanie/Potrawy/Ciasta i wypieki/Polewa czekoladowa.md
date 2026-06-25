@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 1 łyżka [[Margaryna|margaryny]]
 - 1 łyżka [[masło|masła]]

@@ -1,10 +1,12 @@
 ---
 tags:
+  - programowanie/plc
+  - programowanie/plc/ba2
   - bacnet
-  - protokoły_komunikacyjne
-  - programowanie
-  - plc
   - beckhoff
+  - plc
+  - programowanie
+  - protokoly-komunikacyjne
 ---
 
 ## BACnet – Obiekty

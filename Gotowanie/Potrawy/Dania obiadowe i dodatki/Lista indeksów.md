@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - indeks
+  - dania-obiadowe-i-dodatki
   - gotowanie
   - potrawy
-  - dania-obiadowe-i-dodatki
 ---
 
 ## Zakres folderu

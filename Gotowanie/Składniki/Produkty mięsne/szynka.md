@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - produkty-mięsne
+  - gotowanie/skladniki
+  - gotowanie/skladniki/produkty-miesne
+  - produkty-miesne
 ---
 
 Szynka to składnik używany jako dodatek do kanapek, jajek, sałatek, zapiekanek i farszów.

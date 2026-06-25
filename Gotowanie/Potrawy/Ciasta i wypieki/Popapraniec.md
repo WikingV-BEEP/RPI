@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Ciasto
 - 5 [[Jajka|jajek]]
 - 1 szkl. [[Mąka|Mąka]]

@@ -1,9 +1,11 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - aminokwasy
+  - silownia
   - suplementacja
   - trening
-  - silownia
-  - aminokwasy
 ---
 
 ## W skrócie

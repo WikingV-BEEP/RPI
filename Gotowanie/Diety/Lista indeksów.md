@@ -1,8 +1,9 @@
 ---
 tags:
+  - gotowanie/diety
   - indeks
-  - gotowanie
   - dieta
+  - gotowanie
 ---
 
 ## Zakres folderu

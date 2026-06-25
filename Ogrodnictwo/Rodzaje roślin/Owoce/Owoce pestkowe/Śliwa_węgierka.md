@@ -1,14 +1,17 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-pestkowe
+  - gleba/prochniczna
+  - gleba/zyzna
+  - okres-zbioru/pozne-lato
   - owoce/pestkowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/próchniczna
-  - okres_zbioru/późne_lato
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - trudnosc/umiarkowana
   - zastosowanie/deserowe
-  - zastosowanie/przetwórcze
-  - trudność/umiarkowana
+  - zastosowanie/przetworcze
 ---
 
 ## Opis ogólny  

@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
+  - kwasne
   - przyprawy-i-dodatki
-  - kwaśne
 ---
 
 Kwasek cytrynowy to kwaśny dodatek używany do zakwaszania potraw, napojów, przetworów i deserów. Ma postać drobnych kryształków i jest bardzo skoncentrowany.

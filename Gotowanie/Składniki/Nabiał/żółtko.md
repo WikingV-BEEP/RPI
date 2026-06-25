@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - nabiał
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
   - jajka
+  - nabial
 ---
 
 Żółtko to tłusta część jaja, bogata w emulgatory, tłuszcz i składniki nadające potrawom kolor oraz kremową strukturę. W kuchni jest używane do sosów, kremów, ciast, panierowania i zagęszczania mas.

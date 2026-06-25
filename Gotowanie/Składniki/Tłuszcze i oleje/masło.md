@@ -1,7 +1,8 @@
 ---
 tags:
-  - gotowanie/składniki
-  - tłuszcze-i-oleje
+  - gotowanie/skladniki
+  - gotowanie/skladniki/tluszcze-i-oleje
+  - tluszcze-i-oleje
 ---
 
 Masło to tłuszcz mleczny używany w wypiekach, kremach, sosach, smażeniu i jako dodatek smakowy. Nadaje potrawom charakterystyczny, mleczno-tłusty aromat.

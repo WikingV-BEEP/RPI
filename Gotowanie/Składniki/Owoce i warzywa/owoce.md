@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - owoce-i-warzywa
+  - gotowanie/skladniki
+  - gotowanie/skladniki/owoce-i-warzywa
   - owoc
+  - owoce-i-warzywa
 ---
 
 Owoce to jadalne części roślin używane w kuchni do deserów, wypieków, przetworów, napojów, sałatek i dań słodko-wytrawnych. Mogą być świeże, suszone, mrożone, gotowane, pieczone albo konserwowane.

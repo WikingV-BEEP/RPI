@@ -1,9 +1,10 @@
 ---
 tags:
   - gotowanie/potrawy
-  - gotowanie/ciasta-i-wypieki
+  - gotowanie/potrawy/ciasta-i-wypieki
   - babeczki
   - czekolada
+  - gotowanie/ciasta-i-wypieki
   - wypieki
 ---
   

@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Cukier to podstawowy składnik słodzący używany w wypiekach, deserach, napojach i przetworach.

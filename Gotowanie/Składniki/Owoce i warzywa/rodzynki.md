@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - suszone-owoce
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 1 kg [[ser|sera]]
 - 3 [[Jajka|jajka]] całe

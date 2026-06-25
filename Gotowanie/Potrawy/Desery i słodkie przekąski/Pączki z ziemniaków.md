@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/desery-i-slodkie-przekaski
+---
 ## Składniki
 - 1 kg [[Ziemniaki|ziemniaków]] ugotowanych – ciepłych
 - 1 kg [[Mąka|mąki]]

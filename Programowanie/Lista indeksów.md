@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - programowanie
+  - indeks
 ---
 
 ## Zakres folderu

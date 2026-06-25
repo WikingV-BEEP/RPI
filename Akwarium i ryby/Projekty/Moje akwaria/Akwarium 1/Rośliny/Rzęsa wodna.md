@@ -1,8 +1,12 @@
 ---
 tags:
-  - rosliny/wodne
+  - akwarium-i-ryby/projekty
+  - akwarium-i-ryby/projekty/moje-akwaria
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1/rosliny
   - akwarium
   - rosliny-plywajace
+  - rosliny/wodne
 ---
 
 **[[rzęsa wodna|Rzęsa wodna]]** to bardzo drobna roślina pływająca z rodziny obrazkowatych, najczęściej spotykana w postaci gatunku [[Lemna minor|Lemna minor]]. Występuje naturalnie w stojących lub wolno płynących wodach i często pojawia się również w akwariach.

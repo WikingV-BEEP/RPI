@@ -1,5 +1,7 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/sosy-i-dipy
   - indeks
   - gotowanie
   - skladniki

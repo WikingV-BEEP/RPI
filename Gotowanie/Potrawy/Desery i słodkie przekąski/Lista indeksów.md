@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/desery-i-slodkie-przekaski
   - indeks
+  - desery-i-slodkie-przekaski
   - gotowanie
   - potrawy
-  - desery-i-slodkie-przekaski
 ---
 
 ## Zakres folderu

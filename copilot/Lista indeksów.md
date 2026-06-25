@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - copilot
+  - indeks
   - konfiguracja
 ---
 

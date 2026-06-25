@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Miód to naturalny składnik słodzący używany w deserach, wypiekach, napojach, marynatach i sosach.

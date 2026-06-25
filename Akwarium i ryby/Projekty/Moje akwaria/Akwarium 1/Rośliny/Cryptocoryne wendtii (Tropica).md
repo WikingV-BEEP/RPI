@@ -1,10 +1,14 @@
 ---
 tags:
-  - rośliny-akwariowe
-  - rośliny-łatwe
+  - akwarium-i-ryby/projekty
+  - akwarium-i-ryby/projekty/moje-akwaria
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1
+  - akwarium-i-ryby/projekty/moje-akwaria/akwarium-1/rosliny
   - cryptocoryne-wendtii
-  - stanowisko-półcień
-  - stanowisko-cień
+  - rosliny-akwariowe
+  - rosliny-latwe
+  - stanowisko-cien
+  - stanowisko-polcien
 ---
 
 [[Cryptocoryne wendtii|Cryptocoryne wendtii]] to popularna roślina akwariowa o dużej odporności i niewielkich wymaganiach, często polecana dla początkujących. Odmiana oferowana przez [[Tropica|Tropicę]] charakteryzuje się stabilnym wzrostem oraz dobrą adaptacją do różnych warunków w akwarium.

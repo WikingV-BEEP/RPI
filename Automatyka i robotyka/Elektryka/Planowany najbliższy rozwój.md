@@ -1,3 +1,7 @@
+---
+tags:
+  - automatyka-i-robotyka/elektryka
+---
 ## Instalacje elektryczne – wiedza praktyczna (Markiewicz, SEP)
 
 - SEP = formalna kwalifikacja, nie praktyczna kompetencja  

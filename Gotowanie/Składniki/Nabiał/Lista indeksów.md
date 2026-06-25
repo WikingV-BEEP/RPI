@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/skladniki
+  - gotowanie/skladniki/nabial
   - indeks
   - gotowanie
-  - skladniki
   - nabial
+  - skladniki
 ---
 
 ## Zakres folderu

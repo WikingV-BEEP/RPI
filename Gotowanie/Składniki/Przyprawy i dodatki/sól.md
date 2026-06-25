@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - przyprawy-i-dodatki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawa
+  - przyprawy-i-dodatki
 ---
 
 Sól to podstawowa przyprawa używana do wzmacniania smaku potraw. Wpływa nie tylko na słoność, ale też na odbiór słodyczy, kwasowości i aromatów.

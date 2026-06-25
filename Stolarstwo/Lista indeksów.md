@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - stolarstwo
+  - indeks
 ---
 
 ## Zakres folderu

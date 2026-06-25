@@ -1,3 +1,8 @@
+---
+tags:
+  - stolarstwo/materialy
+  - stolarstwo/materialy/drewno
+---
 ### **GR 20**
 | Szerokość | Długość | Ilość |     |
 | --------- | ------- | ----- | --- |

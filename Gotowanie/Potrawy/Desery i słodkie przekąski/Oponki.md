@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/desery-i-slodkie-przekaski
+---
 ## Składniki
 - ½ kg [[ser|sera]]
 - ½ kg [[Mąka|mąki]]

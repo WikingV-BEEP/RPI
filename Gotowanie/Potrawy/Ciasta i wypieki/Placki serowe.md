@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 1/2 kg [[ser biały|sera]]
 - 2 łyżki [[Mąka|mąki pszennej]]

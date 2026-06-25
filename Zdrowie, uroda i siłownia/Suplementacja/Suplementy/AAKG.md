@@ -1,9 +1,11 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - przedtreningowka
+  - silownia
   - suplementacja
   - trening
-  - silownia
-  - przedtreningowka
 ---
 
 ## W skrócie

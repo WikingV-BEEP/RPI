@@ -1,11 +1,14 @@
 ---
 tags:
-  - owoce/jagodowe
-  - roślina-wieloletnia
-  - stanowisko/słoneczne
-  - typ-gleby/żyzna
-  - zastosowanie/deserowe
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-jagodowe
   - okres-zbioru/letnie
+  - owoce/jagodowe
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - typ-gleby/zyzna
+  - zastosowanie/deserowe
 ---
 
 ## [[jeżyna|Jeżyna]]

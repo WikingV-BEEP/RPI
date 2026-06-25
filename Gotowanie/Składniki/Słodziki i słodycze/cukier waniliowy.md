@@ -1,6 +1,7 @@
 ---
 tags:
-  - gotowanie/składniki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/slodziki-i-slodycze
 ---
 
 Cukier waniliowy to słodki dodatek aromatyczny używany do ciast, deserów, kremów i naleśników.

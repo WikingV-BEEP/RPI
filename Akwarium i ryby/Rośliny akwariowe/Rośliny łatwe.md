@@ -1,3 +1,7 @@
+---
+tags:
+  - akwarium-i-ryby/rosliny-akwariowe
+---
 [[Cryptocoryne wendtii (Tropica)]]
 [[Limnophila heterophylla]]
 [[Anubias]]

@@ -3,6 +3,8 @@ aliases:
   - izolacja PVC
   - powłoka ochronna PVC
   - powłoka PVC
+tags:
+  - automatyka-i-robotyka/elektryka
 ---
 # [[izolacja PVC|Izolacja PVC]]
 

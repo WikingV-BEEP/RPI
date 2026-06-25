@@ -1,8 +1,10 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - dieta
   - suplementacja
   - trening
-  - dieta
   - weglowodany
 ---
 

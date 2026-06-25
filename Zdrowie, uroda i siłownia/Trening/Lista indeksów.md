@@ -1,8 +1,9 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/trening
   - indeks
-  - trening
   - silownia
+  - trening
   - zdrowie
 ---
 

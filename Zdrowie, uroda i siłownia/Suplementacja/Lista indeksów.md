@@ -1,9 +1,10 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
   - indeks
+  - silownia
   - suplementacja
   - zdrowie
-  - silownia
 ---
 
 ## Zakres folderu

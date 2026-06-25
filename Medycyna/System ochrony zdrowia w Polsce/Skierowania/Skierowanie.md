@@ -1,8 +1,10 @@
 ---
 tags:
+  - medycyna/system-ochrony-zdrowia-w-polsce
+  - medycyna/system-ochrony-zdrowia-w-polsce/skierowania
   - medycyna
-  - skierowanie
   - nfz
+  - skierowanie
   - system-ochrony-zdrowia
 ---
 

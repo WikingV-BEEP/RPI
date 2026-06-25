@@ -1,9 +1,11 @@
 ---
 tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
   - indeks
+  - ciasta-i-wypieki
   - gotowanie
   - potrawy
-  - ciasta-i-wypieki
 ---
 
 ## Zakres folderu

@@ -1,7 +1,8 @@
 ---
 tags:
-  - praca/serwis
+  - praca/templatki-maili
   - diagnostyka
+  - praca/serwis
   - procedury
   - wsparcie-techniczne
 ---

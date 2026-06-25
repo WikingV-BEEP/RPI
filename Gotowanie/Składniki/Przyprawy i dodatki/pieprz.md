@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - przyprawy-i-dodatki
+  - gotowanie/skladniki
+  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawa
+  - przyprawy-i-dodatki
 ---
 
 Pieprz to podstawowa przyprawa nadająca potrawom ostrość i głębszy aromat. Najczęściej używa się pieprzu czarnego mielonego lub ziarnistego.

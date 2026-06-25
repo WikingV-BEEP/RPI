@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Składniki
 - 40 dkg [[mak|maku]]
 - 80 dkg [[jabłko|jabłek]]

@@ -1,8 +1,9 @@
 ---
 tags:
-  - gotowanie/składniki
-  - owoce-i-warzywa
+  - gotowanie/skladniki
+  - gotowanie/skladniki/owoce-i-warzywa
   - dodatki
+  - owoce-i-warzywa
 ---
 
 Wiórki kokosowe to suszony, rozdrobniony miąższ kokosa używany w deserach, ciastach, kremach i posypkach. Nadają potrawom kokosowy aromat oraz delikatnie włóknistą strukturę.

@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - daily-notes
+  - indeks
 ---
 
 ## Zakres folderu

@@ -143,8 +143,8 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Najbliższe porządki do zrobienia
 
-- Sprawdzić klasyfikację `Gotowanie/Składniki/Owoce i warzywa/imbir.md`.
 - Ujednolicić wielkość liter w nazwach składników kuchennych.
+- Przejrzeć linki w przepisach pod kątem aliasów składników i brakujących notatek.
 - Dodać indeksy w działach technicznych, gdy foldery zaczną zawierać więcej notatek: `Automatyka i robotyka/Elektryka/Zasady obliczania prądów zwarciowych`, `Programowanie`, `Praca`.
 - Cyklicznie czyścić foldery techniczne i tymczasowe.
 - Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.

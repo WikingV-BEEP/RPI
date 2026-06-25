@@ -1,9 +1,10 @@
 ---
 tags:
-  - suplementacja
-  - zdrowie
+  - zdrowie-uroda-i-silownia/suplementacja
   - badania
   - niedobory
+  - suplementacja
+  - zdrowie
 ---
 
 ## Cel notatki

@@ -1,9 +1,11 @@
 ---
 tags:
-  - suplementacja
-  - zdrowie
-  - trening
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
   - nawodnienie
+  - suplementacja
+  - trening
+  - zdrowie
 ---
 
 ## W skrócie

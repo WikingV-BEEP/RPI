@@ -1,3 +1,8 @@
+---
+tags:
+  - gotowanie/potrawy
+  - gotowanie/potrawy/ciasta-i-wypieki
+---
 ## Ciasto
 - 3 [[Mąka|szkl. mąki]] (2 krupczatki + 1 tortowa)
 - 1 [[Margaryna]] – zetrzeć na tarce

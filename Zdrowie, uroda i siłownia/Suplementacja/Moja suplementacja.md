@@ -1,8 +1,9 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - silownia
   - suplementacja
   - zdrowie
-  - silownia
 ---
 
 ## Cel notatki

@@ -1,5 +1,7 @@
 ---
 tags:
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/warzywa
   - indeks
   - ogrodnictwo
   - rosliny

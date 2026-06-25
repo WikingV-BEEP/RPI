@@ -1,9 +1,11 @@
 ---
 tags:
-  - medycyna
+  - medycyna/dermatologia
+  - medycyna/dermatologia/substancje-czynne
   - dermatologia
-  - substancje-czynne
   - leki
+  - medycyna
+  - substancje-czynne
 ---
 
 [[Retinoid|Retinoidy]] to pochodne [[witamina A|witaminy A]] stosowane głównie w dermatologii. Są używane m.in. w leczeniu [[Trądzik pospolity|trądziku pospolitego]], niektórych zaburzeń rogowacenia, łuszczycy oraz w terapiach przeciwstarzeniowych skóry.

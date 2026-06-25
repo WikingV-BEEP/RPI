@@ -1,3 +1,7 @@
+---
+tags:
+  - praca/templatki-maili
+---
 W celu zresetowania sterownika do ustawień fabrycznych należy wymienić obraz systemu.
 
 Po wymianie obrazu na nowy, login oraz hasło zrestartują się do ustawień domyślny, tj: Administrator, 1

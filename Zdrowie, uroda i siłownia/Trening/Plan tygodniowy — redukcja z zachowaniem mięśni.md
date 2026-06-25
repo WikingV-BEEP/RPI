@@ -1,8 +1,9 @@
 ---
 tags:
-  - zdrowie_uroda_siłownia/trening
+  - zdrowie-uroda-i-silownia/trening
+  - plan-treningowy
   - redukcja
-  - plan_treningowy
+  - zdrowie-uroda-silownia/trening
 ---
 
 ## Plan tygodniowy — redukcja z zachowaniem mięśni

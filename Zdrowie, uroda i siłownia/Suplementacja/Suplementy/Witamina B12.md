@@ -1,9 +1,11 @@
 ---
 tags:
+  - zdrowie-uroda-i-silownia/suplementacja
+  - zdrowie-uroda-i-silownia/suplementacja/suplementy
+  - badania
+  - niedobory
   - suplementacja
   - zdrowie
-  - niedobory
-  - badania
 ---
 
 ## W skrócie

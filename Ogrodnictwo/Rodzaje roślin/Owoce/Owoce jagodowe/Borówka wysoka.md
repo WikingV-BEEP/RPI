@@ -1,13 +1,16 @@
 ---
 tags:
-  - owoce/jagodowe
-  - roślina-wieloletnia
-  - stanowisko/słoneczne
-  - typ-gleby/lekka
-  - typ-gleby/kwaśna
-  - zastosowanie/deserowe
-  - zastosowanie/przetwórcze
+  - ogrodnictwo/rodzaje-roslin
+  - ogrodnictwo/rodzaje-roslin/owoce
+  - ogrodnictwo/rodzaje-roslin/owoce/owoce-jagodowe
   - okres-zbioru/letnie
+  - owoce/jagodowe
+  - roslina-wieloletnia
+  - stanowisko/sloneczne
+  - typ-gleby/kwasna
+  - typ-gleby/lekka
+  - zastosowanie/deserowe
+  - zastosowanie/przetworcze
 ---
 
 ## [[borówka wysoka|Borówka wysoka]]

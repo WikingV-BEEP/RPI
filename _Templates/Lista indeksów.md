@@ -1,7 +1,7 @@
 ---
 tags:
-  - indeks
   - templates
+  - indeks
 ---
 
 ## Zakres folderu
