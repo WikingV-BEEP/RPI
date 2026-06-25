@@ -2,41 +2,41 @@
 tags:
   - gotowanie
 ---
+
 # Gotowanie
 
-## Rodzaje kuchni
+## Mapa działu
 
-### Kuchnia polska  
-Charakterystyczna dla Polski, bazuje na mięsie, ziemniakach, kapuście, mące oraz kwaśnych dodatkach.
+- [[Lista indeksów|Indeks główny]]
+- [[Przepisy/Lista indeksów|Przepisy]]
+- [[Składniki/Lista indeksów|Składniki]]
+- [[Techniki/Lista indeksów|Techniki]]
+- [[Makro i odżywianie/Lista indeksów|Makro i odżywianie]]
+- [[System tagów|System tagów]]
 
-### Kuchnia włoska  
-Opiera się na makaronach, oliwie z oliwek, pomidorach, ziołach oraz serach.
+## Zasada organizacji
 
-### Kuchnia japońska  
-Skupia się na ryżu, rybach, glonach, wasabi oraz sosie sojowym.
+Folder mówi, czym jest notatka.  
+Tag mówi, jak ją później znaleźć.
 
-### Kuchnia francuska  
-Znana z masła, śmietany, wina, serów oraz różnorodnych sosów.
+## Główne typy notatek
 
-### Kuchnia indyjska  
-Charakteryzuje się bogactwem przypraw, ryżu, soczewicy, jogurtu oraz warzyw.
+### Przepisy
 
-## Podział składników
+Gotowe potrawy, dania, desery, sałatki, sosy i przekąski.
 
-### Białka  
-[[mięso|mięsa]], [[ryba|ryby]], [[Jajka|jaj]], [[rośliny strączkowe|roślin strączkowych]], [[nabiał|nabiału]]
+### Składniki
 
-### Węglowodany  
-[[ziemniak|ziemniaki]], [[makaron|makarony]], [[ryż|ryże]], [[chleb|chleby]], [[warzywa skrobiowe|warzyw skrobiowych]], [[mąka|mąki]], [[cukier|cukru]]
+Pojedyncze produkty spożywcze: nabiał, warzywa, owoce, mięso, przyprawy, tłuszcze i dodatki.
 
-### Tłuszcze  
-[[olej|oleje]], [[masło|masła]], [[smalec|smalce]], [[oliwa z oliwek|oliwy z oliwek]], [[orzechy|orzechy]]
+### Techniki
 
-### Warzywa i owoce  
-[[marchew|marchew]], [[cebula|cebule]], [[papryka|papryki]], [[jabłko|jabłka]], [[cytryna|cytryny]]
+Smażenie, pieczenie, gotowanie, grillowanie, air fryer, marynaty, przechowywanie i narzędzia kuchenne.
 
-### Przyprawy i dodatki  
-[[sól|sól]], [[pieprz|pieprz]], [[bazylia|bazylia]], [[czosnek|czosnek]], [[zioła prowansalskie|zioła prowansalskie]]
+### Makro i odżywianie
 
-### Produkty pośrednie  
-[[jaja|jajka]]
+Kalorie, białko, tłuszcze, węglowodany, redukcja, keto i produkty wysokobiałkowe.
+
+## Kuchnie i diety
+
+Kuchni narodowych oraz diet nie trzymam jako folderów. Oznaczam je tagami, np. `kuchnia/wloska`, `dieta/redukcja`, `dieta/keto`, `dieta/wysokobialkowe`.
