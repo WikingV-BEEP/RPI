@@ -49,3 +49,23 @@ Czas: około 20 minut
 4. [[ogórek|Ogórka]], [[pomidor koktajlowy|pomidory]], [[papryka czerwona|paprykę]] i [[cebula czerwona|cebulę]] pokrój na małe kawałki.
 5. Wymieszaj [[skyr naturalny|skyr]], [[musztarda|musztardę]], [[sok z cytryny|sok z cytryny]], przeciśnięty [[czosnek|czosnek]] i przyprawy.
 6. Połącz warzywa z [[mix sałat|mixem sałat]], dodaj kurczaka i polej sosem.
+
+## Szacowane wartości odżywcze
+
+Wariant bez [[oliwa z oliwek|oliwy]]:
+
+| Wartość | Ilość |
+|---|---:|
+| Kalorie | około 350 kcal |
+| Białko | około 45 g |
+| Tłuszcz | około 5–7 g |
+| Węglowodany | około 25–30 g |
+
+Wariant z 5 g [[oliwa z oliwek|oliwy]]:
+
+| Wartość | Ilość |
+|---|---:|
+| Kalorie | około 395 kcal |
+| Białko | około 45 g |
+| Tłuszcz | około 10–12 g |
+| Węglowodany | około 25–30 g |
