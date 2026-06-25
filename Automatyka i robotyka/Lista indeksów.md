@@ -15,7 +15,7 @@ Dział techniczny na automatykę, robotykę, elektrykę, programowanie przemysł
 
 Projektowanie, modele, dokumentacja techniczna i narzędzia CAD.
 
-### [[Elektryka]]
+### [[Elektryka/Lista indeksów]]
 
 Instalacje, zabezpieczenia, przewody, prądy zwarciowe, terminologia i praktyka elektryczna.
 
@@ -31,6 +31,10 @@ PLC, HMI, komunikacja, skrypty i logika sterowania.
 
 Tymczasowe notatki do późniejszego rozdzielenia.
 
+## Indeksy podrzędne
+
+- [[Elektryka/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - PLC i HMI trzymać w `Programowanie`.
@@ -40,6 +44,6 @@ Tymczasowe notatki do późniejszego rozdzielenia.
 
 ## Najbliższy rozwój
 
-- Rozbudować `Elektryka/Terminologia`.
+- Dodać indeks dla `Elektryka/Rodzaje kabli`.
+- Dodać indeks dla `Elektryka/Terminologia`.
 - Uporządkować `Uncategorized`.
-- Dodać indeks dla programowania PLC.
