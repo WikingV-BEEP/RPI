@@ -3,27 +3,87 @@ tags:
   - suplementacja
   - dieta
   - silownia
+  - bialko
 ---
 
-## Rola
+## W skrócie
 
-Wygodny sposób dobicia białka, nie magiczny suplement. Ma sens wtedy, gdy jedzeniem trudno dowieźć założoną ilość białka.
+[[Białko serwatkowe]] to po prostu wygodne źródło białka. Nie buduje mięśni samo z siebie. Działa wtedy, gdy pomaga domknąć dzienną podaż białka i jest połączone z treningiem siłowym.
+
+Najważniejsza zasada: **odżywka białkowa nie jest lepsza od jedzenia — jest wygodniejsza**.
+
+## Co to robi w organizmie
+
+- dostarcza aminokwasów,
+- wspiera naprawę i budowę tkanek,
+- pomaga utrzymać masę mięśniową na redukcji,
+- ułatwia dobicie białka, gdy posiłki są za małe,
+- może zwiększyć sytość.
+
+## Rodzaje
+
+| Rodzaj | Proste wyjaśnienie |
+|---|---|
+| WPC | koncentrat; zwykle tańszy, może mieć więcej laktozy |
+| WPI | izolat; więcej białka, mniej laktozy, droższy |
+| WPH | hydrolizat; bardziej przetworzony, zwykle drogi |
+| kazeina | wolniej trawiona, częściej na noc |
+| białko roślinne | opcja przy nietolerancji nabiału lub diecie roślinnej |
 
 ## Kiedy ma sens
 
-- redukcja bez utraty mięśni,
-- brak apetytu na pełny posiłek,
-- szybka kolacja / przekąska,
-- trudność w dobiciu białka z cateringu i normalnego jedzenia.
+- nie dobijam białka z jedzenia,
+- jestem na redukcji i chcę chronić mięśnie,
+- mam mało czasu na posiłek,
+- catering ma za mało białka,
+- potrzebuję szybkiego posiłku po treningu,
+- chcę prostą kolację bez gotowania.
 
-## Co sprawdzić
+## Kiedy jest zbędne
 
-| Pytanie | Odpowiedź |
+- jem wystarczająco białka z normalnych posiłków,
+- kupuję je zamiast poprawić dietę,
+- traktuję shake jako „suplement anaboliczny”,
+- piję dodatkowe kalorie mimo braku miejsca w bilansie,
+- nie trenuję siłowo i nie mam problemu z białkiem.
+
+## Jak czytać etykietę
+
+| Parametr | Co sprawdzić |
 |---|---|
-| Ile białka potrzebuję dziennie? | do uzupełnienia |
-| Ile białka jem realnie? | do uzupełnienia |
-| Jaki mam preparat? | do uzupełnienia |
-| Czy dobrze go toleruję? | do uzupełnienia |
+| białko na 100 g | im więcej, tym zwykle lepiej |
+| białko w porcji | realna ilość, np. 20–30 g |
+| cukier | ważne przy redukcji |
+| tłuszcz | wpływa na kalorie |
+| laktoza | ważne przy nietolerancji |
+| aminogram | mniej istotny przy zwykłej serwatce, ale pomocny przy roślinnych |
+
+## Proste użycia
+
+| Sytuacja | Przykład |
+|---|---|
+| po treningu | shake jako szybkie białko |
+| kolacja | białko + jogurt/skyr/owoce |
+| brak czasu | shake + normalny posiłek później |
+| redukcja | posiłek wysokobiałkowy zamiast słodkiej przekąski |
+
+## Na co uważać
+
+- kalorie nadal się liczą,
+- zbyt duża ilość może obciążać trawienie,
+- tanie mieszanki mogą mieć dużo cukru i słaby smak,
+- przy problemach z nerkami nie ustalać wysokiej podaży białka samodzielnie,
+- odżywka nie zastępuje warzyw, błonnika i mikroelementów.
+
+## Jak oceniać efekt
+
+| Obszar | Co obserwować |
+|---|---|
+| Białko dzienne | czy łatwiej domknąć cel |
+| Sytość | czy mniej podjadam |
+| Trening | czy regeneracja i progres są stabilne |
+| Masa ciała | czy shake nie podbija kalorii za mocno |
+| Trawienie | wzdęcia, dyskomfort, tolerancja laktozy |
 
 ## Ocena
 
@@ -31,8 +91,11 @@ Wygodny sposób dobicia białka, nie magiczny suplement. Ma sens wtedy, gdy jedz
 |---|---|
 | Sens ogólny | B |
 | Priorytet | praktyczny |
-| Ryzyko błędu | traktowanie jako zamiennik diety |
+| Koszt / efekt | dobry, jeśli zastępuje gorsze przekąski |
+| Ryzyko marketingu | średnie |
 
 ## Decyzja
 
-Używać jako narzędzie do domknięcia białka, nie jako obowiązkowy element suplementacji.
+Używać jako narzędzie do domknięcia białka. Nie traktować jako obowiązkowy suplement, jeśli dieta już dowozi cel.
+
+%% Źródła do sprawdzenia: NIH ODS — suplementy dla wydolności sportowej; ogólne rekomendacje żywienia sportowego. %%
