@@ -16,7 +16,7 @@ Dział na zdrowie, trening, dietę, suplementację, pielęgnację, profilaktykę
 
 Jedzenie, plany żywieniowe, herbata, redukcja, białko i organizacja posiłków.
 
-### [[Trening]]
+### [[Trening/Lista indeksów]]
 
 Siłownia, bieganie, rower, plany treningowe i hipertrofia.
 
@@ -36,6 +36,11 @@ Skóra, włosy, kosmetyki i pielęgnacja ciała.
 
 Ustawienia prania i praktyczna pielęgnacja ubrań.
 
+## Indeksy podrzędne
+
+- [[Trening/Lista indeksów]]
+- [[Suplementacja/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Trening trafia do `Trening`.
@@ -46,6 +51,6 @@ Ustawienia prania i praktyczna pielęgnacja ubrań.
 
 ## Najbliższy rozwój
 
-- Dodać indeks treningu.
+- Dodać indeks dla `Trening/Siłownia`.
 - Dodać indeks diety.
 - Połączyć suplementację z badaniami.
