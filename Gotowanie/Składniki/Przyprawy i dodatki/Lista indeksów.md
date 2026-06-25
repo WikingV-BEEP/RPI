@@ -13,6 +13,7 @@ Indeks przypraw, dodatków smakowych i składników pomocniczych. Ten folder sł
 ## Przyprawy i zioła
 
 - [[cynamon]]
+- [[imbir]]
 - [[kminek]]
 - [[kurkuma]]
 - [[natka pietruszki]]
