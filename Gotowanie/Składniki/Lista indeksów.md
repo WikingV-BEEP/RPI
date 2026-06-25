@@ -11,7 +11,7 @@ Indeks składników spożywczych. Ten folder służy do trzymania pojedynczych p
 
 ## Kategorie składników
 
-### [[Inne]]
+### [[Inne/Lista indeksów|Inne]]
 
 Składniki trudne do jednoznacznego przypisania, dodatki techniczne i produkty pomocnicze.
 
@@ -23,7 +23,7 @@ Mleko, śmietana, sery, jogurty, jajka, budynie i produkty mleczne.
 
 Warzywa, owoce, zioła świeże, bakalie i składniki roślinne.
 
-### [[Produkty mięsne]]
+### [[Produkty mięsne/Lista indeksów|Produkty mięsne]]
 
 Mięso, wędliny, ryby i inne produkty białkowe pochodzenia zwierzęcego.
 
@@ -35,7 +35,7 @@ Mąki, kasze, ryż, makarony, pieczywo i produkty zbożowe.
 
 Przyprawy, zioła suszone, aromaty, proszki, dodatki smakowe i spulchniacze.
 
-### [[Sosy i dipy]]
+### [[Sosy i dipy/Lista indeksów|Sosy i dipy]]
 
 Gotowe i domowe sosy, dipy oraz dodatki płynne.
 
@@ -49,10 +49,13 @@ Masło, oleje, smalec, margaryna i inne tłuszcze.
 
 ## Indeksy podrzędne
 
+- [[Inne/Lista indeksów]]
 - [[Nabiał/Lista indeksów]]
 - [[Owoce i warzywa/Lista indeksów]]
+- [[Produkty mięsne/Lista indeksów]]
 - [[Produkty zbożowe/Lista indeksów]]
 - [[Przyprawy i dodatki/Lista indeksów]]
+- [[Sosy i dipy/Lista indeksów]]
 - [[Słodziki i słodycze/Lista indeksów]]
 - [[Tłuszcze i oleje/Lista indeksów]]
 
@@ -60,11 +63,11 @@ Masło, oleje, smalec, margaryna i inne tłuszcze.
 
 - Pojedynczy składnik trafia tutaj, nie do potraw.
 - Przepis z użyciem składnika trafia do [[../Potrawy/Lista indeksów|Potraw]].
-- Opis diety lub makroskładników trafia do [[../Diety|Diet]].
+- Opis diety lub makroskładników trafia do [[../Diety/Lista indeksów|Diet]].
 - Nazwy składników w przepisach linkować zgodnie z zasadą Obsidiana.
 
 ## Najbliższe porządki
 
 - Ujednolicić wielkość liter w nazwach składników.
-- Dodać indeks dla `Produkty mięsne`, jeśli folder będzie dalej rósł.
 - Sprawdzić potencjalne duplikaty i odmiany nazw, np. `Margaryna` / `Margarynę`.
+- Sprawdzić klasyfikację pozycji: `Manna`, `Ryż`, `tarka`, `krem`, `drożdże`.
