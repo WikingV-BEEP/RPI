@@ -64,10 +64,11 @@ Masło, oleje, smalec, margaryna i inne tłuszcze.
 - Pojedynczy składnik trafia tutaj, nie do potraw.
 - Przepis z użyciem składnika trafia do [[../Potrawy/Lista indeksów|Potraw]].
 - Opis diety lub makroskładników trafia do [[../Diety/Lista indeksów|Diet]].
+- Narzędzie kuchenne trafia do [[../Podstawy/Lista indeksów|Podstaw]].
 - Nazwy składników w przepisach linkować zgodnie z zasadą Obsidiana.
 
 ## Najbliższe porządki
 
 - Ujednolicić wielkość liter w nazwach składników.
-- Sprawdzić potencjalne duplikaty i odmiany nazw, np. `Margaryna` / `Margarynę`.
-- Sprawdzić klasyfikację pozycji: `Manna`, `Ryż`, `tarka`, `krem`, `drożdże`.
+- Sprawdzić, czy `imbir.md` powinien zostać w owocach i warzywach, czy trafić do przypraw i dodatków.
+- Ograniczać folder `Inne` do minimum.
