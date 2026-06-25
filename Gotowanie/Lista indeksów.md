@@ -18,9 +18,9 @@ Główna notatka działu.
 
 Diety, schematy żywieniowe, posiłki wysokobiałkowe i podejścia specjalne.
 
-### [[Podstawy]]
+### [[Podstawy/Lista indeksów|Podstawy]]
 
-Techniki gotowania, obróbka termiczna, bezpieczeństwo i organizacja pracy w kuchni.
+Techniki gotowania, narzędzia kuchenne, obróbka termiczna, bezpieczeństwo i organizacja pracy w kuchni.
 
 ### [[Potrawy/Lista indeksów]]
 
@@ -33,6 +33,7 @@ Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i sos
 ## Indeksy podrzędne
 
 - [[Diety/Lista indeksów]]
+- [[Podstawy/Lista indeksów]]
 - [[Potrawy/Lista indeksów]]
 - [[Składniki/Lista indeksów]]
 
@@ -40,11 +41,11 @@ Produkty spożywcze, przyprawy, nabiał, mięso, warzywa, owoce, tłuszcze i sos
 
 - Przepis trafia do `Potrawy`.
 - Opis produktu trafia do `Składniki`.
-- Technika trafia do `Podstawy`.
+- Technika lub narzędzie trafia do `Podstawy`.
 - Dieta lub plan jedzenia trafia do `Diety`.
 
 ## Najbliższy rozwój
 
 - Uporządkować przepisy wysokobiałkowe.
-- Dodać notatki w `Podstawy`, jeśli zaczną powstawać techniki gotowania.
-- Ujednolicić nazwy składników i usunąć odmiany jako osobne notatki, jeśli są duplikatami.
+- Dodać podstawowe techniki gotowania do `Podstawy`.
+- Ujednolicić nazwy składników i usuwać odmiany jako osobne notatki, jeśli są duplikatami.
