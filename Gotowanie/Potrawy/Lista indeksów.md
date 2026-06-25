@@ -15,7 +15,7 @@ Indeks przepisów i gotowych potraw. Ten folder służy do trzymania konkretnych
 
 Ciasta, torty, serniki, babki, chleby, placki, masy, polewy i wypieki domowe.
 
-### [[Dania obiadowe i dodatki]]
+### [[Dania obiadowe i dodatki/Lista indeksów|Dania obiadowe i dodatki]]
 
 Obiady, dodatki do obiadów, farsze obiadowe, kluski, mięsa, sosy i dania główne.
 
@@ -34,6 +34,7 @@ Marynaty do mięsa, farsze, mieszanki smakowe i dodatki przygotowawcze.
 ## Indeksy podrzędne
 
 - [[Ciasta i wypieki/Lista indeksów]]
+- [[Dania obiadowe i dodatki/Lista indeksów]]
 
 ## Zasada porządkowania
 
@@ -46,4 +47,4 @@ Marynaty do mięsa, farsze, mieszanki smakowe i dodatki przygotowawcze.
 
 - Sprawdzić `Untitled.md` w daniach obiadowych.
 - Dodać oznaczenia: szybkie, wysokobiałkowe, rodzinne, świąteczne.
-- Dodać indeks dla `Dania obiadowe i dodatki`, jeśli folder będzie dalej rósł.
+- Dodać indeksy dla `Desery i słodkie przekąski`, `Kolacje i szybkie posiłki` oraz `Marynaty i farsze`, jeśli foldery będą dalej rosły.
