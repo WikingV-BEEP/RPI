@@ -3,26 +3,78 @@ tags:
   - suplementacja
   - trening
   - silownia
+  - przedtreningowka
 ---
 
-## Rola
+## W skrócie
 
-Dodatek przedtreningowy kojarzony głównie z pompą treningową.
+[[AAKG]] to alfa-ketoglutaran argininy. Jest sprzedawany głównie jako suplement na „pompę” mięśniową, bo arginina bierze udział w produkcji tlenku azotu.
 
-## Kiedy ma sens
+Problem: w praktyce AAKG nie jest fundamentem suplementacji i często przegrywa z [[Cytrulina|cytruliną]], jeśli celem jest zwiększenie dostępności argininy i efekt pompy.
 
-- testowo przed treningiem,
-- porównanie z [[Cytrulina]],
-- gdy zależy mi na subiektywnym odczuciu pompy.
+## Co to ma robić
 
-## Co sprawdzić
+- dostarczać argininy,
+- wspierać produkcję tlenku azotu,
+- rozszerzać naczynia krwionośne,
+- poprawiać pompę mięśniową,
+- subiektywnie poprawiać jakość treningu.
 
-| Pytanie | Odpowiedź |
+## Dlaczego trzeba być ostrożnym
+
+Arginina przyjęta doustnie nie zawsze skutecznie podnosi jej poziom we krwi, bo część jest metabolizowana w przewodzie pokarmowym i wątrobie. Dlatego cytrulina często wypada praktycznie lepiej jako droga do zwiększania argininy.
+
+## AAKG a cytrulina
+
+| Cecha | [[AAKG]] | [[Cytrulina]] |
+|---|---|---|
+| Cel | pompa / arginina | pompa / arginina pośrednio |
+| Priorytet | niski / testowy | średni / opcjonalny |
+| Dowody praktyczne | słabsze | zwykle lepsze |
+| Miejsce w planie | po podstawach | po podstawach |
+
+## Kiedy może mieć sens
+
+- jako krótki test przedtreningowy,
+- jeśli już mam preparat i chcę ocenić, czy działa,
+- jeśli zależy mi tylko na subiektywnym uczuciu pompy,
+- jeśli nie chcę kofeiny.
+
+## Kiedy raczej odpuścić
+
+- jeśli muszę dopiero kupić suplement,
+- jeśli nie mam dopiętego treningu i diety,
+- jeśli liczę na realny wzrost masy mięśniowej,
+- jeśli [[Cytrulina]] działa lepiej,
+- jeśli efektu nie czuję po kilku uczciwych testach.
+
+## Jak testować
+
+| Krok | Co zrobić |
 |---|---|
-| Jaka dawka? | do uzupełnienia |
-| Czy działa lepiej niż cytrulina? | do uzupełnienia |
-| Czy czuję różnicę na treningu? | do uzupełnienia |
-| Czy warto finansowo? | do uzupełnienia |
+| 1 | nie łączyć od razu z inną przedtreningówką |
+| 2 | sprawdzić pompę i jakość serii |
+| 3 | porównać z dniem bez AAKG |
+| 4 | porównać z [[Cytrulina|cytruliną]] |
+| 5 | zdecydować: kupować dalej albo wywalić |
+
+## Na co uważać
+
+- dyskomfort żołądkowy,
+- spadki ciśnienia lub zawroty głowy,
+- łączenie z lekami na ciśnienie lub naczynia,
+- mieszanki z ukrytymi dawkami,
+- efekt placebo mylony z realnym działaniem.
+
+## Jak oceniać efekt
+
+| Obszar | Co obserwować |
+|---|---|
+| Pompa | czy różnica jest wyraźna |
+| Serie | czy realnie robię więcej pracy |
+| Samopoczucie | czy nie ma zjazdu albo mdłości |
+| Koszt | czy warto kupić ponownie |
+| Porównanie | czy cytrulina nie wypada lepiej |
 
 ## Ocena
 
@@ -30,8 +82,11 @@ Dodatek przedtreningowy kojarzony głównie z pompą treningową.
 |---|---|
 | Sens ogólny | C |
 | Priorytet | niski |
-| Ryzyko błędu | kupowanie mimo braku zauważalnego efektu |
+| Koszt / efekt | słaby / testowy |
+| Ryzyko marketingu | wysokie |
 
 ## Decyzja
 
-Do ostrej weryfikacji. Jeżeli nie daje wyraźnej różnicy, nie kupować ponownie.
+Do ostrej weryfikacji. Jeśli nie daje wyraźnego efektu, nie kupować ponownie.
+
+%% Źródła do sprawdzenia: NIH ODS — suplementy dla wydolności sportowej. %%
