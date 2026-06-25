@@ -93,9 +93,14 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 - [[Gotowanie/Potrawy/Lista indeksów]]
 - [[Gotowanie/Potrawy/Ciasta i wypieki/Lista indeksów]]
+- [[Gotowanie/Potrawy/Dania obiadowe i dodatki/Lista indeksów]]
 - [[Gotowanie/Składniki/Lista indeksów]]
+- [[Gotowanie/Składniki/Nabiał/Lista indeksów]]
 - [[Gotowanie/Składniki/Owoce i warzywa/Lista indeksów]]
+- [[Gotowanie/Składniki/Produkty zbożowe/Lista indeksów]]
 - [[Gotowanie/Składniki/Przyprawy i dodatki/Lista indeksów]]
+- [[Gotowanie/Składniki/Słodziki i słodycze/Lista indeksów]]
+- [[Gotowanie/Składniki/Tłuszcze i oleje/Lista indeksów]]
 
 ### Ogrodnictwo
 
@@ -130,7 +135,8 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Najbliższe porządki do zrobienia
 
-- Dodać indeksy dla kolejnych dużych podfolderów: `Gotowanie/Potrawy/Dania obiadowe i dodatki`, `Gotowanie/Składniki/Nabiał`, `Gotowanie/Składniki/Produkty zbożowe`, `Gotowanie/Składniki/Słodziki i słodycze`, `Gotowanie/Składniki/Tłuszcze i oleje`.
+- Dodać indeksy dla mniejszych, ale zamkniętych folderów kuchennych: `Gotowanie/Potrawy/Desery i słodkie przekąski`, `Gotowanie/Potrawy/Kolacje i szybkie posiłki`, `Gotowanie/Potrawy/Marynaty i farsze`.
+- Dodać indeks dla `Gotowanie/Składniki/Produkty mięsne`, jeśli folder zostanie rozbudowany.
 - Dodać indeksy w działach technicznych, gdy foldery zaczną zawierać więcej notatek: `Automatyka i robotyka/Elektryka/Zasady obliczania prądów zwarciowych`, `Programowanie`, `Praca`.
 - Cyklicznie czyścić foldery techniczne i tymczasowe.
 - Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.
