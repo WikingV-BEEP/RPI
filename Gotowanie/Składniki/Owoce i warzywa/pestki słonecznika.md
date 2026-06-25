@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - nasiona
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Pestki słonecznika to jadalne nasiona używane jako dodatek do pieczywa, sałatek, past, owsianek i wypieków. Mogą być surowe, prażone, solone albo mielone.

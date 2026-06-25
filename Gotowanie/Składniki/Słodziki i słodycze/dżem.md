@@ -1,10 +1,6 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/sodziki-i-sodycze
-  - gotowanie/skladniki
-  - gotowanie/skladniki/slodziki-i-slodycze
+  - gotowanie/skladnik
 ---
 
 Dżem to słodki przetwór używany do pieczywa, ciast, naleśników i deserów.

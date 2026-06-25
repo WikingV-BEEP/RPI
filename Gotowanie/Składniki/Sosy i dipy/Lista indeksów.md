@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/sosy-i-dipy
-  - gotowanie/skladniki
-  - gotowanie/skladniki/sosy-i-dipy
   - indeks
-  - skladniki
   - sosy-i-dipy
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -22,9 +17,9 @@ Indeks sosów i dipów. Ten folder służy do trzymania gotowych oraz bazowych s
 ## Zasada porządkowania
 
 - Sos, dip albo gotowy dodatek płynny zostaje w tym folderze.
-- Marynata trafia do [[../../Potrawy/Marynaty i farsze/Lista indeksów|Marynat i farszów]].
+- Marynata trafia do [[../../Przepisy/Sosy i dipy/Lista indeksów|Marynat i farszów]].
 - Przyprawa sucha trafia do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]].
-- Gotowe danie z sosem trafia do [[../../Potrawy/Dania obiadowe i dodatki/Lista indeksów|Dań obiadowych i dodatków]].
+- Gotowe danie z sosem trafia do [[../../Przepisy/Obiady/Lista indeksów|Dań obiadowych i dodatków]].
 
 ## Najbliższe porządki
 

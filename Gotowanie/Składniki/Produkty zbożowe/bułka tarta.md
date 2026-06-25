@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - panierka
   - produkty-zbozowe
+  - gotowanie/skladnik
 ---
 
 Bułka tarta to drobno zmielone, wysuszone pieczywo używane do panierowania, zagęszczania i poprawiania struktury farszów. Jest częstym składnikiem kuchni domowej.

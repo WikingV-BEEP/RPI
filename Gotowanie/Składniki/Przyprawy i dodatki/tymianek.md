@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawy-i-dodatki
   - ziola
+  - gotowanie/skladnik
 ---
 
 Tymianek to zioło o intensywnym, lekko korzennym i ziemistym aromacie. Pasuje do dań pieczonych, sosów, zup, warzyw, drobiu i marynat.

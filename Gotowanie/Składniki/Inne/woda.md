@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/inne
-  - gotowanie/skladniki
-  - gotowanie/skladniki/inne
   - plyn
   - podstawowe
+  - gotowanie/skladnik
 ---
 
 Woda to podstawowy składnik kuchenny używany do gotowania, rozcieńczania, wyrabiania ciasta, przygotowywania napojów, zup, sosów i marynat. Jest neutralna smakowo, ale wpływa na konsystencję i strukturę potraw.

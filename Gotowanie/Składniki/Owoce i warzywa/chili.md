@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - ostre
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Chili to ostra papryczka używana do nadawania potrawom pikantności. Może występować jako świeża papryczka, suszone płatki, proszek, pasta albo sos.

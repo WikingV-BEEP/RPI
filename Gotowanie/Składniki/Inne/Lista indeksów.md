@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/inne
-  - gotowanie/skladniki
-  - gotowanie/skladniki/inne
   - indeks
   - inne
-  - skladniki
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -25,7 +20,7 @@ Indeks składników pomocniczych i trudnych do jednoznacznego przypisania. Ten f
 - Produkt mleczny trafia do [[../Nabiał/Lista indeksów|Nabiału]].
 - Dodatek smakowy lub technologiczny trafia do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]].
 - Słodki składnik trafia do [[../Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
-- Półprodukt do wypieków trafia do [[../../Potrawy/Ciasta i wypieki/Lista indeksów|Ciast i wypieków]].
+- Półprodukt do wypieków trafia do [[../../Przepisy/Desery/Lista indeksów|Ciast i wypieków]].
 
 ## Najbliższe porządki
 

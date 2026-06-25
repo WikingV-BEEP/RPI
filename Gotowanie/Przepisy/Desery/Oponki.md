@@ -1,9 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/desery-i-slodkie-przekaski
-  - gotowanie/potrawy/desery-i-sodkie-przekaski
+  - gotowanie/przepis
+  - typ/deser
 ---
 ## Składniki
 - ½ kg [[ser|sera]]

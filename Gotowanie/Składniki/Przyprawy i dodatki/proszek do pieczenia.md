@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawy-i-dodatki
   - wypieki
+  - gotowanie/skladnik
 ---
 
 Proszek do pieczenia to środek spulchniający używany w ciastach, babkach, muffinkach i plackach. Pod wpływem wilgoci oraz temperatury pomaga zwiększyć objętość wypieku.

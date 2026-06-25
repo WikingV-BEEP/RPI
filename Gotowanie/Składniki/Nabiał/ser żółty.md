@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
   - ser
+  - gotowanie/skladnik
 ---
 
 Ser żółty to dojrzewający produkt mleczny o zwartej strukturze, intensywniejszym smaku niż twaróg i dobrej podatności na topienie. W kuchni jest używany jako dodatek do zapiekania, kanapek, sosów, farszów i dań obiadowych.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
   - ser
+  - gotowanie/skladnik
 ---
 
 Ser biały, czyli twaróg, to produkt nabiałowy otrzymywany z mleka po oddzieleniu skrzepu od serwatki. W kuchni występuje w wersji chudej, półtłustej i tłustej, a jego zastosowanie zależy głównie od wilgotności i stopnia rozdrobnienia.

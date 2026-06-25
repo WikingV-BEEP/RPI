@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/marynaty-i-farsze
+  - gotowanie/przepis
+  - typ/obiad
 ---
 ## Składniki
 - [[kasza gryczana|Kasza gryczana]] – ugotować

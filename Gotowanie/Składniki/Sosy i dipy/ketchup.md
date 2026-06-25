@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/sosy-i-dipy
-  - gotowanie/skladniki
-  - gotowanie/skladniki/sosy-i-dipy
   - sosy-i-dipy
+  - gotowanie/skladnik
 ---
 
 Ketchup to słodko-kwaśny sos pomidorowy używany jako dodatek do kanapek, frytek, zapiekanek, mięs i szybkich dań.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawy-i-dodatki
   - wypieki
+  - gotowanie/skladnik
 ---
 
 Soda oczyszczona to środek spulchniający używany w wypiekach i niektórych potrawach. Działa najlepiej w obecności składnika kwaśnego, na przykład maślanki, jogurtu, miodu lub soku z cytryny.

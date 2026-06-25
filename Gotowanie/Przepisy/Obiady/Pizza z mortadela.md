@@ -1,14 +1,13 @@
 ---
 tags:
   - dania-obiadowe
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - mortadela
   - pistacje
   - pizza
   - przepisy
   - wloska-kuchnia
+  - gotowanie/przepis
+  - typ/obiad
 ---
 
 ## Składniki

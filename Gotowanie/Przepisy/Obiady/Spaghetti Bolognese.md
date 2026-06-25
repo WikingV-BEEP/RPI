@@ -1,14 +1,13 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - kuchnia-wloska
   - makaron
   - mieso-mielone
   - obiad
   - potrawy/dania-obiadowe
   - sos-pomidorowy
+  - gotowanie/przepis
+  - typ/obiad
 ---
 
 ## Założenie

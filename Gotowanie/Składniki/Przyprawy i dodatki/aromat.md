@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawy-i-dodatki
+  - gotowanie/skladnik
 ---
 
 Aromat to skoncentrowany dodatek smakowo-zapachowy używany do wzmacniania smaku wypieków, deserów, kremów i mas.

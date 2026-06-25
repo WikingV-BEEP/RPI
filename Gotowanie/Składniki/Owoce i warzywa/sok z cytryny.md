@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - kwasne
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Sok z cytryny to kwaśny składnik używany do doprawiania, marynowania, zakwaszania i zabezpieczania owoców przed ciemnieniem. Nadaje potrawom świeżość oraz wyraźną kwasowość.

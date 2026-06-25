@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoc
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Śliwka to słodko-kwaśny owoc pestkowy używany w wypiekach, kompotach, dżemach, powidłach i deserach. W kuchni sprawdza się zarówno świeża, jak i suszona.

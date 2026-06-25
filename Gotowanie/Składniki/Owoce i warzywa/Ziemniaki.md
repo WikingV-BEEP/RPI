@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Ziemniaki to warzywo skrobiowe używane jako podstawowy dodatek obiadowy oraz składnik zup, placków, klusek, zapiekanek i farszów. Mogą być gotowane, pieczone, smażone, tłuczone lub tarte.

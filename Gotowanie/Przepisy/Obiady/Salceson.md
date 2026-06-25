@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+  - gotowanie/przepis
+  - typ/obiad
 ---
 # Składniki
 - 3–4 całe [[Jajka|jajka]]

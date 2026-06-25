@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - indeks
   - przyprawy-i-dodatki
-  - skladniki
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu

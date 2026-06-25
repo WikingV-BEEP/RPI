@@ -1,9 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/kolacje-i-szybkie-posiki
-  - gotowanie/potrawy/kolacje-i-szybkie-posilki
+  - gotowanie/przepis
+  - typ/salatka
 ---
 ### Składniki:
 - 100g [[tuńczyk w sosie własnym|tuńczyka]]

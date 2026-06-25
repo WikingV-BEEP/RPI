@@ -1,10 +1,9 @@
 ---
 tags:
   - dania-obiadowe
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - mieso-mielone
+  - gotowanie/przepis
+  - typ/obiad
 ---
 
 ## Składniki

@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - indeks
   - nabial
-  - skladniki
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -43,7 +38,7 @@ Indeks nabiału i produktów mlecznych. Ten folder służy do trzymania składni
 ## Zasada porządkowania
 
 - Pojedynczy produkt mleczny zostaje w tym folderze.
-- Przepis z użyciem nabiału trafia do [[../../Potrawy/Lista indeksów|Potraw]].
+- Przepis z użyciem nabiału trafia do [[../../Przepisy/Lista indeksów|Potraw]].
 - Składniki typowo słodkie trafiają do [[../Słodziki i słodycze|Słodzików i słodyczy]].
 - Produkty wysokobiałkowe można dodatkowo linkować z działem [[../../../Zdrowie, uroda i siłownia/Dieta|Dieta]].
 

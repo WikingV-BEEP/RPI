@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawa
+  - gotowanie/skladnik
 ---
 
 Cynamon to korzenna przyprawa używana do deserów, wypieków, owsianki i dań z owocami.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoc
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Wiśnia to kwaśny owoc pestkowy używany w ciastach, kompotach, dżemach, sosach i deserach. Jej wyraźna kwasowość dobrze równoważy słodkie masy oraz tłuste kremy.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoc
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Jabłko to popularny owoc o słodkim lub kwaśnym smaku, używany w deserach, wypiekach, sałatkach, kompotach i przetworach. Różne odmiany mają różną twardość, soczystość i kwasowość.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Buraczki to potoczna nazwa buraków ćwikłowych używanych w kuchni jako dodatek obiadowy, składnik sałatek, zup i przetworów. Mają słodkawy, ziemisty smak i intensywny czerwony kolor.

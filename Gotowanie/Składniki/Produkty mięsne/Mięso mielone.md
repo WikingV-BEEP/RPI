@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-miesne
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-miesne
   - produkty-miesne
+  - gotowanie/skladnik
 ---
 
 Mięso mielone to rozdrobniony produkt używany jako baza wielu dań kuchni domowej.

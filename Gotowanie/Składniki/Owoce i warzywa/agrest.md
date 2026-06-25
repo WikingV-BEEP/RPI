@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoc
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Agrest to kwaśny owoc jagodowy używany głównie do ciast, kompotów, dżemów i przetworów. Może mieć kolor zielony, żółtawy lub czerwony, a jego smak zależy od odmiany i dojrzałości.

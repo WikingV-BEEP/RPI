@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Marchew to słodkawe warzywo korzeniowe używane w zupach, surówkach, sosach, ciastach, farszach i daniach obiadowych. Może być gotowana, pieczona, duszona, tarta albo jedzona na surowo.

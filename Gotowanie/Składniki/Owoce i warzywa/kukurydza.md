@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Kukurydza to słodkawe ziarno używane w sałatkach, zupach, farszach, daniach z ryżem oraz jako dodatek do pizzy i dań obiadowych. W kuchni najczęściej występuje jako konserwowa, mrożona lub świeża kolba.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
   - ser
+  - gotowanie/skladnik
 ---
 
 Ser to ogólna nazwa produktów mlecznych otrzymywanych przez koagulację białek mleka i oddzielenie części serwatki. W zależności od typu może być świeży, dojrzewający, miękki, twardy, pleśniowy, topiony albo twarogowy.

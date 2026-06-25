@@ -1,12 +1,8 @@
 ---
 tags:
   - dodatki
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Bakalie to ogólna nazwa suszonych owoców, orzechów i podobnych dodatków używanych w deserach, wypiekach oraz daniach świątecznych. Mogą obejmować rodzynki, morele, daktyle, figi, żurawinę, orzechy i migdały.

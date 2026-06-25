@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - produkty-zbozowe
   - wypieki
+  - gotowanie/skladnik
 ---
 
 Mąka to podstawowy składnik wypieków, ciast, naleśników, klusek, sosów i panierowania. Powstaje przez zmielenie ziaren zbóż lub innych surowców skrobiowych.

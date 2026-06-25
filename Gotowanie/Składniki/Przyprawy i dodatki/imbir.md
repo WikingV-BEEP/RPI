@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawowe
   - przyprawy-i-dodatki
+  - gotowanie/skladnik
 ---
 
 Imbir to aromatyczne kłącze używane jako przyprawa w daniach wytrawnych, deserach, napojach i marynatach. Ma smak ostry, cytrusowy i lekko korzenny.

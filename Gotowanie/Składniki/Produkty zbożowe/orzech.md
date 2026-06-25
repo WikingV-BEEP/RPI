@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - orzechy
+  - gotowanie/skladnik
 ---
 
 Orzech to składnik używany w wypiekach, deserach, kremach, sałatkach i posypkach.

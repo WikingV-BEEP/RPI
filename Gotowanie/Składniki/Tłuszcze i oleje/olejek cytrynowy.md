@@ -1,11 +1,7 @@
 ---
 tags:
   - aromaty
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/tuszcze-i-oleje
-  - gotowanie/skladniki
-  - gotowanie/skladniki/tluszcze-i-oleje
+  - gotowanie/skladnik
 ---
 
 Olejek cytrynowy to aromatyczny dodatek do ciast, kremów, polew i deserów. Nadaje świeży, cytrusowy zapach.

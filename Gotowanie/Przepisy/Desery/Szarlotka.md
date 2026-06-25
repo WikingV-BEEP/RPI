@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/ciasta-i-wypieki
+  - gotowanie/przepis
+  - typ/deser
 ---
 ## Ciasto
 - 3 [[Mąka|szkl. mąki]] (2 krupczatki + 1 tortowa)

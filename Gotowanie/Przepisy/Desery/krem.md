@@ -1,10 +1,9 @@
 ---
 tags:
   - ciasta-i-wypieki
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/ciasta-i-wypieki
   - polprodukt
+  - gotowanie/przepis
+  - typ/deser
 ---
 
 Krem to gładka masa używana w deserach, ciastach, tortach i wypiekach. Może być przygotowany na bazie śmietany, budyniu, masła, serka, czekolady, jajek lub owoców.

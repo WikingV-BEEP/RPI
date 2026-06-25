@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-miesne
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-miesne
   - indeks
   - produkty-miesne
-  - skladniki
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -24,9 +19,9 @@ Indeks produktów mięsnych. Ten folder służy do trzymania mięsa, wędlin i s
 ## Zasada porządkowania
 
 - Pojedynczy produkt mięsny zostaje w tym folderze.
-- Gotowe danie mięsne trafia do [[../../Potrawy/Dania obiadowe i dodatki/Lista indeksów|Dań obiadowych i dodatków]].
-- Szybki posiłek wysokobiałkowy trafia do [[../../Potrawy/Kolacje i szybkie posiłki/Lista indeksów|Kolacji i szybkich posiłków]].
-- Marynata do mięsa trafia do [[../../Potrawy/Marynaty i farsze/Lista indeksów|Marynat i farszów]].
+- Gotowe danie mięsne trafia do [[../../Przepisy/Obiady/Lista indeksów|Dań obiadowych i dodatków]].
+- Szybki posiłek wysokobiałkowy trafia do [[../../Przepisy/Kolacje/Lista indeksów|Kolacji i szybkich posiłków]].
+- Marynata do mięsa trafia do [[../../Przepisy/Sosy i dipy/Lista indeksów|Marynat i farszów]].
 
 ## Najbliższe porządki
 

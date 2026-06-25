@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - indeks
   - produkty-zbozowe
-  - skladniki
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -41,9 +36,9 @@ Indeks produktów zbożowych i składników skrobiowych. Ten folder służy do t
 ## Zasada porządkowania
 
 - Produkt zbożowy albo suchy składnik bazowy zostaje w tym folderze.
-- Przepis na wypiek trafia do [[../../Potrawy/Ciasta i wypieki/Lista indeksów|Ciast i wypieków]].
-- Gotowa potrawa obiadowa trafia do [[../../Potrawy/Dania obiadowe i dodatki/Lista indeksów|Dań obiadowych i dodatków]].
-- Narzędzie kuchenne trafia do [[../../Podstawy/Lista indeksów|Podstaw]].
+- Przepis na wypiek trafia do [[../../Przepisy/Desery/Lista indeksów|Ciast i wypieków]].
+- Gotowa potrawa obiadowa trafia do [[../../Przepisy/Obiady/Lista indeksów|Dań obiadowych i dodatków]].
+- Narzędzie kuchenne trafia do [[../../Techniki/Lista indeksów|Podstaw]].
 - Składniki słodkie trafiają do [[../Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
 
 ## Najbliższe porządki

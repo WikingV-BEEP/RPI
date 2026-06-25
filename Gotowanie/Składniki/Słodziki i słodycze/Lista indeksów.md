@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/sodziki-i-sodycze
-  - gotowanie/skladniki
-  - gotowanie/skladniki/slodziki-i-slodycze
   - indeks
-  - skladniki
   - slodziki-i-slodycze
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -41,8 +36,8 @@ Indeks słodkich składników. Ten folder służy do trzymania cukrów, słodzik
 ## Zasada porządkowania
 
 - Składnik używany głównie do słodzenia albo deserów zostaje w tym folderze.
-- Gotowy deser trafia do [[../../Potrawy/Desery i słodkie przekąski|Deserów i słodkich przekąsek]].
-- Ciasto albo wypiek trafia do [[../../Potrawy/Ciasta i wypieki/Lista indeksów|Ciast i wypieków]].
+- Gotowy deser trafia do [[../../Przepisy/Desery/Lista indeksów|Deserów i słodkich przekąsek]].
+- Ciasto albo wypiek trafia do [[../../Przepisy/Desery/Lista indeksów|Ciast i wypieków]].
 - Aromaty i dodatki techniczne trafiają do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]].
 
 ## Najbliższe porządki

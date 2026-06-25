@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Groszek to zielone nasiona rośliny strączkowej używane jako dodatek do zup, sałatek, dań obiadowych i farszów. W kuchni występuje świeży, mrożony lub konserwowy.

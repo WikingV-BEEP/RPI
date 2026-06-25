@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Cebula to podstawowe warzywo aromatyczne używane jako baza wielu dań. Może być smażona, duszona, pieczona, gotowana, marynowana albo podawana na surowo.

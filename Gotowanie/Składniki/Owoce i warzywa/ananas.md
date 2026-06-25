@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoc
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Ananas to słodko-kwaśny owoc tropikalny używany w deserach, sałatkach, daniach słodko-wytrawnych i przetworach. Występuje świeży, konserwowy oraz suszony.

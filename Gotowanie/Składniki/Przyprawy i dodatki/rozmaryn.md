@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - przyprawy-i-dodatki
   - ziola
+  - gotowanie/skladnik
 ---
 
 Rozmaryn to aromatyczne zioło o żywicznym, intensywnym zapachu. Dobrze pasuje do dań pieczonych, ziemniaków, drobiu, ryb, warzyw i marynat.

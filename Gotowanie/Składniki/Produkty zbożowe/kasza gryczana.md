@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - kasza
   - produkty-zbozowe
+  - gotowanie/skladnik
 ---
 
 Kasza gryczana to kasza o wyrazistym, lekko orzechowym smaku, używana jako dodatek obiadowy, składnik farszów, zapiekanek i dań jednogarnkowych.

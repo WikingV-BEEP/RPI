@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
   - ser
+  - gotowanie/skladnik
 ---
 
 Serek homogenizowany to gładki produkt nabiałowy o kremowej konsystencji, przygotowywany z rozdrobnionego twarogu lub masy serowej. Może być naturalny albo smakowy, najczęściej waniliowy lub owocowy.

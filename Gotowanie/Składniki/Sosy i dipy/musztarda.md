@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/sosy-i-dipy
-  - gotowanie/skladniki
-  - gotowanie/skladniki/sosy-i-dipy
   - sosy-i-dipy
+  - gotowanie/skladnik
 ---
 
 Musztarda to wyrazisty dodatek używany do sosów, marynat, kanapek, sałatek i dań obiadowych.

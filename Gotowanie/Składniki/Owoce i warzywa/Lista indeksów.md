@@ -1,13 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - indeks
   - owoce-i-warzywa
-  - skladniki
+  - gotowanie/skladnik
 ---
 
 ## Zakres folderu
@@ -49,7 +44,7 @@ Indeks roślinnych składników kuchennych. Ten folder służy do trzymania owoc
 ## Zasada porządkowania
 
 - Pojedynczy składnik roślinny zostaje w tym folderze.
-- Przepis z użyciem składnika trafia do [[../../Potrawy/Lista indeksów|Potraw]].
+- Przepis z użyciem składnika trafia do [[../../Przepisy/Lista indeksów|Potraw]].
 - Rośliny uprawiane w ogrodzie opisuj szerzej w dziale [[../../../Ogrodnictwo/Rodzaje roślin/Lista indeksów|Ogrodnictwo]].
 - Produkt zbożowy trafia do [[../Produkty zbożowe/Lista indeksów|Produktów zbożowych]].
 - Składnik przyprawowy trafia do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]], jeśli pełni głównie funkcję przyprawy.

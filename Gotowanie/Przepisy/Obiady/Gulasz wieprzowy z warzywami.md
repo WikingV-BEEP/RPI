@@ -1,10 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/dania-obiadowe
-  - gotowanie/potrawy/dania-obiadowe-i-dodatki
   - kuchnia/francuska
+  - gotowanie/przepis
+  - typ/obiad
 ---
 
 ## Składniki (6 porcji)

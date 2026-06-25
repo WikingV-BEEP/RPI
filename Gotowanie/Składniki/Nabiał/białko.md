@@ -1,12 +1,8 @@
 ---
 tags:
   - bialko
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
+  - gotowanie/skladnik
 ---
 
 Białko jest jednym z trzech podstawowych makroskładników odżywczych. Zbudowane jest z aminokwasów i pełni funkcję budulcową, regeneracyjną oraz uczestniczy w produkcji enzymów, hormonów i przeciwciał.

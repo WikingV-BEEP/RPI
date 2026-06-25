@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/ciasta-i-wypieki
+  - gotowanie/przepis
+  - typ/deser
 ---
 ## Składniki
 - 30 dkg [[mak|maku]]

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Papryka to warzywo o słodkim, lekko owocowym smaku, używane na surowo, pieczone, smażone, duszone lub marynowane. Występuje w wielu kolorach i odmianach, od łagodnych po ostre.

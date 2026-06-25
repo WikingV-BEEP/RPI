@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/przyprawy-i-dodatki
-  - gotowanie/skladniki
-  - gotowanie/skladniki/przyprawy-i-dodatki
   - zageszczanie
+  - gotowanie/skladnik
 ---
 
 Żelatyna to składnik używany do usztywniania deserów, galaretek, kremów i serników na zimno.

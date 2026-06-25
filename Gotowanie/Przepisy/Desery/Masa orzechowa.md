@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/ciasta-i-wypieki
+  - gotowanie/przepis
+  - typ/deser
 ---
 ## Składniki
 - 2 szkl. [[orzech|orzechów włoskich]] – zmielić

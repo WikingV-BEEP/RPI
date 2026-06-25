@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - produkty-zbozowe
   - wypieki
+  - gotowanie/skladnik
 ---
 
 Mak to drobne nasiona używane głównie w wypiekach, masach cukierniczych i deserach. W kuchni domowej najczęściej pojawia się w makowcach, tortach, kluskach i słodkich farszach.

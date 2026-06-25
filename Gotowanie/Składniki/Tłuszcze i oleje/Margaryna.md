@@ -1,14 +1,10 @@
 ---
+tags:
+  - tluszcze-i-oleje
+  - gotowanie/skladnik
 aliases:
   - Margarynę
 
-tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/tuszcze-i-oleje
-  - gotowanie/skladniki
-  - gotowanie/skladniki/tluszcze-i-oleje
-  - tluszcze-i-oleje
 ---
 
 Margaryna to tłuszcz używany do wypieków, kremów, polew i smarowania pieczywa. W przepisach może występować w różnych formach odmienionych, ale główną notatką składnika jest `Margaryna`.

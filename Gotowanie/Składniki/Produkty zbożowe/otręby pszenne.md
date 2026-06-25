@@ -1,12 +1,8 @@
 ---
 tags:
   - dodatki
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - produkty-zbozowe
+  - gotowanie/skladnik
 ---
 
 Otręby pszenne to zewnętrzna część ziarna pszenicy, używana jako dodatek do wypieków, owsianek, koktajli, placków i panierek. Mają lekko zbożowy smak i wyraźną strukturę.

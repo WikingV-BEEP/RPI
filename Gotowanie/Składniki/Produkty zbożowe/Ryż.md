@@ -1,12 +1,8 @@
 ---
 tags:
   - dodatek
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - produkty-zbozowe
+  - gotowanie/skladnik
 ---
 
 Ryż to produkt zbożowy używany jako dodatek do dań obiadowych, baza dań jednogarnkowych, składnik farszów, deserów i zup. Występuje w wielu odmianach, między innymi biały, brązowy, jaśminowy, basmati i kleisty.

@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/dania-obiadowe-i-dodatki
+  - gotowanie/przepis
+  - typ/obiad
 ---
 ## Składniki
 - [[buraczki|Małe buraczki]] – ugotować w skórkach, obrać, włożyć do słoików

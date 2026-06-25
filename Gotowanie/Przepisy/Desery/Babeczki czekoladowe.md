@@ -2,11 +2,10 @@
 tags:
   - babeczki
   - czekolada
-  - gotowanie
   - gotowanie/ciasta-i-wypieki
-  - gotowanie/potrawy
-  - gotowanie/potrawy/ciasta-i-wypieki
   - wypieki
+  - gotowanie/przepis
+  - typ/deser
 ---
   
 ## Składniki  

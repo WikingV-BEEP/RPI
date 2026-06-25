@@ -1,12 +1,8 @@
 ---
 tags:
   - fermentowane
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
+  - gotowanie/skladnik
 ---
 
 Śmietana kwaśna to fermentowany produkt mleczny o kremowej konsystencji i wyraźnie kwaśnym smaku. W kuchni jest używana do zabielania zup, sosów, dań ziemniaczanych, pierogów oraz sałatek.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - suszone-owoce
+  - gotowanie/skladnik
 ---
 
 Rodzynki to suszone winogrona używane jako słodki dodatek do ciast, deserów, owsianek, farszów i dań świątecznych. Mają intensywnie słodki smak i miękką, lekko ciągnącą strukturę.

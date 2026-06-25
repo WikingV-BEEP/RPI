@@ -1,11 +1,7 @@
 ---
 tags:
   - aromaty
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/tuszcze-i-oleje
-  - gotowanie/skladniki
-  - gotowanie/skladniki/tluszcze-i-oleje
+  - gotowanie/skladnik
 ---
 
 Olejek pomarańczowy to aromatyczny dodatek używany do wypieków, kremów, deserów i polew. Nadaje potrawom świeży, cytrusowy zapach.

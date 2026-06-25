@@ -1,11 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
+  - gotowanie/skladnik
 ---
 
 Czosnek to aromatyczny składnik używany do sosów, marynat, zup, mięs, warzyw i dań obiadowych.

@@ -1,12 +1,8 @@
 ---
 tags:
   - fermentowane
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/nabia
-  - gotowanie/skladniki
-  - gotowanie/skladniki/nabial
   - nabial
+  - gotowanie/skladnik
 ---
 
 Jogurt to fermentowany produkt mleczny otrzymywany dzięki działaniu kultur bakterii jogurtowych. W kuchni może pełnić rolę składnika śniadań, sosów, marynat, deserów oraz lżejszego zamiennika śmietany.

@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/owoce-i-warzywa
-  - gotowanie/skladniki
-  - gotowanie/skladniki/owoce-i-warzywa
   - owoce-i-warzywa
   - warzywo
+  - gotowanie/skladnik
 ---
 
 Kapusta pekińska to delikatna kapusta o jasnozielonych liściach, często używana do surówek, sałatek, dań azjatyckich i szybkiego smażenia. Ma łagodniejszy smak niż kapusta biała.

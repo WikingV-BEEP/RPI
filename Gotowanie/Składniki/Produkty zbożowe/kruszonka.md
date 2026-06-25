@@ -1,12 +1,8 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/skadniki
-  - gotowanie/skadniki/produkty-zbozowe
-  - gotowanie/skladniki
-  - gotowanie/skladniki/produkty-zbozowe
   - produkty-zbozowe
   - wypieki
+  - gotowanie/skladnik
 ---
 
 Kruszonka to słodki dodatek do wypieków przygotowywany zwykle z mąki, tłuszczu i cukru. Po upieczeniu tworzy chrupiącą warstwę na cieście lub deserze.

@@ -1,8 +1,7 @@
 ---
 tags:
-  - gotowanie
-  - gotowanie/potrawy
-  - gotowanie/potrawy/ciasta-i-wypieki
+  - gotowanie/przepis
+  - typ/deser
 ---
 # [[tarta owocowa|Tarta owocowa]] z budyniem i galaretką
 
