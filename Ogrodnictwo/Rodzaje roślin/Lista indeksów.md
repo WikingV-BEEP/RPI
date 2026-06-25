@@ -11,11 +11,11 @@ Indeks roślin ogrodowych. Ten folder służy do trzymania opisów roślin wedł
 
 ## Kategorie roślin
 
-### [[Warzywa]]
+### [[Warzywa/Lista indeksów|Warzywa]]
 
 Warzywa bulwiaste, cebulowe, dyniowate, korzeniowe, liściowe, owocowe, pędowe, przyprawowe i strączkowe.
 
-### [[Owoce]]
+### [[Owoce/Lista indeksów|Owoce]]
 
 Owoce dyniowe, egzotyczne, jagodowe, orzechowe i twarde, pestkowe oraz ziarnkowe.
 
@@ -35,6 +35,11 @@ Krzewy dekoracyjne, kwitnące, liściaste i iglaste.
 
 Rośliny kwitnące, rabatowe, byliny i rośliny sezonowe.
 
+## Indeksy podrzędne
+
+- [[Warzywa/Lista indeksów]]
+- [[Owoce/Lista indeksów]]
+
 ## Zasada porządkowania
 
 - Roślina jadalna jako warzywo trafia do `Warzywa`.
@@ -44,6 +49,6 @@ Rośliny kwitnące, rabatowe, byliny i rośliny sezonowe.
 
 ## Najbliższe porządki
 
-- Dodać indeks dla `Warzywa`.
-- Dodać indeks dla `Owoce`.
 - Uzupełniać każdą roślinę według stałego szablonu: wymagania, siew/sadzenie, pielęgnacja, zbiory, choroby, zastosowanie.
+- Dodać indeks dla `Zioła`, gdy pojawią się pierwsze notatki.
+- Dodać indeksy dla większych grup ozdobnych, gdy foldery zaczną zawierać więcej notatek.
