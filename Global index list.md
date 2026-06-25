@@ -92,6 +92,7 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 ### Gotowanie
 
 - [[Gotowanie/Diety/Lista indeksów]]
+- [[Gotowanie/Podstawy/Lista indeksów]]
 - [[Gotowanie/Potrawy/Lista indeksów]]
 - [[Gotowanie/Potrawy/Ciasta i wypieki/Lista indeksów]]
 - [[Gotowanie/Potrawy/Dania obiadowe i dodatki/Lista indeksów]]
@@ -142,7 +143,8 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Najbliższe porządki do zrobienia
 
-- Sprawdzić techniczne niespójności w gotowaniu: `Untitled.md`, `Margaryna.md` / `Margarynę.md`, `Manna`, `Ryż`, `tarka`, `krem`, `drożdże`.
+- Sprawdzić klasyfikację `Gotowanie/Składniki/Owoce i warzywa/imbir.md`.
+- Ujednolicić wielkość liter w nazwach składników kuchennych.
 - Dodać indeksy w działach technicznych, gdy foldery zaczną zawierać więcej notatek: `Automatyka i robotyka/Elektryka/Zasady obliczania prądów zwarciowych`, `Programowanie`, `Praca`.
 - Cyklicznie czyścić foldery techniczne i tymczasowe.
 - Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.
