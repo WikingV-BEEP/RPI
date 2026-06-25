@@ -40,3 +40,9 @@ Czas: około 20 minut
 - [[pieprz czarny|pieprz czarny]]
 - [[papryka wędzona|papryka wędzona]]
 - opcjonalnie: 5 g [[oliwa z oliwek|oliwy z oliwek]]
+
+## Przygotowanie
+
+1. [[pierś z kurczaka|Pierś z kurczaka]] pokrój w kostkę lub paski.
+2. Dopraw [[sól|solą]], [[pieprz czarny|pieprzem czarnym]] i [[papryka wędzona|papryką wędzoną]].
+3. Usmaż na patelni beztłuszczowej, grillowej albo z minimalną ilością tłuszczu. Można też użyć air fryera.
