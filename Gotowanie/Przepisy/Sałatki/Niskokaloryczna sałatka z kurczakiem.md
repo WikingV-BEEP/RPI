@@ -27,3 +27,11 @@ Czas: około 20 minut
 - 80 g [[mix sałat|mixu sałat]] lub [[sałata rzymska|sałaty rzymskiej]]
 - 150 g [[ogórek|ogórka]]
 - 150 g [[pomidor koktajlowy|pomidorów koktajlowych]]
+- 120 g [[papryka czerwona|papryki czerwonej]]
+- 20 g [[cebula czerwona|cebuli czerwonej]]
+
+### Sos jogurtowo-musztardowy
+
+- 80 g [[skyr naturalny|skyru naturalnego]] albo [[jogurt grecki light|jogurtu greckiego light]]
+- 10 g [[musztarda|musztardy]]
+- 10–15 ml [[sok z cytryny|soku z cytryny]]
