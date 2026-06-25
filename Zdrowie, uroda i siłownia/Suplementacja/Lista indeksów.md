@@ -40,7 +40,7 @@ Suplementy pod siłownię, cardio i wydolność.
 
 Suplementy zależne od badań, objawów i ogólnego zdrowia.
 
-### [[Suplementy/00 Start tutaj]]
+### [[Suplementy/Lista indeksów]]
 
 Indeks pojedynczych suplementów.
 
