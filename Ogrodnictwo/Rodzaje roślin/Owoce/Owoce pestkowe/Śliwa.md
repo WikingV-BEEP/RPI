@@ -1,11 +1,10 @@
 ---
 tags:
-  - gleba/prochniczna
-  - gleba/zyzna
-  - ogrodnictwo
   - ogrodnictwo/rodzaje-roslin
   - ogrodnictwo/rodzaje-roslin/owoce
   - ogrodnictwo/rodzaje-roslin/owoce/owoce-pestkowe
+  - gleba/prochniczna
+  - gleba/zyzna
   - okres-zbioru/letnie
   - owoce/pestkowe
   - roslina-wieloletnia
@@ -13,18 +12,6 @@ tags:
   - trudnosc/srednia
   - zastosowanie/deserowe
   - zastosowanie/przetworcze
----
----
-tags:
-  - owoce/pestkowe
-  - roślina_wieloletnia
-  - stanowisko/słoneczne
-  - gleba/żyzna
-  - gleba/próchniczna
-  - okres_zbioru/letnie
-  - zastosowanie/deserowe
-  - zastosowanie/przetwórcze
-  - trudność/średnia
 ---
 
 ## Opis ogólny  
