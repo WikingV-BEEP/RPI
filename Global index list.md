@@ -91,14 +91,21 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ### Gotowanie
 
+- [[Gotowanie/Diety/Lista indeksów]]
 - [[Gotowanie/Potrawy/Lista indeksów]]
 - [[Gotowanie/Potrawy/Ciasta i wypieki/Lista indeksów]]
 - [[Gotowanie/Potrawy/Dania obiadowe i dodatki/Lista indeksów]]
+- [[Gotowanie/Potrawy/Desery i słodkie przekąski/Lista indeksów]]
+- [[Gotowanie/Potrawy/Kolacje i szybkie posiłki/Lista indeksów]]
+- [[Gotowanie/Potrawy/Marynaty i farsze/Lista indeksów]]
 - [[Gotowanie/Składniki/Lista indeksów]]
+- [[Gotowanie/Składniki/Inne/Lista indeksów]]
 - [[Gotowanie/Składniki/Nabiał/Lista indeksów]]
 - [[Gotowanie/Składniki/Owoce i warzywa/Lista indeksów]]
+- [[Gotowanie/Składniki/Produkty mięsne/Lista indeksów]]
 - [[Gotowanie/Składniki/Produkty zbożowe/Lista indeksów]]
 - [[Gotowanie/Składniki/Przyprawy i dodatki/Lista indeksów]]
+- [[Gotowanie/Składniki/Sosy i dipy/Lista indeksów]]
 - [[Gotowanie/Składniki/Słodziki i słodycze/Lista indeksów]]
 - [[Gotowanie/Składniki/Tłuszcze i oleje/Lista indeksów]]
 
@@ -135,8 +142,7 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Najbliższe porządki do zrobienia
 
-- Dodać indeksy dla mniejszych, ale zamkniętych folderów kuchennych: `Gotowanie/Potrawy/Desery i słodkie przekąski`, `Gotowanie/Potrawy/Kolacje i szybkie posiłki`, `Gotowanie/Potrawy/Marynaty i farsze`.
-- Dodać indeks dla `Gotowanie/Składniki/Produkty mięsne`, jeśli folder zostanie rozbudowany.
+- Sprawdzić techniczne niespójności w gotowaniu: `Untitled.md`, `Margaryna.md` / `Margarynę.md`, `Manna`, `Ryż`, `tarka`, `krem`, `drożdże`.
 - Dodać indeksy w działach technicznych, gdy foldery zaczną zawierać więcej notatek: `Automatyka i robotyka/Elektryka/Zasady obliczania prądów zwarciowych`, `Programowanie`, `Praca`.
 - Cyklicznie czyścić foldery techniczne i tymczasowe.
 - Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.
