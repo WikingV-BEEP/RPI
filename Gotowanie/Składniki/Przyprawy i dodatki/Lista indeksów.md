@@ -8,7 +8,7 @@ tags:
 
 ## Zakres folderu
 
-Indeks przypraw, dodatków smakowych i składników pomocniczych. Ten folder służy do trzymania przypraw, ziół suszonych, dodatków kwaśnych, aromatów i składników technicznych używanych w gotowaniu.
+Indeks przypraw, dodatków smakowych i składników pomocniczych. Ten folder służy do trzymania przypraw, ziół suszonych, dodatków kwaśnych, aromatów i składników technologicznych używanych w gotowaniu.
 
 ## Przyprawy i zioła
 
@@ -25,6 +25,7 @@ Indeks przypraw, dodatków smakowych i składników pomocniczych. Ten folder sł
 ## Dodatki technologiczne i smakowe
 
 - [[aromat]]
+- [[drożdże]]
 - [[kwasek cytrynowy]]
 - [[ocet]]
 - [[proszek do pieczenia]]
@@ -34,9 +35,10 @@ Indeks przypraw, dodatków smakowych i składników pomocniczych. Ten folder sł
 ## Zasada porządkowania
 
 - Przyprawa, zioło suszone albo dodatek smakowy zostaje w tym folderze.
+- Dodatek technologiczny, np. spulchniacz, żelujący składnik albo składnik fermentacji, również zostaje tutaj.
 - Świeże warzywo lub owoc trafia do [[../Owoce i warzywa/Lista indeksów|Owoców i warzyw]].
-- Sos gotowy lub dip trafia do [[../Sosy i dipy|Sosów i dipów]].
-- Składnik słodzący trafia do [[../Słodziki i słodycze|Słodzików i słodyczy]].
+- Sos gotowy lub dip trafia do [[../Sosy i dipy/Lista indeksów|Sosów i dipów]].
+- Składnik słodzący trafia do [[../Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
 
 ## Najbliższe porządki
 
