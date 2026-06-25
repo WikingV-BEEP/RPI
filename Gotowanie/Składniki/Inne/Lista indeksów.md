@@ -12,8 +12,6 @@ Indeks składników pomocniczych i trudnych do jednoznacznego przypisania. Ten f
 
 ## Składniki pomocnicze
 
-- [[drożdże]]
-- [[krem]]
 - [[spirytus]]
 - [[woda]]
 
@@ -21,10 +19,11 @@ Indeks składników pomocniczych i trudnych do jednoznacznego przypisania. Ten f
 
 - Składnik trafia tutaj tylko wtedy, gdy nie pasuje do lepszej kategorii.
 - Produkt mleczny trafia do [[../Nabiał/Lista indeksów|Nabiału]].
-- Dodatek smakowy trafia do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]].
+- Dodatek smakowy lub technologiczny trafia do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]].
 - Słodki składnik trafia do [[../Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
+- Półprodukt do wypieków trafia do [[../../Potrawy/Ciasta i wypieki/Lista indeksów|Ciast i wypieków]].
 
 ## Najbliższe porządki
 
-- Sprawdzić, czy `drożdże.md` powinny zostać tutaj, czy trafić do produktów zbożowych lub dodatków technologicznych.
-- Sprawdzić, czy `krem.md` powinien być składnikiem, czy elementem wypieku.
+- Ograniczać ten folder do minimum.
+- Przenosić notatki do konkretnych kategorii, gdy tylko pojawi się jasna klasyfikacja.
