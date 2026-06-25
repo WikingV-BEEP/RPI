@@ -8,7 +8,7 @@ tags:
 
 ## Zakres folderu
 
-Indeks wypieków i słodkich baz. Ten folder służy do trzymania ciast, tortów, serników, babek, chlebów, placków, mas, polew i podobnych przepisów.
+Indeks wypieków i słodkich baz. Ten folder służy do trzymania ciast, tortów, serników, babek, chlebów, placków, mas, polew, kremów i podobnych przepisów.
 
 ## Ciasta i placki
 
@@ -56,8 +56,9 @@ Indeks wypieków i słodkich baz. Ten folder służy do trzymania ciast, tortów
 - [[Ptasie mleczko]]
 - [[Wafel]]
 
-## Masy i polewy
+## Masy, kremy i polewy
 
+- [[krem]]
 - [[Masa budyniowa]]
 - [[Masa orzechowa]]
 - [[Masa z kwaśnego mleka]]
@@ -69,9 +70,9 @@ Indeks wypieków i słodkich baz. Ten folder służy do trzymania ciast, tortów
 ## Zasada porządkowania
 
 - Gotowy wypiek zostaje w tym folderze.
-- Sama masa, krem lub polewa zostaje tutaj, jeśli jest elementem wypieku.
+- Masa, krem lub polewa zostaje tutaj, jeśli jest elementem wypieku.
 - Pojedynczy składnik trafia do [[../../Składniki/Lista indeksów|Składników]].
-- Dania niesłodkie i obiadowe trafiają do [[../Dania obiadowe i dodatki|Dań obiadowych i dodatków]].
+- Dania niesłodkie i obiadowe trafiają do [[../Dania obiadowe i dodatki/Lista indeksów|Dań obiadowych i dodatków]].
 
 ## Najbliższe porządki
 
