@@ -21,6 +21,7 @@ Indeks produktów zbożowych i składników skrobiowych. Ten folder służy do t
 - [[kasza gryczana]]
 - [[kasza manna]]
 - [[makaron]]
+- [[Ryż]]
 
 ## Ziarna, nasiona i bakalie zbożowe
 
@@ -29,20 +30,19 @@ Indeks produktów zbożowych i składników skrobiowych. Ten folder służy do t
 - [[otręby pszenne]]
 - [[słonecznik]]
 
-## Półprodukty i do sprawdzenia
+## Półprodukty i dodatki do wypieków
 
 - [[kruszonka]]
-- [[tarka]]
 
 ## Zasada porządkowania
 
 - Produkt zbożowy albo suchy składnik bazowy zostaje w tym folderze.
 - Przepis na wypiek trafia do [[../../Potrawy/Ciasta i wypieki/Lista indeksów|Ciast i wypieków]].
 - Gotowa potrawa obiadowa trafia do [[../../Potrawy/Dania obiadowe i dodatki/Lista indeksów|Dań obiadowych i dodatków]].
-- Składniki słodkie trafiają do [[../Słodziki i słodycze|Słodzików i słodyczy]].
+- Narzędzie kuchenne trafia do [[../../Podstawy/Lista indeksów|Podstaw]].
+- Składniki słodkie trafiają do [[../Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
 
 ## Najbliższe porządki
 
-- Sprawdzić, czy `tarka.md` jest rzeczywiście składnikiem.
 - Rozdzielić produkty zbożowe od orzechów i nasion, jeśli folder dalej urośnie.
 - Dodać informacje o typowych zastosowaniach składników w przepisach.
