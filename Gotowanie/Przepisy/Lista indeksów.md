@@ -4,53 +4,55 @@ tags:
   - indeks
 ---
 
+# Przepisy
+
 ## Zakres folderu
 
-Folder `Przepisy` służy do trzymania gotowych przepisów kulinarnych.  
-Podział folderów mówi, czym jest potrawa. Dieta, kuchnia, składniki, technika i status są oznaczane tagami.
+Folder `Przepisy` służy do trzymania gotowych przepisów kulinarnych. Podział folderów mówi, czym jest potrawa. Dieta, kuchnia, składniki, technika i status są oznaczane tagami.
 
-## Kategorie
+## Kategorie z notatkami
 
-### [[Śniadania]]
-
-Przepisy na śniadania i pierwsze posiłki dnia.
-
-### [[Obiady]]
-
-Dania główne, dodatki obiadowe, potrawy wytrawne i większe posiłki.
-
-### [[Kolacje]]
-
-Lżejsze lub szybkie posiłki wieczorne.
-
-### [[Sałatki]]
-
-Sałatki jako osobne dania, dodatki albo posiłki pudełkowe.
-
-### [[Zupy]]
-
-Zupy, kremy i buliony.
-
-### [[Desery]]
+### [[Gotowanie/Przepisy/Desery/Lista indeksów|Desery]]
 
 Ciasta, wypieki, słodkie przekąski, kremy, masy i polewy.
 
-### [[Sosy i dipy]]
+### [[Gotowanie/Przepisy/Obiady/Lista indeksów|Obiady]]
 
-Sosy, dipy, marynaty i bazy smakowe.
+Dania główne, dodatki obiadowe, potrawy wytrawne i większe posiłki.
 
-### [[Przekąski]]
+### [[Gotowanie/Przepisy/Kolacje/Lista indeksów|Kolacje]]
 
-Małe potrawy, szybkie przekąski i jedzenie między posiłkami.
+Lżejsze lub szybkie posiłki wieczorne.
+
+### [[Gotowanie/Przepisy/Sałatki/Lista indeksów|Sałatki]]
+
+Sałatki jako osobne dania, dodatki albo posiłki pudełkowe.
+
+### [[Gotowanie/Przepisy/Marynaty/Lista indeksów|Marynaty]]
+
+Marynaty, bazy smakowe i przepisy pomocnicze.
+
+## Kategorie planowane lub puste
+
+Te foldery istnieją jako miejsca na przyszłe przepisy, ale nie mają jeszcze lokalnych indeksów:
+
+- Śniadania
+- Zupy
+- Sosy i dipy
+- Przekąski
+
+Indeks dla takiej kategorii warto utworzyć dopiero wtedy, gdy pojawi się pierwsza realna notatka.
 
 ## Zasada porządkowania
 
 - Przepis trafia do folderu według typu potrawy.
-- Dieta trafia do tagu `dieta/`.
-- Kuchnia trafia do tagu `kuchnia/`.
-- Główny składnik trafia do tagu `skladnik/`.
-- Technika trafia do tagu `technika/`.
-- Status przepisu trafia do tagu `status/`.
+- Nowy przepis trzeba dopisać do lokalnego indeksu kategorii.
+- Dieta trafia do tagu `dieta/...`.
+- Kuchnia trafia do tagu `kuchnia/...`.
+- Główny składnik może trafić do tagu `skladnik/...`, jeśli jest potrzebny do filtrowania.
+- Składniki w treści linkować do istniejących notatek z [[Gotowanie/Składniki/Lista indeksów|indeksu składników]].
+- Technika trafia do tagu `technika/...` albo do osobnej notatki w [[Gotowanie/Techniki/Lista indeksów|technikach]].
+- Status przepisu trafia do tagu `status/...`.
 
 ## Przykład tagów
 
