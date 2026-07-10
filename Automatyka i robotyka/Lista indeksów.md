@@ -6,45 +6,54 @@ tags:
   - robotyka
 ---
 
+# Automatyka i robotyka
+
 ## Zakres folderu
 
 Dział techniczny na automatykę, robotykę, elektrykę, programowanie przemysłowe, CAD, mechanikę i notatki robocze.
 
-## Główne działy
+## Główne wejścia
 
-### [[CAD]]
-
-Projektowanie, modele, dokumentacja techniczna i narzędzia CAD.
-
-### [[Elektryka/Lista indeksów]]
+### [[Automatyka i robotyka/Elektryka/Lista indeksów|Elektryka]]
 
 Instalacje, zabezpieczenia, przewody, prądy zwarciowe, terminologia i praktyka elektryczna.
 
-### [[Mechanika]]
+### [[Programowanie/PLC/Lista indeksów|PLC]]
 
-Elementy mechaniczne, konstrukcje, materiały i zagadnienia projektowe.
+Programowanie sterowników, logika przemysłowa, komunikacja, struktury programów i biblioteki.
 
-### [[Programowanie]]
+### [[Programowanie/PLC/BA2/Lista indeksów|BA2/BACnet]]
 
-PLC, HMI, komunikacja, skrypty i logika sterowania.
+Kanoniczna lokalizacja notatek BA2/BACnet. Stare kopie w `Automatyka i robotyka/Programowanie/BA2` są przekierowaniami.
 
-### [[Uncategorized]]
+## Foldery robocze bez indeksu
 
-Tymczasowe notatki do późniejszego rozdzielenia.
+Te foldery istnieją, ale nie mają jeszcze własnych notatek indeksowych:
+
+- CAD
+- Mechanika
+- Programowanie
+- Uncategorized
+
+Nie linkować do nich jako `[[CAD]]`, `[[Mechanika]]`, `[[Programowanie]]` ani `[[Uncategorized]]`, dopóki nie powstanie tam realny `Lista indeksów.md`.
 
 ## Indeksy podrzędne
 
-- [[Elektryka/Lista indeksów]]
+- [[Automatyka i robotyka/Elektryka/Lista indeksów]]
+- [[Automatyka i robotyka/Elektryka/Rodzaje kabli/Lista indeksów]]
+- [[Automatyka i robotyka/Elektryka/Terminologia/Lista indeksów]]
+- [[Programowanie/PLC/Lista indeksów]]
+- [[Programowanie/PLC/BA2/Lista indeksów]]
 
 ## Zasada porządkowania
 
-- PLC i HMI trzymać w `Programowanie`.
-- Instalacje, przewody, zabezpieczenia i obliczenia trzymać w `Elektryka`.
-- Rzeczy mechaniczne przenosić do `Mechanika`.
-- Notatki z `Uncategorized` cyklicznie przerzucać do właściwych działów.
+- PLC i BA2/BACnet trzymać kanonicznie w [[Programowanie/PLC/Lista indeksów|Programowanie/PLC]].
+- Instalacje, przewody, zabezpieczenia i obliczenia trzymać w [[Automatyka i robotyka/Elektryka/Lista indeksów|Elektryce]].
+- Rzeczy mechaniczne przenosić do `Mechanika`, gdy pojawi się więcej notatek i indeks.
+- Notatki z `Uncategorized` cyklicznie przerzucać do właściwych działów albo zamieniać w przekierowania.
 
 ## Najbliższy rozwój
 
-- Dodać indeks dla `Elektryka/Rodzaje kabli`.
-- Dodać indeks dla `Elektryka/Terminologia`.
 - Uporządkować `Uncategorized`.
+- Dodać indeks dla `CAD`, jeśli pojawią się realne notatki.
+- Dodać indeks dla `Mechanika`, jeśli pojawią się realne notatki.
