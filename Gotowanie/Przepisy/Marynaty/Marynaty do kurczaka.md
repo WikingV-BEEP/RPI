@@ -102,7 +102,7 @@ tags:
 
 ---
 
-# [[marynata miodowo-musztardowa|Marynata Miodowo-Musztardowa]]
+# [[Marynata Miodowo-Musztardowa|Marynata Miodowo-Musztardowa]]
 
 ## Składniki
 
