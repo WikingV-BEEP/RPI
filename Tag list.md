@@ -66,6 +66,7 @@ Przykłady:
 - `status/do-przetestowania`
 - `status/przetestowane`
 - `status/do-poprawy`
+- `status/przekierowanie`
 
 ### Gotowanie
 
@@ -109,7 +110,7 @@ Dopuszczalne tagi działów:
 
 - Nie tworzyć tagów tylko dlatego, że istnieje folder o takiej nazwie.
 - Nie dublować tej samej informacji w folderze, linku i tagu naraz.
-- Nie tworzyć nowych wariantów literówek, np. `siownia`, `skadniki`, `posiki`.
+- Nie tworzyć nowych wariantów literówek w tagach.
 - Nie linkować do folderu, jeśli nie ma w nim notatki indeksowej.
 - Nie używać `[[Lista indeksów]]` bez ścieżki, bo takich plików jest dużo.
 
@@ -127,7 +128,7 @@ Przykłady problematyczne:
 
 - `[[Lista indeksów]]`
 - `[[../Makro i odżywianie]]`
-- `[[oliwa z oliwek]]`, jeśli taka notatka składnika jeszcze nie istnieje
+- link do składnika, jeśli taka notatka składnika jeszcze nie istnieje
 
 ## Znane długi migracyjne
 
@@ -140,13 +141,20 @@ Według audytu read-only vault miał:
 - 961 potencjalnie broken wikilinków,
 - 108 orphan notes po pominięciu indeksów.
 
-Najważniejsze długi:
+Wykonane porządki:
 
-- znormalizować `zdrowie-uroda-i-siownia` do `zdrowie-uroda-i-silownia`,
+- znormalizowano literówki w tagach działu zdrowia i siłowni,
+- utworzono indeksy kategorii przepisów,
+- wybrano kanoniczną lokalizację BA2/BACnet w [[Programowanie/PLC/BA2/Lista indeksów|Programowanie/PLC/BA2]],
+- dodano frontmatter do notatki HMI.Framework,
+- naprawiono globalny indeks i usunięto linki do nieistniejących struktur.
+
+Pozostałe długi:
+
 - znormalizować literówki typu `skadniki`, `posiki`, `sodkie`, `pompa-ciepa`, `materiay`,
-- zdecydować, która lokalizacja BA2/BACnet jest kanoniczna,
-- uzupełnić indeksy kategorii przepisów,
-- przejrzeć największe skupiska broken linków: marynaty, kable elektryczne, ryż smakowy.
+- przejrzeć największe skupiska broken linków: marynaty, kable elektryczne, ryż smakowy,
+- rozstrzygnąć notatki z [[Automatyka i robotyka/Uncategorized/Lista indeksów|Uncategorized]],
+- ograniczyć tagi folderowe tam, gdzie nie pomagają filtrować.
 
 ## Zasada aktualizacji tego pliku
 
