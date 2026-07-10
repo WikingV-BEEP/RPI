@@ -5,18 +5,14 @@ tags:
   - gry/bitburner/console
 ---
 
-NS api [link]([https://github.com/bitburner-official/bitburner-src/blob/stable/markdown/bitburner.ns.md])
-
-
+NS api [link](https://github.com/bitburner-official/bitburner-src/blob/stable/markdown/bitburner.ns.md)
 
 ```
-
-ls 
+ls
 help
 analyze // sprawdza zasoby serwera
-free // sprawdza ram 
+free // sprawdza ram
 ```
-
 
 ## Movement
 
@@ -25,7 +21,7 @@ scan
 scan-analyze
 scan-analyze 2
 
-connect x 
+connect x
 
 run nuke.exe
 
@@ -38,9 +34,7 @@ home
 hack
 weaken
 grow
-
 ```
-
 
 ## scripting
 
@@ -48,6 +42,4 @@ grow
 run x
 tail x
 nano x
-
-
 ```
