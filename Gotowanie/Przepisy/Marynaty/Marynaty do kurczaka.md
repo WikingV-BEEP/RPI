@@ -2,163 +2,99 @@
 tags:
   - gotowanie/przepis
   - typ/sos
+  - technika/marynowanie
 ---
-# [[marynata fajita|Marynata Fajita]]
 
-## Składniki
+# Marynaty do kurczaka
+
+## Marynata Fajita
+
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[miód|Miód]]
-    
 - [[sok z limonki|Sok z limonki]]
-    
 - [[cebula w proszku|Cebula w proszku]]
-    
 - [[czosnek w proszku|Czosnek w proszku]]
-    
 - [[chili w proszku|Chili w proszku]]
-    
 - [[papryka|Papryka]]
-    
 - [[kumin|Kumin]]
-    
 
----
+## Marynata Kolendra-Limonka
 
-# [[marynata kolendra limonka|Marynata Kolendra-Limonka]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[sok z limonki|Sok z limonki]]
-    
 - [[skórka z limonki|Skórka z limonki]]
-    
 - [[kolendra|Kolendra]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
 
----
+## Marynata Cytrynowo-Czosnkowa
 
-# [[marynata cytrynowo-czosnkowa|Marynata Cytrynowo-Czosnkowa]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[sok z cytryny|Sok z cytryny]]
-    
 - [[skórka z cytryny|Skórka z cytryny]]
-    
 - [[czosnek|Czosnek]]
-    
 - [[natka pietruszki suszona|Suszona pietruszka]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
 
----
+## Marynata Ananasowa
 
-# [[marynata ananasowa|Marynata Ananasowa]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[sok z ananasa|Sok z ananasa]]
-    
 - [[sos sojowy|Sos sojowy]]
-    
 - [[cebula w proszku|Cebula w proszku]]
-    
 - [[imbir mielony|Imbir mielony]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
 
----
+## Marynata Barbecue
 
-# [[marynata barbecue|Marynata Barbecue]]
-
-## Składniki
+### Składniki
 
 - [[sos barbecue|Sos barbecue]]
-    
 - [[miód|Miód]]
-    
 - [[sok z cytryny|Sok z cytryny]]
-    
 - [[chili w proszku|Chili w proszku]]
-    
 
----
+## Marynata Miodowo-Musztardowa
 
-# [[Marynata Miodowo-Musztardowa|Marynata Miodowo-Musztardowa]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[sok z cytryny|Sok z cytryny]]
-    
 - [[miód|Miód]]
-    
 - [[musztarda dijon|Musztarda Dijon]]
-    
 - [[czosnek|Czosnek]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
 
----
+## Marynata Balsamiczna z Bazylią
 
-# [[marynata balsamiczna z bazylią|Marynata Balsamiczna z Bazylią]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[ocet balsamiczny|Ocet balsamiczny]]
-    
 - [[czosnek|Czosnek]]
-    
 - [[bazylia suszona|Suszona bazylia]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
 
----
+## Marynata Imbirowo-Czosnkowa
 
-# [[marynata imbirowo-czosnkowa|Marynata Imbirowo-Czosnkowa]]
-
-## Składniki
+### Składniki
 
 - [[sos sojowy|Sos sojowy]]
-    
 - [[miód|Miód]]
-    
 - [[olej|Olej]]
-    
 - [[czosnek|Czosnek]]
-    
 - [[imbir mielony|Imbir mielony]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
-
-[98% | 27 10:28 | 2]
