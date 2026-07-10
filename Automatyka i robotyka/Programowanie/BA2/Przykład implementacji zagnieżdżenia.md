@@ -3,23 +3,17 @@ tags:
   - automatyka-i-robotyka
   - automatyka-i-robotyka/programowanie
   - automatyka-i-robotyka/programowanie/ba2
+  - status/przekierowanie
+  - ba2
+  - dpad
 ---
-## Przykład implementacji zagnieżdżenia
 
-Każdy obiekt niższego poziomu przypisuje swój nadrzędny element za pomocą parametru `iParent`. Pozwala to tworzyć hierarchię zgodną z ustaloną strukturą DPAD.
+# Przykład implementacji zagnieżdżenia
 
-### Przykład kodu
+Ta notatka jest przekierowaniem po scaleniu duplikatów BA2/BACnet.
 
-```iec
-// Level 1 – Budynek
-G : FB_BA_View := (
-    sObjectName    := 'CaRel85',
-    sDescription   := 'CaRe Haller Straße 185'
-);
+Kanoniczna wersja: [[Programowanie/PLC/BA2/Przykład implementacji zagnieżdżenia|Przykład implementacji zagnieżdżenia]]
 
-// Level 2 – Automationsstation
-AS01 : FB_AS1 := (
-    iParent        := G,
-    sObjectName    := '[AS01]',
-    sDescription   := '[Automationsstation 1]'
-);
+Indeks kanoniczny: [[Programowanie/PLC/BA2/Lista indeksów|BA2]]
+
+Nie rozwijaj tej kopii; nowe treści dopisuj w lokalizacji kanonicznej.
