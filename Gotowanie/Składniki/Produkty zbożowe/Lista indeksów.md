@@ -5,6 +5,8 @@ tags:
   - gotowanie/skladnik
 ---
 
+# Produkty zbożowe
+
 ## Zakres folderu
 
 Indeks produktów zbożowych i składników skrobiowych. Ten folder służy do trzymania mąk, kasz, ryżu, makaronów, pieczywa, produktów sypkich i baz do wypieków lub dań obiadowych.
@@ -21,6 +23,7 @@ Indeks produktów zbożowych i składników skrobiowych. Ten folder służy do t
 - [[kasza manna]]
 - [[makaron]]
 - [[Ryż]]
+- [[ryż jaśminowy]]
 
 ## Ziarna, nasiona i bakalie zbożowe
 
@@ -36,12 +39,5 @@ Indeks produktów zbożowych i składników skrobiowych. Ten folder służy do t
 ## Zasada porządkowania
 
 - Produkt zbożowy albo suchy składnik bazowy zostaje w tym folderze.
-- Przepis na wypiek trafia do [[../../Przepisy/Desery/Lista indeksów|Ciast i wypieków]].
-- Gotowa potrawa obiadowa trafia do [[../../Przepisy/Obiady/Lista indeksów|Dań obiadowych i dodatków]].
-- Narzędzie kuchenne trafia do [[../../Techniki/Lista indeksów|Podstaw]].
-- Składniki słodkie trafiają do [[../Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
-
-## Najbliższe porządki
-
-- Rozdzielić produkty zbożowe od orzechów i nasion, jeśli folder dalej urośnie.
-- Dodać informacje o typowych zastosowaniach składników w przepisach.
+- Przepis na wypiek trafia do [[Gotowanie/Przepisy/Desery/Lista indeksów|Deserów]].
+- Gotowa potrawa obiadowa trafia do [[Gotowanie/Przepisy/Obiady/Lista indeksów|Obiadów]].
