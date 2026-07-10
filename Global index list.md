@@ -5,15 +5,17 @@ tags:
   - vault
 ---
 
+# Global index list
+
 ## Cel pliku
 
-Globalny indeks całego vaulta. Ten plik służy jako główna mapa wejścia do wszystkich najważniejszych działów.
+Globalny indeks całego vaulta. Ten plik jest główną mapą wejścia do działów, które faktycznie istnieją w vaultcie. Szczegóły powinny żyć w lokalnych plikach `Lista indeksów.md`, a nie tutaj.
 
 ## Standard i administracja vaulta
 
 ### [[Tag list]]
 
-Centralna lista tagów, standard tagowania i reguły tworzenia nowych tagów.
+Centralny standard tagowania, reguły linkowania i lista znanych długów migracyjnych.
 
 ## Główne działy vaulta
 
@@ -27,11 +29,7 @@ Akwarystyka, ryby, rośliny, parametry wody, projekty i pielęgnacja zbiorników
 
 ### [[Automatyka i robotyka/Lista indeksów]]
 
-Elektryka, automatyka, PLC, HMI, CAD, mechanika i notatki techniczne.
-
-### [[copilot/Lista indeksów]]
-
-Konfiguracje, prompty i materiały związane z Copilotem.
+Elektryka, automatyka, robotyka, mechanika, CAD i notatki techniczne.
 
 ### [[Daily notes/Lista indeksów]]
 
@@ -43,11 +41,11 @@ Fotografia, sprzęt, obróbka, montaż i poradniki wizualne.
 
 ### [[Gotowanie/Lista indeksów]]
 
-Przepisy, składniki, diety, techniki i notatki kuchenne.
+Przepisy, składniki, techniki, makro i praktyczne notatki kuchenne.
 
 ### [[Gry/Lista indeksów]]
 
-Notatki o grach, poradniki, buildy, mechaniki i linki.
+Notatki o grach, poradniki, mechaniki i linki.
 
 ### [[Książki/Lista indeksów]]
 
@@ -63,11 +61,11 @@ Ubrania, sklepy, rozmiary, styl i zakupy.
 
 ### [[Motocykle/Lista indeksów]]
 
-Budowa motocykla, serwis, eksploatacja, prawo, dokumenty i własne motocykle.
+Budowa motocykla, serwis, eksploatacja i własne motocykle.
 
 ### [[Ogrodnictwo/Lista indeksów]]
 
-Rośliny, uprawa, planowanie ogrodu, narzędzia, projekty i praktyki ekologiczne.
+Rośliny, uprawa, planowanie ogrodu, narzędzia i praktyki ekologiczne.
 
 ### [[Praca/Lista indeksów]]
 
@@ -97,30 +95,11 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ### Gotowanie
 
-- [[Gotowanie/Diety/Lista indeksów]]
-- [[Gotowanie/Podstawy/Lista indeksów]]
-- [[Gotowanie/Potrawy/Lista indeksów]]
-- [[Gotowanie/Potrawy/Ciasta i wypieki/Lista indeksów]]
-- [[Gotowanie/Potrawy/Dania obiadowe i dodatki/Lista indeksów]]
-- [[Gotowanie/Potrawy/Desery i słodkie przekąski/Lista indeksów]]
-- [[Gotowanie/Potrawy/Kolacje i szybkie posiłki/Lista indeksów]]
-- [[Gotowanie/Potrawy/Marynaty i farsze/Lista indeksów]]
+- [[Gotowanie/Przepisy/Lista indeksów]]
 - [[Gotowanie/Składniki/Lista indeksów]]
-- [[Gotowanie/Składniki/Inne/Lista indeksów]]
-- [[Gotowanie/Składniki/Nabiał/Lista indeksów]]
-- [[Gotowanie/Składniki/Owoce i warzywa/Lista indeksów]]
-- [[Gotowanie/Składniki/Produkty mięsne/Lista indeksów]]
-- [[Gotowanie/Składniki/Produkty zbożowe/Lista indeksów]]
-- [[Gotowanie/Składniki/Przyprawy i dodatki/Lista indeksów]]
-- [[Gotowanie/Składniki/Sosy i dipy/Lista indeksów]]
-- [[Gotowanie/Składniki/Słodziki i słodycze/Lista indeksów]]
-- [[Gotowanie/Składniki/Tłuszcze i oleje/Lista indeksów]]
-
-### Ogrodnictwo
-
-- [[Ogrodnictwo/Rodzaje roślin/Lista indeksów]]
-- [[Ogrodnictwo/Rodzaje roślin/Warzywa/Lista indeksów]]
-- [[Ogrodnictwo/Rodzaje roślin/Owoce/Lista indeksów]]
+- [[Gotowanie/Techniki/Lista indeksów]]
+- [[Gotowanie/Makro i odżywianie/Lista indeksów]]
+- [[Gotowanie/System tagów]]
 
 ### Automatyka i robotyka
 
@@ -132,6 +111,12 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 - [[Programowanie/PLC/Lista indeksów]]
 
+### Ogrodnictwo
+
+- [[Ogrodnictwo/Rodzaje roślin/Lista indeksów]]
+- [[Ogrodnictwo/Rodzaje roślin/Warzywa/Lista indeksów]]
+- [[Ogrodnictwo/Rodzaje roślin/Owoce/Lista indeksów]]
+
 ### Zdrowie, uroda i siłownia
 
 - [[Zdrowie, uroda i siłownia/Trening/Lista indeksów]]
@@ -141,15 +126,15 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Zasada pracy z indeksem
 
-- Nowy główny dział powinien dostać własny `Lista indeksów.md`.
-- Duży podfolder z wieloma notatkami powinien dostać własny `Lista indeksów.md`.
-- Ten plik globalny powinien prowadzić do głównych działów i najważniejszych indeksów podrzędnych.
-- Szczegóły i podkategorie powinny być rozwijane w indeksach lokalnych.
-- Indeksy mają służyć do nawigacji, nie do przechowywania pełnej wiedzy.
+- Ten plik linkuje tylko do istniejących notatek indeksowych albo głównych notatek działów.
+- Nie linkować tutaj bezpośrednio do folderów, jeśli w folderze nie ma notatki indeksowej.
+- Duży podfolder z wieloma notatkami powinien mieć własny `Lista indeksów.md`.
+- Szczegóły i podkategorie rozwijać w indeksach lokalnych.
+- Indeksy służą do nawigacji, nie do przechowywania pełnej wiedzy.
 
-## Najbliższe porządki do zrobienia
+## Najbliższe porządki
 
-- Przejrzeć linki w przepisach pod kątem aliasów składników i brakujących notatek.
-- Dodać indeksy w działach technicznych, gdy foldery zaczną zawierać więcej notatek: `Automatyka i robotyka/Elektryka/Zasady obliczania prądów zwarciowych`, `Programowanie`, `Praca`.
-- Cyklicznie czyścić foldery techniczne i tymczasowe.
-- Pilnować, żeby każdy większy dział miał jeden punkt wejścia: `Lista indeksów.md`.
+- Uzupełnić brakujące indeksy kategorii przepisów w `Gotowanie/Przepisy`.
+- Wybrać kanoniczną lokalizację dla notatek BA2/BACnet.
+- Wyczyścić tagi po migracji: szczególnie warianty `silownia/siownia`, literówki i stare tagi folderowe.
+- Przejrzeć największe skupiska broken wikilinków: marynaty, kable elektryczne i ryż smakowy.
