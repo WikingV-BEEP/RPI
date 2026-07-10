@@ -5,6 +5,8 @@ tags:
   - gotowanie/skladnik
 ---
 
+# Produkty mięsne
+
 ## Zakres folderu
 
 Indeks produktów mięsnych. Ten folder służy do trzymania mięsa, wędlin i składników białkowych pochodzenia zwierzęcego używanych w przepisach.
@@ -12,18 +14,19 @@ Indeks produktów mięsnych. Ten folder służy do trzymania mięsa, wędlin i s
 ## Mięso i wędliny
 
 - [[Kiełbasa]]
+- [[kurczak]]
 - [[Mięso mielone]]
 - [[pierś z kurczaka]]
 - [[szynka]]
+- [[wołowina]]
 
 ## Zasada porządkowania
 
 - Pojedynczy produkt mięsny zostaje w tym folderze.
-- Gotowe danie mięsne trafia do [[../../Przepisy/Obiady/Lista indeksów|Dań obiadowych i dodatków]].
-- Szybki posiłek wysokobiałkowy trafia do [[../../Przepisy/Kolacje/Lista indeksów|Kolacji i szybkich posiłków]].
-- Marynata do mięsa trafia do [[../../Przepisy/Sosy i dipy/Lista indeksów|Marynat i farszów]].
+- Gotowe danie mięsne trafia do [[Gotowanie/Przepisy/Obiady/Lista indeksów|Obiadów]].
+- Szybki posiłek wysokobiałkowy trafia do [[Gotowanie/Przepisy/Kolacje/Lista indeksów|Kolacji]].
+- Marynata do mięsa trafia do [[Gotowanie/Przepisy/Marynaty/Lista indeksów|Marynat]].
 
 ## Najbliższe porządki
 
 - Dodać ryby i owoce morza, jeśli pojawią się w przepisach.
-- Dodać informacje o zastosowaniu: smażenie, pieczenie, farsz, szybkie posiłki.
