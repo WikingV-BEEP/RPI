@@ -1,8 +1,8 @@
 ---
 tags:
   - zdrowie-uroda-i-silownia/dieta
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/dieta
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/dieta
 ---
 Importowane japońskie
 https://nagomi.pl/pl/

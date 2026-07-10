@@ -5,7 +5,7 @@ tags:
   - uroda
   - zdrowie
   - zdrowie-uroda-i-silownia
-  - zdrowie-uroda-i-siownia
+  - zdrowie-uroda-i-silownia
 ---
 
 ## Zakres folderu

@@ -6,9 +6,9 @@ tags:
   - trening
   - zdrowie-uroda-i-silownia/trening
   - zdrowie-uroda-i-silownia/trening/silownia
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/trening
-  - zdrowie-uroda-i-siownia/trening/siownia
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
 ---
 
 ## Zakres folderu

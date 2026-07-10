@@ -1,3 +1,11 @@
+---
+tags:
+  - praca
+  - twincat
+  - hmi
+  - framework
+---
+
 # HMI.Framework - przestrzenie nazw
 
 Zrodlo: `Packages/Beckhoff.TwinCAT.HMI.Framework.14.4.70/runtimes/native1.12-tchmi/dist/index/TcHmi.d.ts`.
@@ -95,4 +103,3 @@ Pakiet `Beckhoff.TwinCAT.HMI.Framework` udostepnia glowna globalna przestrzen `T
 - `TcHmi.Server.*` grupuje typy i API zwiazane z komunikacja z serwerem HMI, ADS, eventami, historiami, recepturami i uzytkownikami.
 - `TcHmi.UiProvider.PopupProvider.*` opisuje typy popupow i okien dialogowych.
 - `TcHmi.Theme.*`, `TcHmi.Localization`, `TcHmi.Locale` dotycza wygladu oraz lokalizacji.
-

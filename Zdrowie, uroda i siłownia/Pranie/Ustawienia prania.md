@@ -1,8 +1,8 @@
 ---
 tags:
   - zdrowie-uroda-i-silownia/pranie
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/pranie
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/pranie
 ---
 
 ## Zasady prania

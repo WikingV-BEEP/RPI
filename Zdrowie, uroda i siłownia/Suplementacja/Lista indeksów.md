@@ -5,8 +5,8 @@ tags:
   - suplementacja
   - zdrowie
   - zdrowie-uroda-i-silownia/suplementacja
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/suplementacja
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/suplementacja
 ---
 
 ## Zakres folderu

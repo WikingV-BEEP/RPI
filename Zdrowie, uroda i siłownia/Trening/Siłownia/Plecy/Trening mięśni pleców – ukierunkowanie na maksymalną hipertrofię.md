@@ -3,10 +3,10 @@ tags:
   - zdrowie-uroda-i-silownia/trening
   - zdrowie-uroda-i-silownia/trening/silownia
   - zdrowie-uroda-i-silownia/trening/silownia/plecy
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/trening
-  - zdrowie-uroda-i-siownia/trening/siownia
-  - zdrowie-uroda-i-siownia/trening/siownia/plecy
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
+  - zdrowie-uroda-i-silownia/trening/silownia/plecy
 ---
 **Cel:** Kompleksowe omówienie anatomii mięśni pleców oraz zasad treningu nastawionego na maksymalny przyrost masy mięśniowej (hipertrofię). W notatce przedstawiono szczegółową budowę i funkcje głównych mięśni grzbietu, zalecenia dotyczące regeneracji, rodzaje ćwiczeń angażujących różne rejony pleców, optymalne parametry treningowe oraz przykładowy plan treningowy. Wszystkie wnioski poparto wynikami badań naukowych (EMG, metaanalizy) i opatrzono odpowiednimi źródłami.
 

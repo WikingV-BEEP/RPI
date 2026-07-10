@@ -3,9 +3,9 @@ tags:
   - plan-treningowy
   - redukcja
   - zdrowie-uroda-i-silownia/trening
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/trening
-  - zdrowie-uroda-silownia/trening
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening
 ---
 
 ## Plan tygodniowy — redukcja z zachowaniem mięśni

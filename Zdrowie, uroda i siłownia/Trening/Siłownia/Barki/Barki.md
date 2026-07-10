@@ -3,10 +3,10 @@ tags:
   - zdrowie-uroda-i-silownia/trening
   - zdrowie-uroda-i-silownia/trening/silownia
   - zdrowie-uroda-i-silownia/trening/silownia/barki
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/trening
-  - zdrowie-uroda-i-siownia/trening/siownia
-  - zdrowie-uroda-i-siownia/trening/siownia/barki
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/trening
+  - zdrowie-uroda-i-silownia/trening/silownia
+  - zdrowie-uroda-i-silownia/trening/silownia/barki
 ---
 ## Anatomia i budowa mięśni barków
 

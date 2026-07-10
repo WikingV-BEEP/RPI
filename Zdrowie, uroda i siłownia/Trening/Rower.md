@@ -3,8 +3,8 @@ tags:
   - cardio
   - interwaly
   - zdrowie-uroda-i-silownia/trening
-  - zdrowie-uroda-i-siownia
-  - zdrowie-uroda-i-siownia/trening
+  - zdrowie-uroda-i-silownia
+  - zdrowie-uroda-i-silownia/trening
 ---
 
 ## Rower – trening interwałowy (Split nr 1 – TABATA)
