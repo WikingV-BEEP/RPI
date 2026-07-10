@@ -5,6 +5,8 @@ tags:
   - gotowanie/skladnik
 ---
 
+# Nabiał
+
 ## Zakres folderu
 
 Indeks nabiału i produktów mlecznych. Ten folder służy do trzymania składników takich jak mleko, śmietana, sery, jogurty, jajka, budynie i produkty białkowe używane w przepisach.
@@ -24,8 +26,10 @@ Indeks nabiału i produktów mlecznych. Ten folder służy do trzymania składni
 
 ## Sery i serki
 
+- [[parmezan]]
 - [[ser]]
 - [[ser biały]]
+- [[ser cheddar]]
 - [[ser żółty]]
 - [[serek homogenizowany]]
 
@@ -38,12 +42,5 @@ Indeks nabiału i produktów mlecznych. Ten folder służy do trzymania składni
 ## Zasada porządkowania
 
 - Pojedynczy produkt mleczny zostaje w tym folderze.
-- Przepis z użyciem nabiału trafia do [[../../Przepisy/Lista indeksów|Potraw]].
-- Składniki typowo słodkie trafiają do [[../Słodziki i słodycze|Słodzików i słodyczy]].
-- Produkty wysokobiałkowe można dodatkowo linkować z działem [[../../../Zdrowie, uroda i siłownia/Dieta|Dieta]].
-
-## Najbliższe porządki
-
-- Ujednolicić nazwy serów i śmietan.
-- Dodać informacje o zastosowaniu: wypieki, sosy, śniadania, wysokobiałkowe.
-- Rozdzielić jajka od nabiału, jeśli folder dalej urośnie.
+- Przepis z użyciem nabiału trafia do [[Gotowanie/Przepisy/Lista indeksów|Przepisów]].
+- Składniki typowo słodkie trafiają do [[Gotowanie/Składniki/Słodziki i słodycze/Lista indeksów|Słodzików i słodyczy]].
