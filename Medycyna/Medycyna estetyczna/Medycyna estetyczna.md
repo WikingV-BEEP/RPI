@@ -6,60 +6,74 @@ tags:
   - medycyna/medycyna-estetyczna
 ---
 
+# Medycyna estetyczna
+
 ## Zakres działu
 
 Ten dział dotyczy medycyny estetycznej: anatomii zabiegowej, zabiegów, preparatów, powikłań, prawa i etyki.
 
-Choroby skóry, trądzik i leki dermatologiczne są teraz przeniesione do osobnego działu: [[../Dermatologia/00 Start tutaj|Dermatologia]].
+Choroby skóry, trądzik i leki dermatologiczne są w osobnym dziale: [[Medycyna/Dermatologia/Lista indeksów|Dermatologia]].
 
-## Główne obszary
+## Główne obszary planowane
 
-| Obszar | Folder |
+| Obszar | Status |
 |---|---|
-| anatomia pod zabiegi | [[Anatomia zabiegowa]] |
-| zabiegi | [[Zabiegi]] |
-| preparaty | [[Preparaty]] |
-| powikłania | [[Powikłania]] |
-| prawo i etyka | [[Prawo i etyka]] |
+| anatomia zabiegowa | folder istnieje, brak notatek |
+| zabiegi | folder istnieje, brak notatek |
+| preparaty | folder istnieje, brak notatek |
+| powikłania | folder istnieje, brak notatek |
+| prawo i etyka | folder istnieje, brak notatek |
+
+Nie linkować do tych folderów, dopóki nie powstaną w nich realne notatki albo lokalne pliki `Lista indeksów.md`.
 
 ## Anatomia twarzy i skóry
 
-- Warstwy skóry: naskórek, skóra właściwa, tkanka podskórna.
-- [[unerwienie|Unerwienie]] i [[unaczynienie|unaczynienie]] twarzy.
-- [[mięsień mimiczny|Mięśnie mimiczne]] — lokalizacja i funkcje.
-- Strefy ryzyka zabiegowego.
+Tematy do ewentualnego rozpisania:
+
+- warstwy skóry: naskórek, skóra właściwa, tkanka podskórna,
+- unerwienie i unaczynienie twarzy,
+- mięśnie mimiczne: lokalizacja i funkcje,
+- strefy ryzyka zabiegowego.
 
 ## Zabiegi podstawowe
 
-- [[toksyna botulinowa|Toksyna botulinowa]] — mechanizm działania, wskazania, ryzyko.
-- [[kwas hialuronowy|Kwas hialuronowy]] — typy, techniki, efekty.
-- [[mezoterapia igłowa|Mezoterapia igłowa]] — preparaty, działanie, obszary.
+Tematy do ewentualnego rozpisania:
+
+- toksyna botulinowa: mechanizm działania, wskazania, ryzyko,
+- kwas hialuronowy: typy, techniki, efekty,
+- mezoterapia igłowa: preparaty, działanie, obszary.
 
 ## Narzędzia i sprzęt
 
-- [[kaniula|Kaniule]].
-- [[igła|Igły]].
-- [[ampułka|Ampułki]].
-- [[strzykawka|Strzykawki]].
-- [[dermapen|Dermapeny]].
-- [[aseptyka|Aseptyka]] i [[sterylność|sterylność]].
+Tematy do ewentualnego rozpisania:
+
+- kaniule,
+- igły,
+- ampułki,
+- strzykawki,
+- dermapeny,
+- aseptyka i sterylność.
 
 ## Fizjologia skóry i starzenie
 
-- [[kolagen|Kolagen]].
-- [[elastyna|Elastyna]].
-- [[glikozaminoglikany|Glikozaminoglikany]].
-- [[fotostarzenie|Fotostarzenie]].
-- [[wolny rodnik|Wolne rodniki]].
-- [[promieniowanie UV|Promieniowanie UV]].
+Tematy do ewentualnego rozpisania:
+
+- kolagen,
+- elastyna,
+- glikozaminoglikany,
+- fotostarzenie,
+- wolne rodniki,
+- promieniowanie UV.
 
 ## Aspekty prawne i etyczne
 
-- Uprawnienia do wykonywania zabiegów.
-- Powikłania i odpowiedzialność.
-- Zgoda pacjenta.
-- Dokumentacja zabiegowa.
-- Granica między kosmetologią, medycyną estetyczną i leczeniem.
+Tematy do ewentualnego rozpisania:
+
+- uprawnienia do wykonywania zabiegów,
+- powikłania i odpowiedzialność,
+- zgoda pacjenta,
+- dokumentacja zabiegowa,
+- granica między kosmetologią, medycyną estetyczną i leczeniem.
 
 ## Materiały edukacyjne
 
