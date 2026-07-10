@@ -5,6 +5,8 @@ tags:
   - gotowanie/skladnik
 ---
 
+# Owoce i warzywa
+
 ## Zakres folderu
 
 Indeks roślinnych składników kuchennych. Ten folder służy do trzymania owoców, warzyw, bakalii, świeżych dodatków roślinnych i składników używanych w przepisach.
@@ -14,14 +16,20 @@ Indeks roślinnych składników kuchennych. Ten folder służy do trzymania owoc
 - [[agrest]]
 - [[ananas]]
 - [[jabłko]]
+- [[limonka]]
 - [[owoce]]
 - [[rodzynki]]
+- [[sok z ananasa]]
 - [[sok z cytryny]]
+- [[sok z limonki]]
+- [[skórka z cytryny]]
+- [[skórka z limonki]]
 - [[wiśnia]]
 - [[śliwka]]
 
 ## Warzywa
 
+- [[brokuły]]
 - [[buraczki]]
 - [[Cebula]]
 - [[chili]]
@@ -44,12 +52,7 @@ Indeks roślinnych składników kuchennych. Ten folder służy do trzymania owoc
 ## Zasada porządkowania
 
 - Pojedynczy składnik roślinny zostaje w tym folderze.
-- Przepis z użyciem składnika trafia do [[../../Przepisy/Lista indeksów|Potraw]].
-- Rośliny uprawiane w ogrodzie opisuj szerzej w dziale [[../../../Ogrodnictwo/Rodzaje roślin/Lista indeksów|Ogrodnictwo]].
-- Produkt zbożowy trafia do [[../Produkty zbożowe/Lista indeksów|Produktów zbożowych]].
-- Składnik przyprawowy trafia do [[../Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]], jeśli pełni głównie funkcję przyprawy.
-
-## Najbliższe porządki
-
-- Ujednolicić wielkość liter w nazwach notatek.
-- Dodać linki zwrotne z najczęściej używanych przepisów.
+- Przepis z użyciem składnika trafia do [[Gotowanie/Przepisy/Lista indeksów|Przepisów]].
+- Rośliny uprawiane w ogrodzie opisuj szerzej w dziale [[Ogrodnictwo/Rodzaje roślin/Lista indeksów|Ogrodnictwo]].
+- Produkt zbożowy trafia do [[Gotowanie/Składniki/Produkty zbożowe/Lista indeksów|Produktów zbożowych]].
+- Składnik przyprawowy trafia do [[Gotowanie/Składniki/Przyprawy i dodatki/Lista indeksów|Przypraw i dodatków]], jeśli pełni głównie funkcję przyprawy.
