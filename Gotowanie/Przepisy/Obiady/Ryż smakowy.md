@@ -3,178 +3,105 @@ tags:
   - gotowanie/przepis
   - typ/obiad
 ---
-# [[ryż maślano-czosnkowy|Garlic Butter Rice]]
 
-## Składniki
+# Ryż smakowy
+
+## Garlic Butter Rice
+
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
-- [[cebula żółta|Cebula żółta]]
-    
+- [[Cebula|Cebula żółta]]
 - [[czosnek|Czosnek]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[bulion|Bulion]]
-    
 - [[sól|Sól]]
-    
 - [[pieprz|Pieprz]]
-    
 
----
+## Turmeric Rice
 
-# [[ryż kurkumowy|Turmeric Rice]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
-- [[cebula żółta|Cebula żółta]]
-    
+- [[Cebula|Cebula żółta]]
 - [[czosnek|Czosnek]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[kurkuma|Kurkuma]]
-    
 - [[bulion|Bulion]]
-    
 - [[liść laurowy|Liść laurowy]]
-    
 
----
+## Spanish Rice
 
-# [[ryż hiszpański|Spanish Rice]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
-- [[cebula żółta|Cebula żółta]]
-    
+- [[Cebula|Cebula żółta]]
 - [[czosnek|Czosnek]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[bulion|Bulion]]
-    
 - [[sos pomidorowy|Sos pomidorowy]]
-    
-- [[przyprawy|Przyprawy]]
-    
+- przyprawy
 
----
+## Cilantro Lime Rice
 
-# [[ryż z kolendrą i limonką|Cilantro Lime Rice]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
-- [[cebula żółta|Cebula żółta]]
-    
+- [[Cebula|Cebula żółta]]
 - [[czosnek|Czosnek]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[bulion|Bulion]]
-    
-- [[limonki|Limonki]]
-    
+- [[limonka|Limonki]]
 - [[kolendra|Kolendra]]
-    
 
----
+## Broccoli Cheddar Rice
 
-# [[ryż z brokułami i cheddarem|Broccoli Cheddar Rice]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
 - [[brokuły|Brokuły]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[bulion|Bulion]]
-    
 - [[ser cheddar|Ser Cheddar]]
-    
 - [[czosnek w proszku|Czosnek w proszku]]
-    
 
----
+## Taco Rice
 
-# [[ryż taco|Taco Rice]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
-- [[cebula żółta|Cebula żółta]]
-    
+- [[Cebula|Cebula żółta]]
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[bulion|Bulion]]
-    
 - [[sos pomidorowy|Sos pomidorowy]]
-    
-- [[papryka zielona|Zielona papryka]]
-    
+- [[papryka|Zielona papryka]]
 - [[przyprawa taco|Przyprawa taco]]
-    
 
----
+## Coconut Pineapple Rice
 
-# [[ryż kokosowo-ananasowy|Coconut Pineapple Rice]]
-
-## Składniki
+### Składniki
 
 - [[mleko kokosowe|Mleko kokosowe]]
-    
 - [[masło|Masło]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[sos sojowy|Sos sojowy]]
-    
 - [[ananas|Ananas]]
-    
 
----
+## Cajun Rice
 
-# [[ryż cajun|Cajun Rice]]
-
-## Składniki
+### Składniki
 
 - [[olej|Olej]]
-    
 - [[masło|Masło]]
-    
-- [[cebula żółta|Cebula żółta]]
-    
+- [[Cebula|Cebula żółta]]
 - [[papryka|Papryka]]
-    
 - [[czosnek|Czosnek]]
-    
 - [[ryż jaśminowy|Ryż jaśminowy]]
-    
 - [[bulion|Bulion]]
-    
 - [[przyprawa cajun|Przyprawa Cajun]]
-    
-
-[97% | 27 10:31 | 3]
