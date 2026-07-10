@@ -96,6 +96,11 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 ### Gotowanie
 
 - [[Gotowanie/Przepisy/Lista indeksów]]
+- [[Gotowanie/Przepisy/Desery/Lista indeksów]]
+- [[Gotowanie/Przepisy/Obiady/Lista indeksów]]
+- [[Gotowanie/Przepisy/Kolacje/Lista indeksów]]
+- [[Gotowanie/Przepisy/Marynaty/Lista indeksów]]
+- [[Gotowanie/Przepisy/Sałatki/Lista indeksów]]
 - [[Gotowanie/Składniki/Lista indeksów]]
 - [[Gotowanie/Techniki/Lista indeksów]]
 - [[Gotowanie/Makro i odżywianie/Lista indeksów]]
@@ -106,10 +111,12 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 - [[Automatyka i robotyka/Elektryka/Lista indeksów]]
 - [[Automatyka i robotyka/Elektryka/Rodzaje kabli/Lista indeksów]]
 - [[Automatyka i robotyka/Elektryka/Terminologia/Lista indeksów]]
+- [[Automatyka i robotyka/Uncategorized/Lista indeksów]]
 
 ### Programowanie
 
 - [[Programowanie/PLC/Lista indeksów]]
+- [[Programowanie/PLC/BA2/Lista indeksów]]
 
 ### Ogrodnictwo
 
@@ -134,7 +141,6 @@ Trening, dieta, suplementacja, pielęgnacja, profilaktyka i zdrowie ogólne.
 
 ## Najbliższe porządki
 
-- Uzupełnić brakujące indeksy kategorii przepisów w `Gotowanie/Przepisy`.
-- Wybrać kanoniczną lokalizację dla notatek BA2/BACnet.
-- Wyczyścić tagi po migracji: szczególnie warianty `silownia/siownia`, literówki i stare tagi folderowe.
 - Przejrzeć największe skupiska broken wikilinków: marynaty, kable elektryczne i ryż smakowy.
+- Rozstrzygnąć notatki z [[Automatyka i robotyka/Uncategorized/Lista indeksów|Uncategorized]].
+- Wyczyścić pozostałe literówki i stare tagi folderowe opisane w [[Tag list]].
