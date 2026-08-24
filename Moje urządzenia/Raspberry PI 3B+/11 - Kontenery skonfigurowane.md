@@ -357,3 +357,8 @@ fallback      -> https://172.18.0.1:9090
 - [ ] Aktualny `docker inspect` dla wszystkich kontenerów.
 - [ ] Aktualne healthchecki, restart count i started_at.
 - [ ] Czy po nieudanych zadaniach z 2026-08-24 istnieją ślady kontenera `mqtt-scheduler`.
+
+
+## Mapa operacyjna
+
+Szybka lista kontenerów, które powinny być uruchomione, oraz ich roli jest w: [[Moje urządzenia/Raspberry PI 3B+/12 - Uruchomione kontenery i role|Uruchomione kontenery i role]].
