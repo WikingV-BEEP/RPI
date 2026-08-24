@@ -51,3 +51,8 @@ Rozmiary z audytu 2026-07-20:
 - Potem `docker compose config` dla walidacji składni.
 - Następnie start jednej usługi i obserwacja logów.
 - Na Pi 3B+ szczególnie obserwować RAM i swap.
+
+
+## Szczegółowa rozpiska kontenerów
+
+Pełna inwentaryzacja compose, kontenerów, portów, mountów i env bez sekretów jest w: [[Moje urządzenia/Raspberry PI 3B+/11 - Kontenery skonfigurowane|Kontenery skonfigurowane]].
