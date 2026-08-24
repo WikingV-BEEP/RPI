@@ -55,3 +55,8 @@ Do zrobienia: rozważyć rotację hasła MQTT i innych sekretów automatyki. W h
 - Czy backup nie jest trzymany wyłącznie na tej samej karcie SD.
 - Czy hasła i tokeny są w backupie chronione.
 - Czy znana jest procedura odtworzenia Mosquitto i HA.
+
+
+## Dostępy i OAuth
+
+Mapa kont, endpointów OAuth/MCP, lokalizacji sekretów i zależności MQTT jest w: [[Moje urządzenia/Raspberry PI 3B+/10 - Dostępy i OAuth MCP|Dostępy i OAuth MCP]]. Jawnych haseł nie powielać w notatkach.
