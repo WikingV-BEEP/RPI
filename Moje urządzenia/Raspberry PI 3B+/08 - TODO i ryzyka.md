@@ -50,3 +50,8 @@ updated: 2026-08-24
 - [ ] Aktualne wersje obrazów Docker.
 - [ ] Aktualne logi Home Assistanta po starcie.
 - [ ] Aktualna konfiguracja Caddy bez sekretów.
+
+
+## Pamiętać przy Dockerze
+
+- [ ] Po każdym audycie albo zmianie kontenera aktualizować [[Moje urządzenia/Raspberry PI 3B+/12 - Uruchomione kontenery i role|Uruchomione kontenery i role]]: stan `Up/Exited`, rola, porty, zależności i krótka notatka, co kontener ma robić.
