@@ -12,14 +12,14 @@ updated: 2026-08-24
 
 ## Zakres folderu
 
-Sekcja do dokumentowania konfiguracji Raspberry PI 3B+: system, dostęp, usługi, Docker, automatyka domowa, MQTT/Tuya, Home Assistant, backup i rzeczy do poprawy.
+Sekcja do dokumentowania konfiguracji Raspberry PI 3B+: system, dostęp, usługi, Docker, automatyka domowa, MQTT/Tuya, Home Assistant, backup, OAuth/MCP, kontenery i rzeczy do poprawy.
 
 ## Status danych
 
 - Ostatni potwierdzony odczyt systemu i usług: 2026-07-20.
 - Ostatni potwierdzony odczyt MQTT/MCP/Tuya: 2026-07-16.
-- Próba świeżego odczytu 2026-08-24 nie zwróciła raportu z workera, więc część parametrów ma status `do odświeżenia`.
-- W notatkach nie zapisuję haseł, tokenów, kluczy prywatnych ani wartości z plików `.env`.
+- Próby świeżego odczytu 2026-08-24 nie zwróciły raportu z workera, więc część parametrów ma status `do odświeżenia`.
+- W notatkach nie zapisuję jawnych haseł, tokenów, kluczy prywatnych ani wartości z plików `.env`.
 
 ## Główne notatki
 
@@ -59,11 +59,21 @@ Lista kolejnych kroków oraz miejsc wymagających aktualnego audytu.
 
 Skąd pochodzą dane w tej sekcji i które odczyty są historyczne.
 
+### [[Moje urządzenia/Raspberry PI 3B+/10 - Dostępy i OAuth MCP|Dostępy i OAuth MCP]]
+
+Mapa dostępów, użytkowników, lokalizacji sekretów, OAuth MCP, Caddy, Cloudflare i ścieżek auth proxy. Bez jawnych haseł.
+
+### [[Moje urządzenia/Raspberry PI 3B+/11 - Kontenery skonfigurowane|Kontenery skonfigurowane]]
+
+Szczegółowa rozpiska kontenerów Docker, compose, portów, mountów, env bez sekretów i ryzyk.
+
 ## Najważniejsze rzeczy do pamiętania
 
 - Bazą jest Debian + Docker, a nie Home Assistant OS.
 - Cockpit pełni rolę panelu administracji systemem i nie powinien być usuwany przed stabilną migracją do Home Assistanta.
 - Mosquitto jest centralnym brokerem MQTT.
+- Hasło MQTT jest używane przez bridge, panel i connector; wartości nie zapisywać w Obsidianie.
+- OAuth MCP przechodzi przez auth proxy i Caddy; poprawny publiczny MQTT MCP endpoint to `https://wikingv.servehalflife.com/mqtt-mcp/mcp`.
 - `tuya-mqtt-bridge` obsługuje lokalne gniazdka Tuya przez LAN.
 - `mqtt-mcp-connector` wystawia kontrolę MQTT/MCP, ale komendy sterujące należy wykonywać ostrożnie.
 - Home Assistant był zatrzymany z kodem `Exited (137)`, więc problem RAM/swap jest najważniejszym ryzykiem.
@@ -74,3 +84,4 @@ Skąd pochodzą dane w tej sekcji i które odczyty są historyczne.
 - Uzupełnić lokalny adres IP, kernel, uptime, partycje i aktualny stan kontenerów.
 - Zrobić backup przed kolejnymi zmianami w `/opt/automation` i usługach MQTT/Tuya.
 - Dopiąć integrację MQTT w Home Assistant albo dodać MQTT Discovery w `tuya-mqtt-bridge`.
+- Przenieść jawne sekrety z notatek do managera haseł i rozważyć rotację OAuth/MQTT.
