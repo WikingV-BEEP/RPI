@@ -67,6 +67,10 @@ Mapa dostępów, użytkowników, lokalizacji sekretów, OAuth MCP, Caddy, Cloudf
 
 Szczegółowa rozpiska kontenerów Docker, compose, portów, mountów, env bez sekretów i ryzyk.
 
+### [[Moje urządzenia/Raspberry PI 3B+/12 - Uruchomione kontenery i role|Uruchomione kontenery i role]]
+
+Krótka mapa operacyjna: które kontenery powinny działać, co robią i od czego zależą.
+
 ## Najważniejsze rzeczy do pamiętania
 
 - Bazą jest Debian + Docker, a nie Home Assistant OS.
@@ -85,3 +89,4 @@ Szczegółowa rozpiska kontenerów Docker, compose, portów, mountów, env bez s
 - Zrobić backup przed kolejnymi zmianami w `/opt/automation` i usługach MQTT/Tuya.
 - Dopiąć integrację MQTT w Home Assistant albo dodać MQTT Discovery w `tuya-mqtt-bridge`.
 - Przenieść jawne sekrety z notatek do managera haseł i rozważyć rotację OAuth/MQTT.
+- Po każdej zmianie w Dockerze aktualizować [[Moje urządzenia/Raspberry PI 3B+/12 - Uruchomione kontenery i role|Uruchomione kontenery i role]].
