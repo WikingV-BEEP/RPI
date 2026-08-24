@@ -7,7 +7,7 @@ tags:
 
 ## Mapa działu
 
-- [[Lista indeksów|Indeks główny]]
+- [[Gotowanie/Lista indeksów|Indeks główny]]
 - [[Przepisy/Lista indeksów|Przepisy]]
 - [[Składniki/Lista indeksów|Składniki]]
 - [[Techniki/Lista indeksów|Techniki]]

@@ -1,0 +1,3 @@
+f17ce985e3c8488bad45b4ff97681a5d.s1.eu.hivemq.cloud:8883
+Administrator
+admin123
