@@ -151,3 +151,15 @@ Komendy dla `set_tuya_plug`:
 - [ ] Zmienić hasło MQTT w `/opt/automation/mosquitto/config/passwd`.
 - [ ] Zaktualizować `MQTT_PASSWORD=<ukryte>` w `.env` bridge, panelu i connectora.
 - [ ] Zrestartować zależne kontenery po rotacji MQTT.
+
+
+## Jawny dostęp do Raspberry Pi
+
+> Uwaga: to jest jawnie zapisany sekret. Docelowo najlepiej przenieść go do managera haseł i w tej notatce zostawić tylko informację, gdzie go znaleźć.
+
+| Element | Wartość |
+| --- | --- |
+| Użytkownik | `admin` |
+| Hasło | `wiktor123` |
+| Dotyczy | Raspberry Pi / dostęp administracyjny |
+| Dodano | 2026-08-24 |
