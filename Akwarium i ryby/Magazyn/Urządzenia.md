@@ -25,7 +25,7 @@
 - **Węże:** 19/25 mm
 - **Wymiary:** ok. 200 × 235 × 564 mm (z blokiem przyłączeniowym)
 - **Notatka:** Główny filtr akwarium 350 l. Ma duży zapas wydajności i pojemności mediów dla tego zbiornika. W połączeniu z Fluvalem 306 daje dwa niezależne obiegi wody i możliwość rozdzielenia filtracji mechanicznej oraz biologicznej. Przepływ nominalny 1900 l/h jest wartością pompy bez obciążenia; JBL podaje ok. 1100–1200 l/h w typowej konfiguracji z mediami i wężami 1,5 m.
-### 
+
 ### Aquael Sterilizer UV AS-11W
 - **Typ:** przepływowy sterylizator UV-C
 - **Status:** posiadany
