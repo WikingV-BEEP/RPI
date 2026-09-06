@@ -50,3 +50,17 @@
 - **Temperatura barwowa:** 6500 K
 - **Barwa:** naturalne światło dzienne
 - **Notatka:** Główne oświetlenie akwarium. Dwie lampy dają łącznie 58 W. Barwa 6500 K zapewnia neutralne, dzienne światło i nadaje się do ekspozycji ryb oraz uprawy roślin. Docelowy czas świecenia i ewentualne dodatkowe oświetlenie zostaną dobrane po ustaleniu obsady roślinnej i CO₂.
+
+## Napowietrzanie
+
+### Tetra APS 400
+- **Typ:** membranowa pompa napowietrzająca
+- **Status:** posiadana
+- **Przeznaczenie producenta:** akwaria 250–600 l
+- **Maks. wydajność:** 400 l/h
+- **Pobór mocy:** 4,5 W
+- **Zasilanie:** 100–240 V AC, 50 Hz
+- **Stopień ochrony:** IPX4
+- **Wymiary:** ok. 21,5 × 10 × 16,5 cm
+- **Masa:** ok. 875 g
+- **Notatka:** Mocna pompka napowietrzająca odpowiednia do akwarium 350 l. Może służyć do awaryjnego lub nocnego napowietrzania oraz zasilania kamieni napowietrzających. Przy zbiorniku roślinnym z CO₂ ciągłe intensywne napowietrzanie w czasie podawania CO₂ może zwiększać jego straty, dlatego sposób i harmonogram pracy warto ustalić razem ze sterowaniem CO₂.
