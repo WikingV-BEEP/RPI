@@ -29,3 +29,14 @@
 ## CO2
 
 ## Oświetlenie
+
+### Aquael Sterilizer UV AS-11W
+- **Typ:** przepływowy sterylizator UV-C
+- **Status:** posiadany
+- **Moc lampy UV-C:** 11 W
+- **Pobór mocy:** 13 W
+- **Przeznaczenie producenta:** akwaria do 450 l
+- **Maks. przepływ pompy:** 1500 l/h
+- **Przyłącza:** uniwersalne 20 / 25 / 30 mm
+- **Montaż:** zewnętrzny, wpięty w obieg filtra lub pompy
+- **Notatka:** Pasuje wielkością do akwarium 350 l. Służy do ograniczania organizmów unoszących się w toni, m.in. zakwitu glonów i części drobnoustrojów. Nie zastępuje filtracji biologicznej. W projekcie można go wpiąć w jeden z obiegów filtracyjnych; trzeba uwzględnić dodatkowy opór przepływu. Jest to starsza wersja AS-11W, nie AS 2.0.
