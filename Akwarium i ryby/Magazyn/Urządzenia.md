@@ -64,3 +64,16 @@
 - **Wymiary:** ok. 21,5 × 10 × 16,5 cm
 - **Masa:** ok. 875 g
 - **Notatka:** Mocna pompka napowietrzająca odpowiednia do akwarium 350 l. Może służyć do awaryjnego lub nocnego napowietrzania oraz zasilania kamieni napowietrzających. Przy zbiorniku roślinnym z CO₂ ciągłe intensywne napowietrzanie w czasie podawania CO₂ może zwiększać jego straty, dlatego sposób i harmonogram pracy warto ustalić razem ze sterowaniem CO₂.
+
+### Aquael OXYBOOST AP-100 Plus
+- **Typ:** pompka membranowa / napowietrzacz
+- **Status:** posiadany
+- **Przeznaczenie producenta:** akwaria poniżej 100 l
+- **Wydajność:** 100 l/h
+- **Pobór mocy:** 2,2 W
+- **Maks. wysokość tłoczenia:** 60 cm
+- **Liczba wylotów:** 1
+- **Wężyk:** 4/6 mm
+- **Regulacja wydajności:** brak
+- **Wymiary:** ok. 9,8 × 6 cm
+- **Notatka:** Mały napowietrzacz do mniejszych zbiorników, awaryjnego napowietrzania lub napędu filtra gąbkowego. Do akwarium 350 l jako główne napowietrzanie jest zdecydowanie słabszy od Tetra APS 400; może jednak zostać wykorzystany pomocniczo lub w innym zbiorniku.
