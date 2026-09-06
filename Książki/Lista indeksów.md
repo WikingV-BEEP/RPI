@@ -14,6 +14,10 @@ Dział na książki, komiksy, mangi, źródła czytelnicze i listy materiałów 
 
 Lista lub notatki związane z komiksami.
 
+### [[Mistrzowie horroru i fantastyki]]
+
+Lista kolekcji Hachette z numerami tomów, autorami, datami premier oraz polami do oznaczania posiadanych i przeczytanych książek.
+
 ## Proponowany rozwój
 
 - Dodać osobne notatki: książki techniczne, manga, literatura, poradniki.
