@@ -77,3 +77,9 @@
 - **Regulacja wydajności:** brak
 - **Wymiary:** ok. 9,8 × 6 cm
 - **Notatka:** Mały napowietrzacz do mniejszych zbiorników, awaryjnego napowietrzania lub napędu filtra gąbkowego. Do akwarium 350 l jako główne napowietrzanie jest zdecydowanie słabszy od Tetra APS 400; może jednak zostać wykorzystany pomocniczo lub w innym zbiorniku.
+
+### Happet HB-10
+- **Typ:** napowietrzacz / pompka membranowa
+- **Status:** posiadany
+- **Wydajność:** 1,5 l/min (90 l/h)
+- **Notatka:** Mały napowietrzacz do zasilania kamienia napowietrzającego lub niewielkiego filtra gąbkowego. Wydajność 90 l/h jest znacznie mniejsza niż Tetra APS 400, więc najlepiej sprawdzi się jako urządzenie pomocnicze, zapasowe albo do mniejszego zbiornika.
