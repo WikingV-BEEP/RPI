@@ -6,7 +6,7 @@ tags:
   - oauth
   - mcp
   - sekrety
-updated: 2026-08-24
+updated: 2026-09-12
 ---
 
 # Dostępy i OAuth MCP
@@ -44,8 +44,7 @@ Wartości sekretów zapisywać jako:
 Hasło MQTT jest używane przez:
 
 - `/home/admin/tuya-mqtt-bridge/.env` jako `MQTT_PASSWORD=<ukryte>`,
-- `/home/admin/tuya-control-panel/.env` jako `MQTT_PASSWORD=<ukryte>`,
-- `/home/admin/mqtt-mcp-connector/.env` jako `MQTT_PASSWORD=<ukryte>`.
+- `/home/admin/tuya-control-panel/.env` jako `MQTT_PASSWORD=<ukryte>`.
 
 Do zrobienia: rozważyć rotację hasła MQTT, bo w historii prac technicznych mogło zostać wypisane w stdout. W notatkach nie powielać tej wartości.
 
@@ -56,12 +55,24 @@ Do zrobienia: rozważyć rotację hasła MQTT, bo w historii prac technicznych m
 | Konfiguracja urządzeń | `/home/admin/tuya-mqtt-bridge/config/tuya-local.json` | zawiera lokalne dane urządzeń Tuya, nie kopiować wartości kluczy |
 | Device IDs | w konfiguracji bridge i topicach RO | traktować jako techniczne identyfikatory, nie hasła |
 | Local keys | w konfiguracji bridge | `local_key=<ukryte>` |
+| Sterowanie | MQTT | używać `tuya/<alias>/RW/state/set`, bez integracji Tuya MCP |
 
 Aliasami roboczymi są:
 
 - `gniazdo1` - Lampa akwariowa,
 - `gniazdo2` - Lampka akwariowa 2,
 - `gniazdo3` - Lampka Biurko.
+
+Bieżąca obsługa Tuya odbywa się przez MQTT i panel WWW. Nie utrzymywać osobnej integracji Tuya MCP ani narzędzia `set_tuya_plug` jako używanej ścieżki sterowania.
+
+Obsługiwane komendy MQTT dla `tuya/<alias>/RW/state/set`:
+
+- `ON`,
+- `OFF`,
+- `RESTART`,
+- `STATUS`.
+
+Nie używać `SWITCH` ani `ZMIEN_STAN` na topicach MQTT Tuya.
 
 ## OAuth MCP - wspólny model
 
@@ -74,7 +85,7 @@ Typowe elementy:
 | `auth_proxy.py` | obsługa OAuth i proxy do backendu MCP |
 | `OAUTH_PASSWORD` | hasło/autoryzacja w `.env`, wartość `<ukryte>` |
 | `PUBLIC_BASE_URL` | publiczny URL widziany przez klienta |
-| `PATH_PREFIX` | prefiks ścieżki w Caddy, np. `/codex` lub `/mqtt-mcp` |
+| `PATH_PREFIX` | prefiks ścieżki w Caddy, np. `/codex` |
 | `UPSTREAM_MCP_URL` | wewnętrzny adres backendu MCP |
 | `/.well-known/oauth-protected-resource` | metadata chronionego zasobu OAuth |
 | `/.well-known/openid-configuration` | metadata serwera autoryzacji |
@@ -106,33 +117,6 @@ Uwaga: w `_Templates/OAuth key MCP.md` istnieje stara notatka z jawnym hasłem O
 | Rola | zlecanie i odczyt zadań Codex workera na Raspberry Pi |
 | Sekret OAuth | przez `.env` auth proxy, wartość `<ukryte>` |
 
-## MQTT MCP
-
-| Element | Wartość |
-| --- | --- |
-| Backend | `mqtt-mcp-connector` |
-| Lokalny MCP URL | `http://127.0.0.1:8092/mcp` albo `http://<rpi-ip>:8092/mcp` w LAN |
-| Auth proxy | `mqtt-mcp-auth` |
-| Publiczny URL | `https://wikingv.servehalflife.com/mqtt-mcp/mcp` |
-| `PUBLIC_BASE_URL` | `https://wikingv.servehalflife.com/mqtt-mcp` |
-| `PATH_PREFIX` | `/mqtt-mcp` |
-| `UPSTREAM_MCP_URL` | `http://172.18.0.1:8092` |
-| Caddy | `handle_path /mqtt-mcp/* -> mqtt-mcp-auth-proxy:8010` |
-| Transport | `streamable-http` |
-
-Narzędzia MCP wystawiane przez `mqtt-mcp-connector`:
-
-- `list_entities`,
-- `get_entity_state`,
-- `publish_mqtt`,
-- `set_tuya_plug`,
-- `refresh_states`.
-
-Komendy dla `set_tuya_plug`:
-
-- pojedyncze gniazdko: `ON`, `OFF`, `RESTART`, `STATUS`, `SWITCH`, `ZMIEN_STAN`,
-- alias `all`: tylko `ON`, `OFF`, `RESTART`, `STATUS`.
-
 ## Cloudflare / Caddy
 
 | Element | Wartość |
@@ -149,7 +133,7 @@ Komendy dla `set_tuya_plug`:
 - [ ] Zmienić `OAUTH_PASSWORD` w `/home/admin/obsidian-mcp/.env`.
 - [ ] Zrestartować odpowiednie auth proxy po zmianie OAuth.
 - [ ] Zmienić hasło MQTT w `/opt/automation/mosquitto/config/passwd`.
-- [ ] Zaktualizować `MQTT_PASSWORD=<ukryte>` w `.env` bridge, panelu i connectora.
+- [ ] Zaktualizować `MQTT_PASSWORD=<ukryte>` w `.env` bridge i panelu.
 - [ ] Zrestartować zależne kontenery po rotacji MQTT.
 
 ## Jawny dostęp do Raspberry Pi
