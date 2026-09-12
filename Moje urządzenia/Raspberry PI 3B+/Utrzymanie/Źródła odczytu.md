@@ -4,7 +4,7 @@ tags:
   - raspberry-pi
   - zrodla
   - audyt
-updated: 2026-08-24
+updated: 2026-09-12
 ---
 
 # Źródła odczytu
@@ -15,10 +15,11 @@ Ta sekcja powstała na podstawie wcześniejszych bezpiecznych odczytów i zadań
 
 | Data | Zakres | Status |
 | --- | --- | --- |
-| 2026-07-16 | Diagnostyka niedostępnego MCP/MQTT, endpointy, Caddy/auth proxy, `mqtt-mcp-connector` | potwierdzone historycznie |
-| 2026-07-16 | Aktualizacja schematu komend `set_tuya_plug`, weryfikacja `list_tools`, aliasy gniazdek | potwierdzone historycznie |
+| 2026-07-16 | Diagnostyka niedostępnego MCP/MQTT, endpointy, Caddy/auth proxy, historyczny `mqtt-mcp-connector` | potwierdzone historycznie |
+| 2026-07-16 | Historyczna aktualizacja schematu komend `set_tuya_plug`, aliasy gniazdek | potwierdzone historycznie, nie używać jako bieżącej instrukcji Tuya |
 | 2026-07-20 | Ocena migracji Home Assistant, Docker, Mosquitto, Node-RED, Cockpit, zasoby RAM/swap | potwierdzone historycznie |
 | 2026-08-24 | Próba świeżego audytu konfiguracji RPi | nieudana, brak raportu i logu końcowego |
+| 2026-09-12 | Uporządkowanie dokumentacji Tuya: zostaje sterowanie przez MQTT, usunięto Tuya/MQTT MCP jako używaną ścieżkę obsługi | aktualizacja dokumentacji |
 
 ## Typy sprawdzonych danych
 
@@ -28,11 +29,27 @@ W poprzednich audytach były sprawdzane między innymi:
 - stan kontenerów Docker,
 - konfiguracja compose dla `/opt/automation`,
 - rozmiary kluczowych katalogów,
-- listener MCP na `0.0.0.0:8092`,
-- publiczna ścieżka `/mqtt-mcp/mcp`,
+- publiczne ścieżki MCP dla Obsidian i Codex,
 - integracje i encje Home Assistanta,
 - topic patterny MQTT/Tuya,
-- schema narzędzia MCP `set_tuya_plug`.
+- stan i komendy bridge Tuya przez MQTT.
+
+## Bieżąca zasada dla Tuya
+
+Aktualnym źródłem prawdy dla sterowania Tuya jest MQTT bridge:
+
+```text
+tuya/<alias>/RW/state/set
+```
+
+Obsługiwane payloady:
+
+- `ON`,
+- `OFF`,
+- `RESTART`,
+- `STATUS`.
+
+Historyczne wzmianki o `set_tuya_plug`, `SWITCH` i `ZMIEN_STAN` traktować jako nieaktualne dla bieżącej obsługi Tuya.
 
 ## Ograniczenia danych
 
@@ -68,3 +85,5 @@ Na prośbę o dopisanie dostępów, OAuth MCP i kontenerów wykorzystano wcześn
 - `20260720T224312Z-Evaluate-Home-Assistant-migration`.
 
 Dodatkowa próba świeżego odczytu `20260824T212145Z-Odczyt-kontenerow-i-OAuth-MCP-do-notatek` zakończyła się błędem workera bez raportu.
+
+Historyczne zadania dotyczące MQTT MCP pozostają tu wyłącznie jako źródła dawnych odczytów. Nie traktować ich jako instrukcji bieżącej obsługi Tuya.
