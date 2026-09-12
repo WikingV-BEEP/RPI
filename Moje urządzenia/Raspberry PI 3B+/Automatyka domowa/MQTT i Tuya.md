@@ -4,7 +4,7 @@ tags:
   - raspberry-pi
   - mqtt
   - tuya
-updated: 2026-08-24
+updated: 2026-09-11
 ---
 
 # MQTT i Tuya
@@ -29,25 +29,38 @@ Dane logowania istnieją w konfiguracji, ale nie są zapisywane w notatkach. W n
 
 ### Topic patterny
 
-| Cel | Topic |
-| --- | --- |
-| Stan gniazdka | `tuya/<alias>/RW/state` |
-| Komenda do gniazdka | `tuya/<alias>/RW/state/set` |
-| Dostępność | `tuya/<alias>/RO/availability` |
-| Dane tylko do odczytu | `tuya/<alias>/RO/...` |
-| Komenda grupowa | `tuya/all/RW/state/set` |
+| Cel                   | Topic                          |
+| --------------------- | ------------------------------ |
+| Stan gniazdka         | `tuya/<alias>/RW/state`        |
+| Komenda do gniazdka   | `tuya/<alias>/RW/state/set`    |
+| Dostępność            | `tuya/<alias>/RO/availability` |
+| Dane tylko do odczytu | `tuya/<alias>/RO/...`          |
+| Komenda grupowa       | `tuya/all/RW/state/set`        |
 
 ## Encje / aliasy
 
-Ostatni bezpieczny odczyt MCP z 2026-07-16 zwrócił:
+Identyfikacja wykonana 2026-09-11 na Raspberry Pi na podstawie lokalnej konfiguracji bridge, MQTT i tablicy `ip neigh`. IP i MAC potwierdzone z wysoką pewnością.
 
-| Alias | Nazwa | State topic | Command topic |
-| --- | --- | --- | --- |
-| `gniazdo1` | Lampa akwariowa | `tuya/gniazdo1/RW/state` | `tuya/gniazdo1/RW/state/set` |
-| `gniazdo2` | Lampka akwariowa 2 | `tuya/gniazdo2/RW/state` | `tuya/gniazdo2/RW/state/set` |
-| `gniazdo3` | Lampka Biurko | `tuya/gniazdo3/RW/state` | `tuya/gniazdo3/RW/state/set` |
+| Alias | Opis / przeznaczenie | Nazwa raportowana przez MQTT | IP | MAC | Device ID | Producent / hostname |
+| --- | --- | --- | --- | --- | --- | --- |
+| `gniazdo1` | Lampa akwariowa | `Gniazdo 1` | `192.168.1.41` | `00:33:7a:8e:46:2c` | `bf615201c3e5d108b3nedp` | nieustalone |
+| `gniazdo2` | Lampka akwariowa 2 | `Lampka nocna` | `192.168.1.42` | `00:33:7a:8e:3a:c5` | `bf8a4ee13ec93ca850dc04` | nieustalone |
+| `gniazdo3` | Lampka Biurko | `Lampka Biurko` | `192.168.1.40` | `00:33:7a:8e:27:b3` | `bfda9f05176299255dgsmw` | nieustalone |
 
-W tamtym odczycie cache pokazywał `state: ON` i `availability: online` dla wszystkich trzech encji. To jest stan historyczny, nie bieżąca gwarancja.
+### Uwagi identyfikacyjne
+
+- `gniazdo1` i `gniazdo2` mają w MQTT nazwy inne niż opis przeznaczenia zapisany wcześniej w notatkach; aliasy i adresy sieciowe są jednak potwierdzone.
+- Dla prefiksu MAC `00:33:7A` nie udało się lokalnie wiarygodnie potwierdzić producenta/OUI.
+- Nie znaleziono wiarygodnych hostname'ów dla tych urządzeń.
+- `gniazdo3` miało w logach okresowe problemy z łącznością, ale podczas identyfikacji 2026-09-11 wszystkie trzy urządzenia raportowały `online`.
+
+### Topic per urządzenie
+
+| Alias      | State topic              | Command topic                |
+| ---------- | ------------------------ | ---------------------------- |
+| `gniazdo1` | `tuya/gniazdo1/RW/state` | `tuya/gniazdo1/RW/state/set` |
+| `gniazdo2` | `tuya/gniazdo2/RW/state` | `tuya/gniazdo2/RW/state/set` |
+| `gniazdo3` | `tuya/gniazdo3/RW/state` | `tuya/gniazdo3/RW/state/set` |
 
 ## Komendy MCP
 

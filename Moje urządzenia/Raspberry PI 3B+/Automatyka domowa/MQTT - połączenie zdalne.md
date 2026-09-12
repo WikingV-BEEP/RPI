@@ -8,17 +8,17 @@
 
 ## Ustawienia w formularzu MQTT Connection
 
-| Pole | Wartość |
-| --- | --- |
-| Name | Dom MQTT (dowolna nazwa) |
-| Protocol | `ws://` + włączone Encryption (tls); wynikowy protokół `wss://` |
-| Host | `wikingv.servehalflife.com` |
-| Port | `443` |
-| Basepath | `mqtt` |
-| Encryption (tls) | Włączone |
-| Validate certificate | Włączone |
-| Username | Login do brokera MQTT |
-| Password | Hasło do brokera MQTT |
+| Pole                 | Wartość                                                         |
+| -------------------- | --------------------------------------------------------------- |
+| Name                 | Dom MQTT (dowolna nazwa)                                        |
+| Protocol             | `ws://` + włączone Encryption (tls); wynikowy protokół `wss://` |
+| Host                 | `wikingv.servehalflife.com`                                     |
+| Port                 | `443`                                                           |
+| Basepath             | `mqtt`                                                          |
+| Encryption (tls)     | Włączone                                                        |
+| Validate certificate | Włączone                                                        |
+| Username             | admin                                                           |
+| Password             | wiktor123                                                       |
 
 Host wpisujemy bez `/mqtt` i bez protokołu. W tym formularzu Basepath to `mqtt`, a port to `443` (nie `43`). Podgląd adresu powinien pokazać `wss://wikingv.servehalflife.com:443/mqtt`. Następnie klikamy **SAVE**.
 
