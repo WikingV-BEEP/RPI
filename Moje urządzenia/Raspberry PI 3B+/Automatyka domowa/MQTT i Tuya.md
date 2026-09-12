@@ -4,7 +4,7 @@ tags:
   - raspberry-pi
   - mqtt
   - tuya
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # MQTT i Tuya
@@ -27,15 +27,18 @@ Dane logowania istnieją w konfiguracji, ale nie są zapisywane w notatkach. W n
 
 `tuya-mqtt-bridge` steruje trzema lokalnymi gniazdkami Tuya przez LAN i publikuje stan do MQTT.
 
+Bieżący sposób obsługi Tuya to MQTT. Nie używać osobnej integracji Tuya MCP ani komend `set_tuya_plug` jako głównego API.
+
 ### Topic patterny
 
-| Cel                   | Topic                          |
-| --------------------- | ------------------------------ |
-| Stan gniazdka         | `tuya/<alias>/RW/state`        |
-| Komenda do gniazdka   | `tuya/<alias>/RW/state/set`    |
-| Dostępność            | `tuya/<alias>/RO/availability` |
-| Dane tylko do odczytu | `tuya/<alias>/RO/...`          |
-| Komenda grupowa       | `tuya/all/RW/state/set`        |
+| Cel | Topic |
+| --- | --- |
+| Stan gniazdka | `tuya/<alias>/RW/state` |
+| Komenda do gniazdka | `tuya/<alias>/RW/state/set` |
+| Dostępność | `tuya/<alias>/RO/availability` |
+| Nazwa raportowana | `tuya/<alias>/RO/name` |
+| Dane tylko do odczytu | `tuya/<alias>/RO/...` |
+| Komenda grupowa | `tuya/all/RW/state/set` |
 
 ## Encje / aliasy
 
@@ -56,36 +59,77 @@ Identyfikacja wykonana 2026-09-11 na Raspberry Pi na podstawie lokalnej konfigur
 
 ### Topic per urządzenie
 
-| Alias      | State topic              | Command topic                |
-| ---------- | ------------------------ | ---------------------------- |
+| Alias | State topic | Command topic |
+| --- | --- | --- |
 | `gniazdo1` | `tuya/gniazdo1/RW/state` | `tuya/gniazdo1/RW/state/set` |
 | `gniazdo2` | `tuya/gniazdo2/RW/state` | `tuya/gniazdo2/RW/state/set` |
 | `gniazdo3` | `tuya/gniazdo3/RW/state` | `tuya/gniazdo3/RW/state/set` |
 
-## Komendy MCP
+## Komendy MQTT
 
-Dla pojedynczego aliasu akceptowane były:
-
-- `ON`,
-- `OFF`,
-- `RESTART`,
-- `STATUS`,
-- `SWITCH`,
-- `ZMIEN_STAN`.
-
-Dla aliasu `all` dozwolone były tylko:
+Na topic `tuya/<alias>/RW/state/set` bridge przyjmuje tylko:
 
 - `ON`,
 - `OFF`,
 - `RESTART`,
 - `STATUS`.
 
+Dla `tuya/all/RW/state/set` dozwolone są te same komendy:
+
+- `ON`,
+- `OFF`,
+- `RESTART`,
+- `STATUS`.
+
+Komendy `SWITCH` i `ZMIEN_STAN` nie są obsługiwane przez bieżący bridge MQTT. Nie wpisywać ich do `tuya/<alias>/RW/state/set`.
+
+Payload tekstowy może być małymi lub wielkimi literami, bo bridge normalizuje go do uppercase. Przykłady:
+
+```text
+ON
+OFF
+RESTART
+STATUS
+```
+
+Payload JSON jest obsługiwany dla pola `command`; `duration` ma sens przy `RESTART`:
+
+```json
+{"command":"RESTART","duration":1.5}
+```
+
+Publikować komendy bez retain:
+
+```text
+retain=false
+```
+
+## Przykłady MQTT
+
+Bezpieczne odświeżenie statusu:
+
+```bash
+mosquitto_pub -h 127.0.0.1 -t tuya/gniazdo3/RW/state/set -m STATUS
+```
+
+Wyłączenie `gniazdo3`:
+
+```bash
+mosquitto_pub -h 127.0.0.1 -t tuya/gniazdo3/RW/state/set -m OFF
+```
+
+Odczyt stanu:
+
+```bash
+mosquitto_sub -h 127.0.0.1 -t 'tuya/gniazdo3/#' -v
+```
+
 ## Zasady bezpieczeństwa
 
 - Najpierw używać `STATUS`, dopiero potem komend zmieniających stan.
 - Nie używać komend grupowych, jeśli nie jest jasne, które urządzenia są podłączone.
 - Nie zapisywać haseł MQTT w notatkach.
-- Po zmianie bridge lub connectora sprawdzić `list_tools`, ale nie wykonywać testowych przełączeń bez potrzeby.
+- Po zmianie bridge sprawdzić topic `tuya/<alias>/RW/state`, `tuya/<alias>/RO/name` i logi kontenera.
 
 ## Home Assistant
 
