@@ -5,7 +5,7 @@ tags:
   - docker
   - kontenery
   - compose
-updated: 2026-08-24
+updated: 2026-09-12
 ---
 
 # Kontenery skonfigurowane
@@ -13,6 +13,8 @@ updated: 2026-08-24
 ## Status danych
 
 Ta notatka opisuje konfigurację potwierdzoną w zadaniach z 2026-07-10, 2026-07-14, 2026-07-16 i 2026-07-20. Dwie próby świeżego odczytu 2026-08-24 zakończyły się błędem workera bez raportu, więc bieżący `docker ps -a` trzeba jeszcze odświeżyć.
+
+Aktualizacja 2026-09-12: bieżąca dokumentacja Tuya zostawia obsługę przez MQTT i usuwa Tuya/MQTT MCP jako używaną ścieżkę sterowania.
 
 ## Stos `/opt/automation`
 
@@ -89,7 +91,7 @@ Uwagi:
 | Image | `nodered/node-red:latest` |
 | Restart | `unless-stopped` |
 | Port | `127.0.0.1:1880:1880` |
-| Depends on | `mosquitto` |
+| Depends on | `automation-mosquitto` |
 | Stan z audytu | działał, `healthy` 2026-07-20 |
 
 Mounty:
@@ -145,7 +147,16 @@ Rola:
 
 - lokalna komunikacja z trzema gniazdkami Tuya przez LAN,
 - publikacja stanu pod `tuya/<alias>/RO/...` i `tuya/<alias>/RW/state`,
-- odbiór komend z `tuya/<alias>/RW/state/set` oraz `tuya/all/RW/state/set`.
+- odbiór komend MQTT z `tuya/<alias>/RW/state/set` oraz `tuya/all/RW/state/set`.
+
+Obsługiwane payloady komend MQTT:
+
+- `ON`,
+- `OFF`,
+- `RESTART`,
+- `STATUS`.
+
+Nie używać `SWITCH` ani `ZMIEN_STAN` w `RW/state/set`.
 
 ## Stos `/home/admin/tuya-control-panel`
 
@@ -186,68 +197,8 @@ Uwagi:
 
 - aplikacja działa jako lekki panel Flask,
 - logi ostrzegały, że to Flask development server,
+- panel steruje gniazdkami przez MQTT,
 - panel może zostać zastąpiony dashboardem Home Assistant po migracji.
-
-## Stos `/home/admin/mqtt-mcp-connector`
-
-Plik:
-
-```text
-/home/admin/mqtt-mcp-connector/docker-compose.yml
-```
-
-### `mqtt-mcp-connector`
-
-| Pole | Wartość |
-| --- | --- |
-| Container | `mqtt-mcp-connector` |
-| Image | `mqtt-mcp-connector:local` |
-| Build | lokalny Dockerfile, Python `3.13-slim` |
-| Command | `python server.py --transport streamable-http ...` |
-| Network | `host` |
-| Listener | `0.0.0.0:8092/mcp` |
-| Restart | `unless-stopped` |
-| Healthcheck | brak |
-| Stan z audytu | `Up`, MCP tools/list działał |
-
-Env bez sekretów:
-
-```text
-MQTT_HOST=127.0.0.1
-MQTT_PORT=1883
-MQTT_TLS=false
-MQTT_TLS_INSECURE=false
-MQTT_USERNAME=admin
-MQTT_PASSWORD=<ukryte>
-MQTT_CLIENT_ID=mqtt-mcp-connector
-MQTT_CONNECT_TIMEOUT_SECONDS=10
-MQTT_STATE_WAIT_SECONDS=2
-MCP_HOST=0.0.0.0
-MCP_PORT=8092
-MCP_PATH=/mcp
-```
-
-Mounty:
-
-| Host | Kontener | Tryb |
-| --- | --- | --- |
-| `/home/admin/mqtt-mcp-connector/config` | `/app/config` | `ro` |
-
-Wystawione narzędzia:
-
-- `list_entities`,
-- `get_entity_state`,
-- `publish_mqtt`,
-- `set_tuya_plug`,
-- `refresh_states`.
-
-Subskrypcje z logów:
-
-```text
-tuya/+/RO/#
-tuya/+/RW/state
-tuya/bridge/RO/#
-```
 
 ## Stos `/home/admin/obsidian-mcp`
 
@@ -299,18 +250,6 @@ Plik:
 | Upstream | `http://codex-mcp:8000` |
 | Rola | OAuth/auth proxy dla Codex MCP |
 
-### `mqtt-mcp-auth`
-
-| Pole | Wartość |
-| --- | --- |
-| Container | `mqtt-mcp-auth` |
-| Image | `obsidian-mcp-auth-proxy` |
-| Command | `python auth_proxy.py` |
-| Public base URL | `https://wikingv.servehalflife.com/mqtt-mcp` |
-| Path prefix | `/mqtt-mcp` |
-| Upstream | `http://172.18.0.1:8092` |
-| Rola | OAuth/auth proxy dla MQTT MCP |
-
 ### `obsidian-mcp-caddy`
 
 | Pole | Wartość |
@@ -326,7 +265,6 @@ Trasy Caddy potwierdzone w konfiguracji:
 
 ```text
 /codex/*      -> codex-auth-proxy:8010
-/mqtt-mcp/*   -> mqtt-mcp-auth-proxy:8010
 /sse, /messages/*, /.well-known/*, /oauth/*, /register, /token -> auth-proxy:8010
 /nodered*     -> automation-node-red:1880
 /mqtt*        -> automation-mosquitto:9001
@@ -345,18 +283,18 @@ fallback      -> https://172.18.0.1:9090
 
 ## Ryzyka kontenerów
 
-- `tuya-mqtt-bridge`, `tuya-control-panel` i `mqtt-mcp-connector` używają `network_mode: host`.
-- `8090`, `8092`, `1883` i `9001` były widoczne na `0.0.0.0` w audytach.
+- `tuya-mqtt-bridge` i `tuya-control-panel` używają `network_mode: host`.
+- `8090`, `1883` i `9001` były widoczne na `0.0.0.0` w audytach.
 - Dla kilku kontenerów brak healthchecków.
 - `tuya-control-panel` działa na Flask development serverze.
 - Home Assistant był zatrzymany z kodem `137`, więc przed startem trzeba pilnować RAM/swap.
 
 ## Do odświeżenia
 
-- [ ] Aktualny `docker ps -a` z 2026-08-24 lub nowszy.
+- [ ] Aktualny `docker ps -a` z 2026-09-12 lub nowszy.
 - [ ] Aktualny `docker inspect` dla wszystkich kontenerów.
 - [ ] Aktualne healthchecki, restart count i started_at.
-- [ ] Czy po nieudanych zadaniach z 2026-08-24 istnieją ślady kontenera `mqtt-scheduler`.
+- [ ] Czy po wcześniejszych pracach istnieje jeszcze kontener `mqtt-mcp-connector`; jeśli tak, traktować go jako nieużywany, a nie jako bieżącą ścieżkę obsługi Tuya.
 
 ## Mapa operacyjna
 
