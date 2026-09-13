@@ -4,7 +4,7 @@ tags:
   - raspberry-pi
   - todo
   - ryzyka
-updated: 2026-08-24
+updated: 2026-09-12
 ---
 
 # TODO i ryzyka
@@ -25,12 +25,13 @@ updated: 2026-08-24
 - [ ] Zdecydować: ręczne YAML czy MQTT Discovery w `tuya-mqtt-bridge`.
 - [ ] Dopiero po testach ograniczać `tuya-control-panel`.
 
-## MQTT / MCP / Tuya
+## MQTT / Tuya
 
-- [ ] Dodać healthcheck dla `mqtt-mcp-connector`.
-- [ ] Dodać healthcheck dla auth proxy, jeśli go nie ma.
-- [ ] Uporządkować dokumentację publicznych ścieżek: `/mqtt-mcp/mcp`, OAuth metadata, Caddy.
-- [ ] Nie wykonywać testów `ON/OFF/SWITCH` bez świadomego wyboru urządzenia.
+- [ ] Potwierdzić aktualny stan `tuya-mqtt-bridge` po restarcie lub deployu.
+- [ ] Potwierdzić retained topiki `tuya/<alias>/RO/name`, `tuya/<alias>/RO/availability` i `tuya/<alias>/RW/state`.
+- [ ] Nie wykonywać testów `ON/OFF/RESTART` bez świadomego wyboru urządzenia.
+- [ ] Nie używać `SWITCH` ani `ZMIEN_STAN` na topicach MQTT Tuya.
+- [ ] Jeśli kontener `mqtt-mcp-connector` nadal istnieje, traktować go jako nieużywany i dopiero po potwierdzeniu zależności rozważyć wyłączenie/usunięcie.
 
 ## Ryzyka
 
