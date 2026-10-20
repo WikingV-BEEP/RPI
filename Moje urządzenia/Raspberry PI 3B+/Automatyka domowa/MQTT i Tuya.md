@@ -4,7 +4,7 @@ tags:
   - raspberry-pi
   - mqtt
   - tuya
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # MQTT i Tuya
@@ -35,10 +35,13 @@ Bieżący sposób obsługi Tuya to MQTT. Nie używać osobnej integracji Tuya MC
 | --- | --- |
 | Stan gniazdka | `tuya/<alias>/RW/state` |
 | Komenda do gniazdka | `tuya/<alias>/RW/state/set` |
+| Czas przerwy przy `RESTART` | `tuya/<alias>/RW/restart_duration` |
+| Ustawienie czasu przerwy przy `RESTART` | `tuya/<alias>/RW/restart_duration/set` |
 | Dostępność | `tuya/<alias>/RO/availability` |
 | Nazwa raportowana | `tuya/<alias>/RO/name` |
 | Dane tylko do odczytu | `tuya/<alias>/RO/...` |
 | Komenda grupowa | `tuya/all/RW/state/set` |
+| Grupowe ustawienie czasu przerwy | `tuya/all/RW/restart_duration/set` |
 
 ## Encje / aliasy
 
@@ -59,11 +62,11 @@ Identyfikacja wykonana 2026-09-11 na Raspberry Pi na podstawie lokalnej konfigur
 
 ### Topic per urządzenie
 
-| Alias | State topic | Command topic |
-| --- | --- | --- |
-| `gniazdo1` | `tuya/gniazdo1/RW/state` | `tuya/gniazdo1/RW/state/set` |
-| `gniazdo2` | `tuya/gniazdo2/RW/state` | `tuya/gniazdo2/RW/state/set` |
-| `gniazdo3` | `tuya/gniazdo3/RW/state` | `tuya/gniazdo3/RW/state/set` |
+| Alias | State topic | Command topic | Restart duration topic | Restart duration set topic |
+| --- | --- | --- | --- | --- |
+| `gniazdo1` | `tuya/gniazdo1/RW/state` | `tuya/gniazdo1/RW/state/set` | `tuya/gniazdo1/RW/restart_duration` | `tuya/gniazdo1/RW/restart_duration/set` |
+| `gniazdo2` | `tuya/gniazdo2/RW/state` | `tuya/gniazdo2/RW/state/set` | `tuya/gniazdo2/RW/restart_duration` | `tuya/gniazdo2/RW/restart_duration/set` |
+| `gniazdo3` | `tuya/gniazdo3/RW/state` | `tuya/gniazdo3/RW/state/set` | `tuya/gniazdo3/RW/restart_duration` | `tuya/gniazdo3/RW/restart_duration/set` |
 
 ## Komendy MQTT
 
@@ -92,10 +95,14 @@ RESTART
 STATUS
 ```
 
-Payload JSON jest obsługiwany dla pola `command`; `duration` ma sens przy `RESTART`:
+Payload JSON jest obsługiwany dla pola `command`; `duration` podaje czas w sekundach, a `duration_ms` czas w milisekundach. Oba mają sens przy `RESTART` i działają jako jednorazowe nadpisanie czasu przerwy:
 
 ```json
 {"command":"RESTART","duration":1.5}
+```
+
+```json
+{"command":"RESTART","duration_ms":1000}
 ```
 
 Publikować komendy bez retain:
@@ -103,6 +110,36 @@ Publikować komendy bez retain:
 ```text
 retain=false
 ```
+
+## Czas restartu
+
+Bridge publikuje aktualną przerwę używaną przy `RESTART` w topicu:
+
+```text
+tuya/<alias>/RW/restart_duration
+```
+
+Wartość jest liczbą milisekund jako tekst. Ustawienie osobnej wartości dla urządzenia:
+
+```text
+tuya/<alias>/RW/restart_duration/set
+```
+
+Przykład dla `gniazdo3`: payload `1000` ustawia przerwę na 1000 ms, czyli 1 sekundę.
+
+```bash
+mosquitto_pub -h 127.0.0.1 -t tuya/gniazdo3/RW/restart_duration/set -m '1000'
+```
+
+Ustawienie dla wszystkich aliasów:
+
+```bash
+mosquitto_pub -h 127.0.0.1 -t tuya/all/RW/restart_duration/set -m '1000'
+```
+
+`RW/restart_duration/set` nie włącza ani nie wyłącza gniazdka. Zmieniona wartość będzie użyta przy kolejnych komendach `RESTART`, jeśli w samej komendzie nie podano `duration` albo `duration_ms`.
+
+Po restarcie bridge wartość wraca do domyślnej konfiguracji `RESTART_DURATION_SECONDS`.
 
 ## Przykłady MQTT
 
@@ -124,12 +161,18 @@ Odczyt stanu:
 mosquitto_sub -h 127.0.0.1 -t 'tuya/gniazdo3/#' -v
 ```
 
+Odczyt ustawionej przerwy restartu:
+
+```bash
+mosquitto_sub -h 127.0.0.1 -t 'tuya/gniazdo3/RW/restart_duration' -v
+```
+
 ## Zasady bezpieczeństwa
 
 - Najpierw używać `STATUS`, dopiero potem komend zmieniających stan.
 - Nie używać komend grupowych, jeśli nie jest jasne, które urządzenia są podłączone.
 - Nie zapisywać haseł MQTT w notatkach.
-- Po zmianie bridge sprawdzić topic `tuya/<alias>/RW/state`, `tuya/<alias>/RO/name` i logi kontenera.
+- Po zmianie bridge sprawdzić topic `tuya/<alias>/RW/state`, `tuya/<alias>/RO/name`, `tuya/<alias>/RW/restart_duration` i logi kontenera.
 
 ## Home Assistant
 

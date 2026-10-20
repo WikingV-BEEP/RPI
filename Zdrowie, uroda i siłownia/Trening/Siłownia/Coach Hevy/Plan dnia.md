@@ -1,6 +1,9 @@
 # Coach Hevy — plan dnia
 
-Dzisiaj odpoczynek.
-Brak sesji spełniającej wstępne warunki odpoczynku.
+Dzisiaj 18:00–21:00: PULL ⛴ THE ⛴ BOATS - V2.
+Wariant V2 — zrób: Lat Pulldown (Cable), Shrug (Barbell), Lat Pulldown - Close Grip (Cable), Seated Cable Row - Bar Wide Grip, Cross Body Hammer Curl, Weighted Knee Raise, EZ Bar Biceps Curl, Plank, Back Extension (Weighted Hyperextension).
+Opcjonalnie dodaj: 3 serie Bulgarian Split Squat (Dumbbell), 3 serie Bench Press (Barbell).
+Prognoza V2: PULL → PUSH → LEGS.
+Największe zaległości: chest 0.0/10, lats 0.0/10, quads 0.0/10. Wybrano sekwencję 3-dniową o najwyższym wyniku, po porównaniu PUSH, PULL, LEGS i REST każdego dnia.
 
-Odczyt Hevy: 2026-09-13T18:00:13.875430+02:00. Wersja pamięci: 1.
+Odczyt Hevy: 2026-10-12T18:00:22.983763+02:00. Wersja pamięci: 1.
