@@ -1,3 +1,25 @@
+---
+tags:
+  - typ/dokumentacja
+updated: 2026-10-20
+---
+
+# Home Server MCP Gateway
+
+## Aktualny stan — 20.10.2026
+
+Połączenie Home Server MCP działa w bieżącym czacie. Wtyczka udostępnia **42 narzędzia**: Obsidian 13, Fitatu 19, MQTT 5, Hevy Coach 5. Wykonano siedem testów odczytu, w tym coach_plan. Podczas uzupełniania dokumentacji utworzono i odczytano notatki Obsidiana. Nie oznacza to sprawdzenia wszystkich operacji zapisu lub sterowania.
+
+Katalog obejmuje teraz także operacje zmieniające dane, wymagające wyraźnego polecenia użytkownika i home:write. Twierdzenia niżej o 22 narzędziach, wyłącznie odczycie, braku połączenia klienta i adapterze tylko do odczytu opisują **pierwotne wdrożenie**, a nie obecny pełny zakres. Aktualnych mountów adaptera, allowlisty i kodu OAuth nie audytowano w tym zadaniu; nie należy wnioskować o ich obecnej konfiguracji z historycznych opisów.
+
+- [[Moje urządzenia/Win 10 Home Automation/Lista indeksów|Indeks aktualnej dokumentacji]]
+- [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10|Stan migracji i pozostałe elementy RPi]]
+- [[Moje urządzenia/Win 10 Home Automation/Testy MCP 2026-10-20|Wyniki testów]]
+
+## Archiwum pierwotnego wdrożenia bramy — 22 odczyty
+
+Poniżej zachowano historyczny opis wdrożenia i procedur odtworzenia. Polecenia administracyjne oraz założenia o uprawnieniach wymagają porównania z bieżącą konfiguracją przed użyciem.
+
 
 Wdrożono 20.10.2026 (Europe/Warsaw) na DESKTOP-T7FENTB, Docker Desktop / desktop-linux. Gotowy endpoint: **https://wikingv.servehalflife.com/mcp**. Połączenie w interfejsie ChatGPT pozostaje do wykonania przez użytkownika; nie potwierdzono dostępności dodawania własnych integracji na jego koncie ani połączenia z infrastruktury ChatGPT. Próba otwarcia publicznych metadanych przez narzędzie WWW zakończyła się błędem narzędzia, więc nie stanowi potwierdzenia dostępu spoza LAN.
 
