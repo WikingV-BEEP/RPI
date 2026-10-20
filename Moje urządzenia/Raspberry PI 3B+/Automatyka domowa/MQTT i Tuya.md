@@ -177,3 +177,8 @@ mosquitto_sub -h 127.0.0.1 -t 'tuya/gniazdo3/RW/restart_duration' -v
 ## Home Assistant
 
 Bridge nie publikował payloadów Home Assistant MQTT Discovery. Dlatego encje w HA trzeba dodać ręcznie w YAML albo rozbudować bridge o Discovery.
+
+
+## Migracja na Windows 10 — aktualizacja 20.10.2026
+
+Opis powyżej dokumentuje wcześniejszy stos RPi. Przeniesione usługi Home Server działają według zapisu migracji na mini PC Windows 10 / Docker Desktop (WSL 2). Aktualny zakres i wyjątki: [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10]]. Katalog 42 narzędzi i wyniki testów: [[Moje urządzenia/Win 10 Home Automation/Lista indeksów]]. Nie traktuj dawnych portów i statusów kontenerów RPi jako bieżącego audytu Windows.
