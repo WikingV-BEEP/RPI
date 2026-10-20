@@ -96,3 +96,8 @@ Nie używać `SWITCH` ani `ZMIEN_STAN`; to nie są komendy bieżącego bridge MQ
 - Nie testować komend sterujących MQTT bez świadomego wyboru konkretnego gniazdka.
 - Nie odpalać Home Assistanta bez obserwacji RAM/swap na Pi 3B+.
 - Po każdej większej zmianie dopisać tu krótką notatkę: data, kontener, co się zmieniło, czy był restart.
+
+
+## Migracja na Windows 10 — aktualizacja 20.10.2026
+
+Opis powyżej dokumentuje wcześniejszy stos RPi. Przeniesione usługi Home Server działają według zapisu migracji na mini PC Windows 10 / Docker Desktop (WSL 2). Aktualny zakres i wyjątki: [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10]]. Katalog 42 narzędzi i wyniki testów: [[Moje urządzenia/Win 10 Home Automation/Lista indeksów]]. Nie traktuj dawnych portów i statusów kontenerów RPi jako bieżącego audytu Windows.
