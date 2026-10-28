@@ -280,3 +280,13 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — ograniczenie P i Q przez S
+```mermaid
+flowchart TD
+ S["Smax = 10 kVA"] --> P["P = 8 kW"]
+ S --> Q["Qmax = 6 kvar"]
+ P --> EQ["S² = P² + Q²"]
+ Q --> EQ
+```
