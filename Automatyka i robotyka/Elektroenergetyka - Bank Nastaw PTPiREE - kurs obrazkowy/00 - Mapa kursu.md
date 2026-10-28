@@ -280,3 +280,14 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — decyzja falownika
+```mermaid
+flowchart TD
+ X["Sieć zmienia parametry"] --> Y{"Warunek ochrony spełniony?"}
+ Y -->|Tak| Z["Zabezpieczenie: zaprzestanie generacji"]
+ Y -->|Nie| R{"Regulacja jest potrzebna?"}
+ R -->|Tak| P["Zmiana P lub Q"]
+ R -->|Nie| N["Normalna generacja"]
+```
