@@ -296,3 +296,15 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — odpowiedź na zwarcie
+```mermaid
+flowchart TD
+ A["Zwarcie w sieci"] --> U["Spadek napięcia"]
+ U --> F["Ocena profilu FRT: U(t)"]
+ U --> I["Aktywacja wsparcia przy Utrig"]
+ I --> K["K1/K2 -> dodatkowy prąd bierny"]
+ K --> MAX["Ograniczenie Imax"]
+ F --> R["Po zakłóceniu: odbudowa P"]
+```
