@@ -275,3 +275,14 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — decyzja przy napięciu
+```mermaid
+flowchart TD
+ U["Pomiar napięcia"] --> A{"U przekracza U>>?"}
+ A -->|Tak| B["Ocena kryterium i zwłoki 0,1 s"]
+ A -->|Nie| C{"U przekracza U>?"}
+ C -->|Tak| D["Średnia 10-minutowa i zwłoka 3 s"]
+ C -->|Nie| E["Brak reakcji tych dwóch stopni"]
+```
