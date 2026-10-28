@@ -6,4 +6,4 @@ Opcjonalnie dodaj: 3 serie Bulgarian Split Squat (Dumbbell), 3 serie Bench Press
 Prognoza V2: PULL → PUSH → LEGS.
 Największe zaległości: chest 0.0/10, lats 0.0/10, quads 0.0/10. Wybrano sekwencję 3-dniową o najwyższym wyniku, po porównaniu PUSH, PULL, LEGS i REST każdego dnia.
 
-Odczyt Hevy: 2026-10-12T18:00:22.983763+02:00. Wersja pamięci: 1.
+Odczyt Hevy: 2026-10-27T18:00:03.790457+01:00. Wersja pamięci: 1.

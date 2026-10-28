@@ -60,3 +60,8 @@ Backup, TODO, ryzyka, źródła odczytu i procedury aktualizacji notatek.
 - Zrobić backup przed kolejnymi zmianami w `/opt/automation` i usługach MQTT/Tuya.
 - Dopiąć integrację MQTT w Home Assistant albo dodać MQTT Discovery w `tuya-mqtt-bridge`.
 - Po każdej zmianie w Dockerze aktualizować [[Moje urządzenia/Raspberry PI 3B+/Docker i kontenery/Uruchomione kontenery i role|Uruchomione kontenery i role]].
+
+
+## Migracja na Windows 10 — aktualizacja 20.10.2026
+
+Opis powyżej dokumentuje wcześniejszy stos RPi. Przeniesione usługi Home Server działają według zapisu migracji na mini PC Windows 10 / Docker Desktop (WSL 2). Aktualny zakres i wyjątki: [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10]]. Katalog 42 narzędzi i wyniki testów: [[Moje urządzenia/Win 10 Home Automation/Lista indeksów]]. Nie traktuj dawnych portów i statusów kontenerów RPi jako bieżącego audytu Windows.
