@@ -275,3 +275,12 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — regulatory nie są zabezpieczeniami
+```mermaid
+flowchart LR
+ U["Wysokie napięcie"] --> PU["P(U): zmniejsz P"]
+ U --> QU["Q(U): steruj Q"]
+ F["Wysoka częstotliwość"] --> LF["LFSM-O: zmniejsz P"]
+```
