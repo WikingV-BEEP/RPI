@@ -280,3 +280,14 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — droga diagnozy
+```mermaid
+flowchart TD
+ A["Alarm SCADA"] --> B["Sprawdź dokładny czas"]
+ B --> C["U, f, P, Q i stan falownika"]
+ C --> D["Wybierz właściwy bank A/B"]
+ D --> E["Metoda pomiaru i zwłoka"]
+ E --> F["Porównaj oczekiwane i rzeczywiste działanie"]
+```
