@@ -280,3 +280,13 @@ Masz zadanie sprawdzić instalację, w której operator zgłosił nietypowe zach
 5. Co stanowi wymaganie literalne PTPiREE, a co jest jedynie objaśnieniem dydaktycznym?
 
 Źródło: [PTPiREE – Bank Nastaw dla Polski, wersja 1.1, 01.10.2024](https://ptpiree.pl/wp-content/uploads/2024/12/bn_2024_10_01-1.pdf). Szczegółowe wykresy i przypisy sprawdź w źródłowym PDF.
+
+
+## Drugi rysunek — dlaczego rośnie napięcie
+```mermaid
+flowchart LR
+ PV["PV: 10 kW"] --> HOUSE["Dom: 2 kW"]
+ PV -->|Nadwyżka 8 kW| L["Długa linia z impedancją"]
+ L --> TRAFO["Transformator sieciowy"]
+ L --> U["Napięcie przy PV może wzrastać"]
+```
