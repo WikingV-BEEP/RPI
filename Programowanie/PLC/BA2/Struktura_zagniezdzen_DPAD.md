@@ -84,3 +84,6 @@ Func1 : FB_Motor := (iParent := Agg1);
 > [!tip]
 > Prawidłowe stosowanie `FB_BA_View` i `DPAD` pozwala tworzyć uporządkowane, zrozumiałe i skalowalne struktury automatyki budynkowej – zarówno na poziomie kodu, jak i wizualizacji HMI.
 
+## Powiązane
+
+- [[Programowanie/PLC/BA2/Hierarchia_zagniezdzen_DPAD_przyklad|przykład hierarchii DPAD]]
