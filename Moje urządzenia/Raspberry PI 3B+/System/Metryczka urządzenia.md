@@ -52,3 +52,24 @@ To urządzenie ma mały zapas RAM. Home Assistant Container jest możliwy, ale w
 - Potem jedna zmiana naraz.
 - Po zmianie sprawdzić kontenery, logi, RAM i swap.
 - Nie usuwać Cockpita, dopóki Home Assistant i SSH nie pokrywają realnie potrzeb administracyjnych.
+
+## Stan historyczny przed migracją
+
+- Ostatni potwierdzony odczyt systemu i usług: 2026-07-20.
+- Ostatni potwierdzony odczyt MQTT/MCP/Tuya: 2026-07-16.
+- Próby świeżego odczytu 2026-08-24 nie zwróciły raportu z workera, więc część parametrów ma status `do odświeżenia`.
+- W tej sekcji są świadomie zapisane jawne sekrety dostępu do RPi i OAuth MCP. Przy kolejnej porządkowej rundzie najlepiej przenieść je do managera haseł.
+
+### Konfiguracja przed migracją
+
+- Bazą jest Debian + Docker, a nie Home Assistant OS.
+- Cockpit pełni rolę panelu administracji systemem i nie powinien być usuwany przed stabilną migracją do Home Assistanta.
+- Mosquitto jest centralnym brokerem MQTT.
+- OAuth MCP przechodzi przez auth proxy i Caddy; poprawny publiczny MQTT MCP endpoint to `https://wikingv.servehalflife.com/mqtt-mcp/mcp`.
+- `tuya-mqtt-bridge` obsługuje lokalne gniazdka Tuya przez LAN.
+- `mqtt-mcp-connector` wystawia kontrolę MQTT/MCP, ale komendy sterujące należy wykonywać ostrożnie.
+- Home Assistant był zatrzymany z kodem `Exited (137)`, więc problem RAM/swap jest najważniejszym ryzykiem.
+
+### Migracja na Windows 10 — aktualizacja 20.10.2026
+
+Opis powyżej dokumentuje wcześniejszy stos RPi. Przeniesione usługi Home Server działają według zapisu migracji na mini PC Windows 10 / Docker Desktop (WSL 2). Aktualny zakres i wyjątki: [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10]]. Zobacz [[Moje urządzenia/Win 10 Home Automation/Home Server MCP Gateway|katalog narzędzi MCP]] i [[Moje urządzenia/Win 10 Home Automation/Testy MCP 2026-10-20|wyniki testów]]. Nie traktuj dawnych portów i statusów kontenerów RPi jako bieżącego audytu Windows.
