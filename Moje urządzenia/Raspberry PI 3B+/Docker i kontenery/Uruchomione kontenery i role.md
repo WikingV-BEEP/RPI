@@ -100,4 +100,4 @@ Nie używać `SWITCH` ani `ZMIEN_STAN`; to nie są komendy bieżącego bridge MQ
 
 ## Migracja na Windows 10 — aktualizacja 20.10.2026
 
-Opis powyżej dokumentuje wcześniejszy stos RPi. Przeniesione usługi Home Server działają według zapisu migracji na mini PC Windows 10 / Docker Desktop (WSL 2). Aktualny zakres i wyjątki: [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10]]. Katalog 42 narzędzi i wyniki testów: [[Moje urządzenia/Win 10 Home Automation/Lista indeksów]]. Nie traktuj dawnych portów i statusów kontenerów RPi jako bieżącego audytu Windows.
+Opis powyżej dokumentuje wcześniejszy stos RPi. Przeniesione usługi Home Server działają według zapisu migracji na mini PC Windows 10 / Docker Desktop (WSL 2). Aktualny zakres i wyjątki: [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10]]. Zobacz [[Moje urządzenia/Win 10 Home Automation/Home Server MCP Gateway|katalog narzędzi bramy MCP]] i [[Moje urządzenia/Win 10 Home Automation/Testy MCP 2026-10-20|wyniki testów bramy]]. Nie traktuj dawnych portów i statusów kontenerów RPi jako bieżącego audytu Windows.
