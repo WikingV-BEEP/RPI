@@ -24,3 +24,7 @@ https://www.manualslib.com/manual/1244336/Honda-Cbr125r.html
 **Zamienniki:** CTZ7S-BS, MTZ7S, MG7ZS (sprawdzić wymiary – zbliżone).
 
 Pierwotnie kierunkowskazy miały żarówki H21w
+
+## Powiązane
+
+- [[Motocykle/Moje motocykle/Honda CBR600F|Honda CBR600F]]
