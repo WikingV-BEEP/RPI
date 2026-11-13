@@ -65,3 +65,7 @@ Przepis zapisany w Fitatu jako: **Kura Cebula + kluski śląskie – Czerwona Ce
 - 2 porcje
 - około 1145 g na porcję według sumy składników
 - około 1089 kcal na porcję
+
+## Powiązane
+
+- [[Gotowanie/Przepisy/Obiady/Kluski śląskie|przepis na kluski śląskie]]
