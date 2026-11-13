@@ -99,3 +99,7 @@ Gotowe do przeklejenia do Obsidiana.
 
 [99% | 08 10:20 | 5]
 ```
+
+## Powiązane
+
+- [[Programowanie/PLC/BA2/Struktura_zagniezdzen_DPAD|struktura zagnieżdżeń DPAD]]
