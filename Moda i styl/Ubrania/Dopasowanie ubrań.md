@@ -40,3 +40,8 @@ tags:
 
 > [!tip]
 > Dobre dopasowanie to podstawa stylu. Nawet tanie ubranie wygląda świetnie, jeśli leży idealnie.
+
+## Powiązane
+
+- [[Moda i styl/Ubrania/Rozmiar koszulki|rozmiar koszulki]]
+- [[Moda i styl/Ubrania/Rozmiar spodni|rozmiar spodni]]
