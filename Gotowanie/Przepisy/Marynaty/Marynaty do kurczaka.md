@@ -98,3 +98,7 @@ tags:
 - [[imbir mielony|Imbir mielony]]
 - [[sól|Sól]]
 - [[pieprz|Pieprz]]
+
+## Powiązane
+
+- [[Gotowanie/Przepisy/Marynaty/Marynaty bazowe do mięsa|bazowe marynaty do mięsa]]
