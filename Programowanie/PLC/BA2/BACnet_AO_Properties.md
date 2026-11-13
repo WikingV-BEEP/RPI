@@ -68,3 +68,7 @@ Obiekt typu **Analog Output (AO)** w protokole BACnet zawiera zestaw zdefiniowan
 | Time_Delay_Normal                | Unsigned                                    | O4       |
 | Reliability_Evaluation_Inhibit   | BOOLEAN                                     | O6       |
 | Property_List                    | BACnetARRAY[N] of BACnetPropertyIdentifier  | R        |
+
+## Powiązane
+
+- [[Programowanie/PLC/BA2/BACnet_Obiekty|obiekty BACnet]]
