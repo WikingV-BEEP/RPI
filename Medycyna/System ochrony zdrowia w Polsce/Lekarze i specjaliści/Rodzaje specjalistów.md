@@ -66,3 +66,18 @@ To mapa kierunkowa: pomaga zrozumieć, do kogo zwykle trafia się z danym proble
 - [[Lekarz rodzinny]]
 - [[Skierowanie]]
 - [[Narodowy Fundusz Zdrowia (NFZ)]]
+
+## Dziedziny medycyny i zakres specjalizacji
+
+| Dziedzina | Zakres |
+|---|---|
+| dermatologia | skóra, włosy, paznokcie |
+| kardiologia | serce i układ krążenia |
+| neurologia | układ nerwowy |
+| endokrynologia | hormony i gruczoły dokrewne |
+| gastroenterologia | przewód pokarmowy |
+| pulmonologia | płuca i układ oddechowy |
+| nefrologia | nerki |
+| psychiatria | zaburzenia psychiczne |
+| ortopedia | układ ruchu |
+| onkologia | nowotwory |
