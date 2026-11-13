@@ -13,3 +13,7 @@ Ziemniaki ostudzić i dokładnie ubić/utrzeć. Wyrównać powierzchnię w misce
 
 ## Komentarz
 Najlepiej smakują z sosem pieczeniowym lub jako dodatek do mięsa. Kluski można zamrozić przed gotowaniem.
+
+## Powiązane
+
+- [[Gotowanie/Przepisy/Obiady/Kura Cebula z kluskami śląskimi|kurczak z kluskami śląskimi]]
