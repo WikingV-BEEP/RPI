@@ -8,9 +8,10 @@ Utwórz projekt lokalny. Jako **Make primary** ustaw katalog nowego projektu, cz
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Katalog nowego projektu, np. `C:/Users/WiktorD/Desktop/Beckhoff/Codex Projects/MojProjektHMI` | Główny folder. Tutaj Codex zapisuje kod i wyniki.                                                                                             |
 | `C:/Users/WiktorD/Desktop/Beckhoff/Codex Agents/HMI Framework Developer`                      | Jako dodatkowy folder, jeśli sesja nie widzi współdzielonych plików pod tą ścieżką. Traktuj go jako źródło instrukcji i narzędzi.             |
-| `C:/Users/WiktorD/Desktop/Codex/Empty template project`                                       | Referencja przy tworzeniu projektu od zera lub sprawdzaniu lokalnych deklaracji i schematów. Dokładne ścieżki są w `environment.json` agenta. |
 | `C:/ProgramData/Beckhoff/NuGetPackages`                                                       | Lokalny feed, gdy trzeba odczytać paczki lub użyć go do restore.                                                                              |
 | Repozytorium biblioteki, np. `openbridge-webcomponents`                                       | Tylko gdy jest źródłem kodu lub zasobów dla danego zadania.                                                                                   |
+
+Pusty projekt Framework i jego odtworzone paczki są już w `C:/Users/WiktorD/Desktop/Beckhoff/Codex Agents/HMI Framework Developer/reference`. Wystarczy dostęp do katalogu agenta. Ścieżki projektu i paczek są w jego `environment.json`.
 
 Dodatkowe foldery są potrzebne tylko wtedy, gdy zadanie z nich korzysta i sesja nie ma już do nich dostępu. Ustawienie folderu jako dodatkowego samo nie nadaje mu trybu tylko do odczytu. W instrukcjach projektu określ, gdzie wolno zapisywać zmiany.
 
@@ -26,7 +27,7 @@ Przed pracą z TwinCAT HMI przeczytaj i stosuj instrukcje:
 
 Zasoby i skrypty agenta rozpoznawaj względem jego współdzielonego katalogu.
 Kod, artefakty i raporty zapisuj w docelowym projekcie.
-Współdzielony katalog agenta, pusty szablon, feed NuGet i dodatkowe repozytoria referencyjne traktuj jako źródła do odczytu, chyba że wyraźnie wskażę inaczej.
+Współdzielony katalog agenta wraz z szablonem w `reference/`, feed NuGet i dodatkowe repozytoria referencyjne traktuj jako źródła do odczytu, chyba że wyraźnie wskażę inaczej.
 ```
 
 Aby Codex automatycznie wykrywał skille, udostępnij je pod `.agents/skills` projektu. Poniższy PowerShell uruchom **w głównym folderze projektu**. Polecenie zachowuje istniejącą zawartość `.agents/skills` i pomija nazwy, które już istnieją.
