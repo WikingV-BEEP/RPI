@@ -30,6 +30,6 @@ Zmiany danych i sterowanie wymagają wyraźnego polecenia użytkownika oraz zgod
 
 ## Powiązania
 
-- [[Moje urządzenia/Win 10 Home Automation/Lista indeksów|Dokumentacja serwera Windows 10]]
+- [[Moje urządzenia/Win 10 Home Automation/Home Server MCP Gateway|konfiguracja bramy Home Server MCP]]
 - [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10|Status migracji]]
 - [[Moje urządzenia/Win 10 Home Automation/Testy MCP 2026-10-20|Wyniki testów]]
