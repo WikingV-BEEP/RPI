@@ -51,3 +51,7 @@ tags:
 - Bogactwo witaminy C czyni ją cennym składnikiem diety  
 - Wzmacnia odporność i ma właściwości antyoksydacyjne  
 - Jej liście są wykorzystywane do naparów i herbat
+
+## Powiązane
+
+- [[Ogrodnictwo/Rodzaje roślin/Owoce/Owoce jagodowe/Porzeczka czerwona|porzeczka czerwona]]
