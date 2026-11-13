@@ -19,4 +19,4 @@ Przed zmianami ustal format projektu, wersje pakietów Beckhoffa i sposób rejes
 Dostosuj walidację do wybranego formatu dostawy. Podaj, które kontrole wykonano i z jakim wynikiem.
 ```
 
-[[Praca/Dokumentacja/Codex - start projektu TwinCAT HMI|Instrukcja konfiguracji projektu]]
+[[Praca/Dokumentacja/TwinCAT/Codex - start projektu TwinCAT HMI|Instrukcja konfiguracji projektu]]
