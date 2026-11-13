@@ -66,3 +66,6 @@ Polecenia w obiektach BACnet są obsługiwane za pomocą **tablicy priorytetów*
 > [!note]
 > System wybiera najbliższy priorytet z przypisaną wartością od góry (1 → 17).
 
+## Powiązane
+
+- [[Programowanie/PLC/BA2/BACnet_Obiekty|obiekty BACnet]]
