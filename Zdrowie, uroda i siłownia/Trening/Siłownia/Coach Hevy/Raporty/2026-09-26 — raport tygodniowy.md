@@ -61,7 +61,7 @@ Brakuje bieżących pomiarów masy i pasa. Ostatnia historyczna masa to 103,9 kg
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Barki/Barki]] (fragment)
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Brzuch i core/Trening mięśni brzucha i core – hipertrofia i stabilizacja funkcjonalna]] (fragment)
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Klatka piersiowa/Trening mięśni klatki piersiowej – maksymalna hipertrofia]] (fragment)
-- [[Zdrowie, uroda i siłownia/Trening/Siłownia/Lista indeksów]]
+- Dawna lista notatek o treningu siłowym była dostępna podczas sporządzania raportu.
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Nogi/Trening mięśni nóg i pośladków – maksymalna hipertrofia]] (fragment)
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Plecy/Trening mięśni pleców – ukierunkowanie na maksymalną hipertrofię]] (fragment)
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Ramiona/Trening mięśni ramion – hipertrofia]] (fragment)
