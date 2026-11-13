@@ -5,25 +5,16 @@ tags:
 
 # Gotowanie
 
-## Mapa działu
-
-- [[Gotowanie/Lista indeksów|Indeks główny]]
-- [[Przepisy/Lista indeksów|Przepisy]]
-- [[Składniki/Lista indeksów|Składniki]]
-- [[Techniki/Lista indeksów|Techniki]]
-- [[Makro i odżywianie/Lista indeksów|Makro i odżywianie]]
-- [[System tagów|System tagów]]
-
 ## Zasada organizacji
 
 Folder mówi, czym jest notatka.  
-Tag mówi, jak ją później znaleźć.
+Tag mówi, jak ją później znaleźć. Zobacz [[Gotowanie/System tagów|zasady tagowania przepisów]].
 
 ## Główne typy notatek
 
 ### Przepisy
 
-Gotowe potrawy, dania, desery, sałatki, sosy i przekąski.
+Gotowe potrawy, dania, desery, sałatki, sosy i przekąski. Przykład połączenia przepisu z dodatkiem to [[Gotowanie/Przepisy/Obiady/Kura Cebula z kluskami śląskimi|kurczak z kluskami śląskimi]].
 
 ### Składniki
 
@@ -31,11 +22,11 @@ Pojedyncze produkty spożywcze: nabiał, warzywa, owoce, mięso, przyprawy, tłu
 
 ### Techniki
 
-Smażenie, pieczenie, gotowanie, grillowanie, air fryer, marynaty, przechowywanie i narzędzia kuchenne.
+Smażenie, pieczenie, gotowanie, grillowanie, [[Gotowanie/Przepisy/Marynaty/Marynata na grilla|marynaty do grilla]], przechowywanie i [[Gotowanie/Techniki/Narzędzia kuchenne/tarka|narzędzia kuchenne]].
 
 ### Makro i odżywianie
 
-Kalorie, białko, tłuszcze, węglowodany, redukcja, keto i produkty wysokobiałkowe.
+Kalorie, białko, tłuszcze, węglowodany, redukcja, [[Gotowanie/Makro i odżywianie/Keto/Dieta ketogeniczna|keto]] i [[Gotowanie/Makro i odżywianie/Produkty wysokobiałkowe/Kolacje wysokobiałkowe|kolacje wysokobiałkowe]].
 
 ## Kuchnie i diety
 
