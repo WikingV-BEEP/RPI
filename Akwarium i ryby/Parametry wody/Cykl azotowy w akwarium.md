@@ -89,3 +89,7 @@ Cykl uznaje się za stabilny, gdy:
 - NO₂ = 0  
 - pojawia się NO₃  
 - wartości utrzymują się po dodaniu źródła amoniaku.
+
+## Powiązane
+
+- [[Akwarium i ryby/Rośliny akwariowe/Glony i ich kontrola/Lista glonów|glony i ich kontrola]]
