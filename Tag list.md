@@ -112,7 +112,7 @@ Dopuszczalne tagi działów:
 - Nie dublować tej samej informacji w folderze, linku i tagu naraz.
 - Nie tworzyć nowych wariantów literówek w tagach.
 - Nie linkować do folderu, jeśli nie ma w nim notatki indeksowej.
-- Nie używać `[[Lista indeksów]]` bez ścieżki, bo takich plików jest dużo.
+- Przy powtarzających się tytułach używać pełnej ścieżki do notatki.
 
 ## Linkowanie
 
@@ -121,12 +121,12 @@ Linki służą do bytów, pojęć i relacji. Jeśli notatka może mieć własną
 Przykłady dobrych linków:
 
 - `[[Gotowanie/Składniki/Tłuszcze i oleje/Margaryna|margaryny]]`
-- `[[Programowanie/PLC/Lista indeksów|PLC]]`
-- `[[Automatyka i robotyka/Elektryka/Terminologia/Lista indeksów|terminologia elektryczna]]`
+- `[[Programowanie/PLC/BA2/BACnet_Obiekty|obiekty BACnet]]`
+- `[[Automatyka i robotyka/Elektryka/Terminologia/Oznaczenia literowe przewodów – DY, YDY, YKY|oznaczenia przewodów]]`
 
 Przykłady problematyczne:
 
-- `[[Lista indeksów]]`
+- `[[Plan]]` bez ścieżki, gdy istnieje kilka notatek o tym tytule
 - `[[../Makro i odżywianie]]`
 - link do składnika, jeśli taka notatka składnika jeszcze nie istnieje
 
@@ -145,7 +145,7 @@ Wykonane porządki:
 
 - znormalizowano literówki w tagach działu zdrowia i siłowni,
 - utworzono indeksy kategorii przepisów,
-- wybrano kanoniczną lokalizację BA2/BACnet w [[Programowanie/PLC/BA2/Lista indeksów|Programowanie/PLC/BA2]],
+- wybrano kanoniczną lokalizację BA2/BACnet w [[Programowanie/PLC/BA2/BACnet_Obiekty|Programowanie/PLC/BA2]],
 - dodano frontmatter do notatki HMI.Framework,
 - naprawiono globalny indeks i usunięto linki do nieistniejących struktur.
 
@@ -153,7 +153,7 @@ Pozostałe długi:
 
 - znormalizować literówki typu `skadniki`, `posiki`, `sodkie`, `pompa-ciepa`, `materiay`,
 - przejrzeć największe skupiska broken linków: marynaty, kable elektryczne, ryż smakowy,
-- rozstrzygnąć notatki z [[Automatyka i robotyka/Uncategorized/Lista indeksów|Uncategorized]],
+- rozstrzygnąć notatki z [[Automatyka i robotyka/Uncategorized/Porządki w notatkach technicznych|notatki techniczne do uporządkowania]],
 - ograniczyć tagi folderowe tam, gdzie nie pomagają filtrować.
 
 ## Zasada aktualizacji tego pliku
