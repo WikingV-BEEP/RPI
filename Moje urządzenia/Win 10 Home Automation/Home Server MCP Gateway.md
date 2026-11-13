@@ -12,7 +12,6 @@ Połączenie Home Server MCP działa w bieżącym czacie. Wtyczka udostępnia **
 
 Katalog obejmuje teraz także operacje zmieniające dane, wymagające wyraźnego polecenia użytkownika i home:write. Twierdzenia niżej o 22 narzędziach, wyłącznie odczycie, braku połączenia klienta i adapterze tylko do odczytu opisują **pierwotne wdrożenie**, a nie obecny pełny zakres. Aktualnych mountów adaptera, allowlisty i kodu OAuth nie audytowano w tym zadaniu; nie należy wnioskować o ich obecnej konfiguracji z historycznych opisów.
 
-- [[Moje urządzenia/Win 10 Home Automation/Lista indeksów|Indeks aktualnej dokumentacji]]
 - [[Moje urządzenia/Win 10 Home Automation/Migracja RPi na Windows 10|Stan migracji i pozostałe elementy RPi]]
 - [[Moje urządzenia/Win 10 Home Automation/Testy MCP 2026-10-20|Wyniki testów]]
 
@@ -111,3 +110,14 @@ Testy `gateway/test_gateway.py`, fazy initial, refresh, outage i ponownie refres
 - Dwa nowe kontenery bez port bindings, system plików read-only, bez dodatkowych capabilities, no-new-privileges. Brama około 58 MiB, adapter około 40 MiB w bezczynności po testach. vmmem około 3,3 GiB; ustawień pamięci i WSL nie zmieniano.
 
 Pełne powtórzenie: `powershell -NoProfile -ExecutionPolicy Bypass -File .\Test-Gateway.ps1`. Skrypt restartuje wyłącznie bramę, chwilowo zatrzymuje nowy adapter, przywraca go w `finally`, sprawdza powrót wszystkich backendów i usuwa własnego klienta oraz refresh token z bazy. Raport bez sekretów: `target/gateway-tests.log`. Uruchomienie pojedynczej fazy initial tworzy lokalnego klienta OAuth i prywatny plik `target/gateway-test.private.json`, potrzebny do kolejnych faz; samodzielne fazy wymagają potem cleanup. Nie drukować tego pliku. Testy nie potwierdzają jeszcze działania interfejsu ChatGPT ani dostępu spoza LAN.
+
+## Katalog narzędzi MCP
+
+- [[Moje urządzenia/Win 10 Home Automation/MCP Fitatu|Fitatu — 19 narzędzi]]
+- [[Moje urządzenia/Win 10 Home Automation/MCP Hevy Coach|Hevy Coach — 5 narzędzi]]
+- [[Moje urządzenia/Win 10 Home Automation/MCP MQTT i Tuya|MQTT i Tuya — 5 narzędzi]]
+- [[Moje urządzenia/Win 10 Home Automation/MCP Obsidian|Obsidian — 13 narzędzi]]
+
+Łącznie 42 narzędzia widoczne we wtyczce według zestawienia z 20.10.2026. Operacje zapisu i sterowania wymagają zgody użytkownika oraz home:write.
+
+Historia poprzedniego hosta jest w [[Moje urządzenia/Raspberry PI 3B+/System/Metryczka urządzenia|metryczce Raspberry Pi]].
