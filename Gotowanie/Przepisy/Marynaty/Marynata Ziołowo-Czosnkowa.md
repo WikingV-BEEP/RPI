@@ -28,3 +28,7 @@ Idealna do pieczonej [[szynka|szynki]], nadaje mięsu aromat rozmarynu, czosnku 
 ## Uwagi
 - [[rozmaryn|Rozmaryn]] najlepiej rozetrzeć w dłoniach przed dodaniem.
 - Można dodać szczyptę [[chili|chili]] dla ostrości.
+
+## Powiązane
+
+- [[Gotowanie/Przepisy/Marynaty/Marynata Miodowo-Musztardowa|marynata miodowo-musztardowa]]
