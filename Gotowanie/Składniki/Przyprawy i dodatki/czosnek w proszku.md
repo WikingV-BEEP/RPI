@@ -5,3 +5,7 @@ tags:
 ---
 
 Czosnek w proszku to suszona przyprawa używana do marynat, mieszanek przypraw, sosów i dań wytrawnych.
+
+## Powiązane
+
+- [[Gotowanie/Składniki/Owoce i warzywa/czosnek|świeży czosnek]]
