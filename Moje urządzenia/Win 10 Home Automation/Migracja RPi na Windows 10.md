@@ -53,3 +53,7 @@ Przy końcu migracji odnotowano 11 kontenerów głównego stosu; następnie bram
 - Czat „Przygotuj migrację usług z RPi (2)” — końcowe wyniki migracji i zakres wyłączeń, odczytany 20.10.2026.
 - [[Moje urządzenia/Win 10 Home Automation/Testy MCP 2026-10-20]] — testy z aktualnego połączenia.
 - [[Moje urządzenia/Raspberry PI 3B+/Docker i kontenery/Uruchomione kontenery i role]] — historyczna mapa stosu RPi.
+
+## Poprzedni host
+
+[[Moje urządzenia/Raspberry PI 3B+/System/Metryczka urządzenia|Konfiguracja Raspberry Pi przed migracją]].
