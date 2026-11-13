@@ -28,3 +28,7 @@ tags:
 
 > [!note]
 > Warto mierzyć koszulki przed zakupem – rozmiary różnią się zależnie od producenta i kroju (slim/regular/oversize).
+
+## Powiązane
+
+- [[Moda i styl/Ubrania/Dopasowanie ubrań|dopasowanie ubrań]]
