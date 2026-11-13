@@ -45,3 +45,7 @@ tags:
 - [[porzeczka|Porzeczki]] mogą owocować nawet 15–20 lat  
 - Czerwone odmiany są bardziej kwaśne niż czarne  
 - Przyciągają [[owady zapylające|zapylacze]] i poprawiają bioróżnorodność ogrodu
+
+## Powiązane
+
+- [[Ogrodnictwo/Rodzaje roślin/Owoce/Owoce jagodowe/Porzeczka czarna|porzeczka czarna]]
