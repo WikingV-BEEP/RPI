@@ -14,6 +14,4 @@ Ta notatka jest przekierowaniem po scaleniu duplikatów BA2/BACnet.
 
 Kanoniczna wersja: [[Programowanie/PLC/BA2/Przykład implementacji zagnieżdżenia|Przykład implementacji zagnieżdżenia]]
 
-Indeks kanoniczny: [[Programowanie/PLC/BA2/Lista indeksów|BA2]]
-
 Nie rozwijaj tej kopii; nowe treści dopisuj w lokalizacji kanonicznej.
