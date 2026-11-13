@@ -38,3 +38,8 @@ Oznaczenia literowe w nazwach przewodów opisują **budowę żył**, **rodzaj iz
 
 > [!note]
 > Kolejność liter odpowiada kolejno: **żyłom**, **izolacji**, **powłoce wewnętrznej**, **powłoce zewnętrznej**.
+
+## Powiązane
+
+- [[Automatyka i robotyka/Elektryka/Rodzaje kabli/Różnica DY a YDY|porównanie przewodów DY i YDY]]
+- [[Automatyka i robotyka/Elektryka/Rodzaje kabli/Różnica YKY a YDY|porównanie kabli YKY i YDY]]
