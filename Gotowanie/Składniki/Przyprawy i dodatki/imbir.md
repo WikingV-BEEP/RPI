@@ -25,3 +25,7 @@ Imbir to aromatyczne kłącze używane jako przyprawa w daniach wytrawnych, dese
 ## Uwagi praktyczne
 
 Świeży imbir ma mocniejszy i bardziej cytrusowy aromat niż mielony. Najłatwiej obrać go łyżeczką, zeskrobując cienką skórkę.
+
+## Powiązane
+
+- [[Gotowanie/Składniki/Przyprawy i dodatki/imbir mielony|imbir mielony]]
