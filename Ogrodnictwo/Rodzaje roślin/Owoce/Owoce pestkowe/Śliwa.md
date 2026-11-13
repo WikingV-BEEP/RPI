@@ -49,3 +49,7 @@ tags:
 - [[śliwa|Śliwa]] była uprawiana już w starożytności  
 - Niektóre odmiany są samopylne, inne wymagają zapylacza  
 - Suszone [[śliwki|śliwki]] zawierają dużo błonnika i są naturalnym środkiem przeczyszczającym
+
+## Powiązane
+
+- [[Ogrodnictwo/Rodzaje roślin/Owoce/Owoce pestkowe/Śliwa_węgierka|śliwa węgierka]]
