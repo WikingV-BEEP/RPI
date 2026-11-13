@@ -15,3 +15,7 @@ Czosnek to aromatyczny składnik używany do sosów, marynat, zup, mięs, warzyw
 
 ## Uwagi
 Najlepiej dodawać go ostrożnie, bo ma intensywny smak i łatwo dominuje potrawę.
+
+## Powiązane
+
+- [[Gotowanie/Składniki/Przyprawy i dodatki/czosnek w proszku|czosnek w proszku]]
