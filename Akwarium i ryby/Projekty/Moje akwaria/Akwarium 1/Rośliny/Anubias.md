@@ -50,3 +50,7 @@ Rozmnażanie polega na **podziale kłącza** – każda część powinna mieć k
 - **glony na liściach** przy zbyt mocnym świetle  
 - **gnicie kłącza** po zakopaniu w podłożu  
 - bardzo **wolny wzrost** – cecha naturalna
+
+## Powiązane
+
+- [[Akwarium i ryby/Rośliny akwariowe/Rośliny łatwe|łatwe rośliny akwariowe]]
