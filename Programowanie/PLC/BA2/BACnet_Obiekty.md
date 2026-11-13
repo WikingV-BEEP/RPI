@@ -66,3 +66,7 @@ tags:
 | Program            | Allows a program to start, stop, load, etc., and read its status            |
 | Schedule           | Defines weekly operations; integrates with Calendar                         |
 
+## Powiązane
+
+- [[Programowanie/PLC/BA2/BACnet_AO_Properties|właściwości obiektu Analog Output]]
+- [[Programowanie/PLC/BA2/BACnet_Command_Control|sterowanie poleceniami BACnet]]
