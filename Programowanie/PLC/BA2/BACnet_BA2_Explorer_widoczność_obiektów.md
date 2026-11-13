@@ -72,3 +72,6 @@ tags:
 > [!tip]
 > Jeśli obiekt nie pojawia się w `Site Explorer`, sprawdź czy jest zdefiniowany w `FB_BA_View`, ma przypisany `iParent`, oraz czy znajduje się wewnątrz struktury `DPAD`.
 
+## Powiązane
+
+- [[Programowanie/PLC/BA2/Zasady_budowy_drzewa_BA_View|zasady budowy drzewa BA View]]
