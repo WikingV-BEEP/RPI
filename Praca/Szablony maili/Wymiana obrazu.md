@@ -1,7 +1,7 @@
 ---
 tags:
   - praca
-  - praca/templatki-maili
+  - praca/szablony-maili
 ---
 W celu zresetowania sterownika do ustawień fabrycznych należy wymienić obraz systemu.
 
@@ -21,3 +21,7 @@ W celu wymiany obrazu należy:
 Pierwsze uruchomienie nowego obrazu sterownika może potrwać dodatkowe parę sekund. Poprawnie uruchomiony nowy obraz powinien przełączyć diodę Power oraz TC na zielono.
 
 Gdyby miał Pan jakieś pytania, proszę o kontakt.
+
+## Powiązane
+
+- [[Praca/Biuro i narzędzia/Beckhoff TV Quick Support|zdalne wsparcie Beckhoff]]

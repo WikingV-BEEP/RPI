@@ -1,5 +1,12 @@
+---
+tags:
+  - praca
+  - pompa-ciepla
+  - modbus-tcp
+---
+
 Aplikacja składa się z : 
-1. Pompy ciepła po modbus TCP
+1. Pompy ciepła po [[Praca/Projekty/Pompa ciepła/Rejestry pompy ciepła|Modbus TCP]]
 2. Zaworu
 3. 2 czujników temperatury monitorujących jaka temperatura wchodzi oraz wraca z instalacji 
 4. Systemu pomiaru prądowego

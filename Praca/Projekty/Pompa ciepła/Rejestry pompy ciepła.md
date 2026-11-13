@@ -1,9 +1,9 @@
 ---
 tags:
   - praca
-  - praca/zlecenia
-  - praca/zlecenia/pompa-ciepa
-  - praca/zlecenia/pompa-ciepla
+  - praca/projekty
+  - pompa-ciepla
+  - modbus-tcp
 ---
 
 | Reg ID | Typ      | Value 1 | Value 2 | Opis 1                                                                                                                                                                 | Opis 2                    | Opis 3                                 |
@@ -90,3 +90,7 @@ tags:
 | 80     |          |         |         |                                                                                                                                                                        |                           |                                        |
 | 81     | int      |         |         | electrical power                                                                                                                                                       |                           |                                        |
 | 82     |          |         |         |                                                                                                                                                                        |                           |                                        |
+
+## Powiązane
+
+- [[Praca/Projekty/Pompa ciepła/Wymagania integracji pompy ciepła|wymagania integracji pompy ciepła]]
