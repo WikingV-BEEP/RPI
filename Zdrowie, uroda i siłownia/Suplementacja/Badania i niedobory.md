@@ -49,3 +49,7 @@ Kontrola parametrów, które decydują o sensie suplementacji. Ta notatka ma ogr
 - Patrzeć na trend, objawy i realne działanie.
 - Przy niedoborach najpierw badanie, potem decyzja o dawce.
 - Suplementacja nie zastępuje snu, jedzenia i treningu.
+
+## Powiązane
+
+- [[Zdrowie, uroda i siłownia/Suplementacja/Ocena skuteczności suplementów|ocena skuteczności suplementów]]
