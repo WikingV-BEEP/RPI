@@ -24,7 +24,7 @@ Brak automatycznych zmian programu. Nie wyciągaj wniosków o aktualnej rekompoz
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Jeff Nippard - ULRPPLR/04 Pull/Plan]]
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Jeff Nippard - ULRPPLR/05 Legs/Plan]]
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Klatka piersiowa/Trening mięśni klatki piersiowej – maksymalna hipertrofia]] (fragment)
-- [[Zdrowie, uroda i siłownia/Trening/Siłownia/Lista indeksów]]
+- Dawna lista notatek o treningu siłowym była dostępna podczas sporządzania raportu.
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Nogi/Trening mięśni nóg i pośladków – maksymalna hipertrofia]] (fragment)
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Plecy/Trening mięśni pleców – ukierunkowanie na maksymalną hipertrofię]] (fragment)
 - [[Zdrowie, uroda i siłownia/Trening/Siłownia/Ramiona/Trening mięśni ramion – hipertrofia]] (fragment)
