@@ -122,3 +122,7 @@ Porcje są podane jako baza na małą porcję mięsa, około 2-3 kawałki. Wymie
 - Do [[wołowina|wołowiny]] najlepiej pasują: Balsamic Herb, Garlic Herb, Montreal Style, Chipotle Lime.
 - Przy marynatach z [[miód|miodem]] albo [[sos sweet chili|sosem sweet chili]] smaż na średnim ogniu, bo cukier szybko się przypala.
 - Przy pieczeniu albo grillu usuń nadmiar marynaty z powierzchni mięsa, żeby składniki nie paliły się zbyt szybko.
+
+## Powiązane
+
+- [[Gotowanie/Przepisy/Marynaty/Marynaty do kurczaka|marynaty do kurczaka]]
