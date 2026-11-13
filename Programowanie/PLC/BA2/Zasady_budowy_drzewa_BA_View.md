@@ -60,3 +60,7 @@ Agg1 : FB_BA_View := (
     ...
 );
 ```
+
+## Powiązane
+
+- [[Programowanie/PLC/BA2/BACnet_BA2_Explorer_widoczność_obiektów|widoczność obiektów w BA2 Explorer]]
