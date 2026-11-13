@@ -22,3 +22,7 @@ Sok z cytryny to kwaśny składnik używany do doprawiania, marynowania, zakwasz
 
 ## Uwagi praktyczne
 Sok z cytryny najlepiej dodawać stopniowo, bo szybko dominuje smak potrawy. Świeżo wyciśnięty ma pełniejszy aromat niż gotowy sok z butelki.
+
+## Powiązane
+
+- [[Gotowanie/Składniki/Owoce i warzywa/skórka z cytryny|skórka z cytryny]]
