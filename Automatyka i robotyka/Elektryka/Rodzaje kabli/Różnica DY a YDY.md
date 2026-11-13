@@ -19,3 +19,7 @@ tags:
 
 > [!note]
 > [[YDY|YDY]] zawiera komplet żył (np. L + N + PE), natomiast [[DY|DY]] to pojedynczy przewód – trzeba samodzielnie dobrać i połączyć fazę, neutralny i ochronny.
+
+## Powiązane
+
+- [[Automatyka i robotyka/Elektryka/Terminologia/Oznaczenia literowe przewodów – DY, YDY, YKY|oznaczenia przewodów DY, YDY i YKY]]
