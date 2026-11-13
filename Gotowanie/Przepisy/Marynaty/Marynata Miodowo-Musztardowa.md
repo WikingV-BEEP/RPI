@@ -27,3 +27,7 @@ Nadaje [[szynka|szynce]] delikatnie karmelizowaną skórkę i soczyste wnętrze.
 ## Uwagi
 - Najlepiej sprawdza się [[musztarda|musztarda sarepska lub delikatesowa]].
 - Można dodać szczyptę [[tymianek|tymianu]] lub [[rozmaryn|rozmarynu]].
+
+## Powiązane
+
+- [[Gotowanie/Przepisy/Marynaty/Marynata Ziołowo-Czosnkowa|marynata ziołowo-czosnkowa]]
