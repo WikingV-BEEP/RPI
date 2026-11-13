@@ -33,3 +33,7 @@ tags:
 
 > [!note]
 > Spodnie często wymagają przymiarki – różnice w kroju są szczególnie duże w okolicach ud, pasa i kroku.
+
+## Powiązane
+
+- [[Moda i styl/Ubrania/Dopasowanie ubrań|dopasowanie ubrań]]
