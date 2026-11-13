@@ -21,3 +21,7 @@ tags:
 
 > [!summary]
 > [[YKY|YKY]] nadaje się do zasilania w ziemi i na zewnątrz. [[YDY|YDY]] stosuje się tylko w warunkach wewnętrznych – nie jest odporny na promieniowanie UV ani wilgoć.
+
+## Powiązane
+
+- [[Automatyka i robotyka/Elektryka/Terminologia/Oznaczenia literowe przewodów – DY, YDY, YKY|oznaczenia przewodów DY, YDY i YKY]]
