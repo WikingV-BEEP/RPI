@@ -12,7 +12,7 @@ tags:
 
 Ten dział dotyczy medycyny estetycznej: anatomii zabiegowej, zabiegów, preparatów, powikłań, prawa i etyki.
 
-Choroby skóry, trądzik i leki dermatologiczne są w osobnym dziale: [[Medycyna/Dermatologia/Lista indeksów|Dermatologia]].
+Choroby skóry, trądzik i leki dermatologiczne są w osobnym dziale: [[Medycyna/Dermatologia/Choroby skóry/Popularne choroby skóry twarzy|choroby skóry twarzy]].
 
 ## Główne obszary planowane
 
@@ -24,7 +24,7 @@ Choroby skóry, trądzik i leki dermatologiczne są w osobnym dziale: [[Medycyna
 | powikłania | folder istnieje, brak notatek |
 | prawo i etyka | folder istnieje, brak notatek |
 
-Nie linkować do tych folderów, dopóki nie powstaną w nich realne notatki albo lokalne pliki `Lista indeksów.md`.
+Linki prowadzą do notatek opisujących poszczególne zagadnienia.
 
 ## Anatomia twarzy i skóry
 
