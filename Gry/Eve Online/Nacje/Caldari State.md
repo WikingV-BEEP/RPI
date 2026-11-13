@@ -16,3 +16,7 @@ Caldari State to jedna z głównych frakcji w [[Eve Online]], oparta na kulturze
 
 ## Znaczenie w grze
 Frakcja jest ważna dla misji, reputacji, ekonomii oraz wyboru statków i stylu walki. W notatkach może służyć jako punkt odniesienia dla systemów, miejsc i aktywności w przestrzeni Caldari.
+
+## Powiązane
+
+- [[Gry/Eve Online/Miejsca/Akainavas|system Akainavas]]
